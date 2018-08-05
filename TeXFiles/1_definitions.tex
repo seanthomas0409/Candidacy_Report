@@ -1,1 +1,26 @@
+%%%%%%%%%%%%%%%%%%%% Color definitions %%%%%%%%%%%%%%%%%%%%%
+
 \definecolor{aaublue}{RGB}{33,26,82}
+
+\definecolor{tableHeader}{RGB}{211, 47, 47}
+\definecolor{tableLineOne}{RGB}{245, 245, 245}
+\definecolor{tableLineTwo}{RGB}{224, 224, 224}
+
+\definecolor{bulletColor}{HTML}{323642}
+
+
+%%%%%%%%%%%%%%%%%%%% New Commands %%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\tableHeaderStyle}{
+    \rowfont{\leavevmode\color{white}\bfseries}
+    \rowcolor{tableHeader}
+}
+\newcommand{\degree}{$^\circ$}
+
+% Black square bullets within lists
+\newcommand{\localtextbulletone}{\textcolor{bulletColor}{\raisebox{.2ex}{\rule{1.0ex}{1.0ex}}}}
+\renewcommand{\labelitemi}{\localtextbulletone}
+
+% Table style definition
+\taburowcolors[2] 2{tableLineOne .. tableLineTwo}
+\tabulinesep = ^2mm_1mm
+\everyrow{\tabucline[.4mm  white]{}}

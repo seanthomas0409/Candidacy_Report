@@ -73,7 +73,7 @@ options:
     2.9\miktex\bin\x64;%ProgramFiles(x86)%\MiKTeX 2.9\miktex\bin;$PATH
 files:
   dicy-instance.yaml-ParsedYAML:
-    timeStamp: 2018-08-05T15:21:01.594Z
+    timeStamp: 2018-08-05T17:01:17.913Z
     jobNames: []
     value:
       severity: info
@@ -134,7 +134,7 @@ files:
         2.9\miktex\bin\x64;%ProgramFiles(x86)%\MiKTeX 2.9\miktex\bin;$PATH
     type: ParsedYAML
   Candidacy_ST_RevA.tex:
-    timeStamp: 2018-08-05T10:54:23.343Z
+    timeStamp: 2018-08-05T18:37:47.809Z
     jobNames: []
     hash: Lukuvn89G4FGrR5UCSAnbeFbSiQ+rx/9nfgd1nQ66O4=
     type: LaTeX
@@ -143,7 +143,7 @@ files:
     jobNames: []
     type: Nil
   Candidacy_ST_RevA.fls-ParsedFileListing:
-    timeStamp: 2018-08-05T10:56:41.768Z
+    timeStamp: 2018-08-05T18:40:21.224Z
     jobNames: []
     value:
       messages: []
@@ -152,9 +152,7 @@ files:
         - 'C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\palatino\pplb8r.tfm'
         - 'C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\palatino\pplb9t.tfm'
         - 'C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\palatino\pplr8r.tfm'
-        - 'C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\palatino\pplr9c.tfm'
         - 'C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\palatino\pplr9t.tfm'
-        - 'C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\palatino\pplrc8r.tfm'
         - 'C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\palatino\pplri8r.tfm'
         - 'C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\palatino\pplri9t.tfm'
         - 'C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm'
@@ -168,7 +166,6 @@ files:
         - 'C:\Program Files\MiKTeX 2.9\fonts\type1\urw\palatino\uplr8a.pfb'
         - 'C:\Program Files\MiKTeX 2.9\fonts\type1\urw\palatino\uplri8a.pfb'
         - 'C:\Program Files\MiKTeX 2.9\fonts\vf\adobe\palatino\pplb9t.vf'
-        - 'C:\Program Files\MiKTeX 2.9\fonts\vf\adobe\palatino\pplr9c.vf'
         - 'C:\Program Files\MiKTeX 2.9\fonts\vf\adobe\palatino\pplr9t.vf'
         - 'C:\Program Files\MiKTeX 2.9\fonts\vf\adobe\palatino\pplri9t.vf'
         - 'C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty'
@@ -205,6 +202,7 @@ files:
         - 'C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty'
         - 'C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty'
         - 'C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def'
+        - 'C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\varwidth.sty'
         - 'C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty'
         - 'C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\atveryend.sty'
         - 'C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty'
@@ -213,11 +211,15 @@ files:
         - 'C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty'
         - 'C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty'
         - 'C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\mathpazo.sty'
+        - 'C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlzplm.fd'
+        - 'C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omszplm.fd'
+        - 'C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxzplm.fd'
         - 'C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pplx.fd'
-        - 'C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ts1pplx.fd'
+        - 'C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1zplm.fd'
         - 'C:\Program Files\MiKTeX 2.9\tex\latex\pstricks\pstricks.sty'
         - 'C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty'
         - 'C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty'
+        - 'C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty'
         - 'C:\Program Files\MiKTeX 2.9\tex\latex\tools\shellesc.sty'
         - 'C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\pst-xkey.sty'
         - 'C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty'
@@ -230,6 +232,14 @@ files:
           C:\Users\seant\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\mathpazo\fplmr.tfm
         - >-
           C:\Users\seant\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\mathpazo\fplmri.tfm
+        - >-
+          C:\Users\seant\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\mathpazo\zplmr7m.tfm
+        - >-
+          C:\Users\seant\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\mathpazo\zplmr7t.tfm
+        - >-
+          C:\Users\seant\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\mathpazo\zplmr7v.tfm
+        - >-
+          C:\Users\seant\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\mathpazo\zplmr7y.tfm
         - >-
           C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
         - >-
@@ -493,6 +503,10 @@ files:
         - >-
           C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
         - >-
+          C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\ltcaption.sty
+        - >-
+          C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\colortbl\colortbl.sty
+        - >-
           C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\comment\comment.sty
         - >-
           C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\enumitem\enumitem.sty
@@ -558,6 +572,7 @@ files:
           C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\subfigure\subfigure.cfg
         - >-
           C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\subfigure\subfigure.sty
+        - 'C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\tabu\tabu.sty'
         - 'C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty'
         - >-
           C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\wrapfig\wrapfig.sty
@@ -583,7 +598,7 @@ files:
       calls: []
     type: ParsedFileListing
   Candidacy_ST_RevA.log-ParsedLaTeXLog:
-    timeStamp: 2018-08-05T13:23:54.131Z
+    timeStamp: 2018-08-05T18:40:21.204Z
     jobNames: []
     value:
       messages:
@@ -2771,6 +2786,27 @@ files:
             range:
               start: 568
               end: 568
+        - name: pdfTeX
+          severity: info
+          text: colortbl 2018/05/02 v1.0c Color table columns (DPC)
+          source:
+            file: >-
+              C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\colortbl\colortbl.sty
+          log:
+            file: Candidacy_ST_RevA.log
+            range:
+              start: 570
+              end: 570
+        - name: pdfTeX
+          severity: info
+          text: array 2016/10/06 v2.4d Tabular extension package (FMi)
+          source:
+            file: 'C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty'
+          log:
+            file: Candidacy_ST_RevA.log
+            range:
+              start: 572
+              end: 572
         - severity: info
           name: pdfTeX
           category: Package xcolor
@@ -2784,8 +2820,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 569
-              end: 569
+              start: 583
+              end: 583
         - severity: info
           name: pdfTeX
           category: Package xcolor
@@ -2799,8 +2835,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 570
-              end: 570
+              start: 584
+              end: 584
         - severity: info
           name: pdfTeX
           category: Package xcolor
@@ -2814,8 +2850,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 571
-              end: 571
+              start: 585
+              end: 585
         - severity: info
           name: pdfTeX
           category: Package xcolor
@@ -2829,8 +2865,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 572
-              end: 572
+              start: 586
+              end: 586
         - severity: info
           name: pdfTeX
           category: Package xcolor
@@ -2844,8 +2880,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 573
-              end: 573
+              start: 587
+              end: 587
         - severity: info
           name: pdfTeX
           category: Package xcolor
@@ -2859,8 +2895,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 574
-              end: 574
+              start: 588
+              end: 588
         - severity: info
           name: pdfTeX
           category: Package xcolor
@@ -2874,8 +2910,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 575
-              end: 575
+              start: 589
+              end: 589
         - severity: info
           name: pdfTeX
           category: Package xcolor
@@ -2889,8 +2925,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 576
-              end: 576
+              start: 590
+              end: 590
         - severity: info
           name: pdfTeX
           category: Package xcolor
@@ -2904,8 +2940,38 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 577
-              end: 577
+              start: 591
+              end: 591
+        - name: pdfTeX
+          severity: info
+          text: tabu 2011/02/26 v2.8 - flexible LaTeX tabulars (FC)
+          source:
+            file: 'C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\tabu\tabu.sty'
+          log:
+            file: Candidacy_ST_RevA.log
+            range:
+              start: 595
+              end: 595
+        - name: pdfTeX
+          severity: info
+          text: varwidth 2009/03/30 ver 0.92; Variable-width minipages
+          source:
+            file: 'C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\varwidth.sty'
+          log:
+            file: Candidacy_ST_RevA.log
+            range:
+              start: 597
+              end: 597
+        - name: pdfTeX
+          severity: info
+          text: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+          source:
+            file: 'C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty'
+          log:
+            file: Candidacy_ST_RevA.log
+            range:
+              start: 626
+              end: 626
         - name: pdfTeX
           severity: info
           text: caption 2018/05/01 v3.3-147 Customizing captions (AR)
@@ -2915,8 +2981,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 581
-              end: 581
+              start: 643
+              end: 643
         - name: pdfTeX
           severity: info
           text: caption3 2018/05/27 v1.8a caption3 kernel (AR)
@@ -2926,8 +2992,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 583
-              end: 583
+              start: 645
+              end: 645
         - severity: info
           name: pdfTeX
           category: Package caption3
@@ -2941,8 +3007,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 584
-              end: 584
+              start: 646
+              end: 646
         - severity: info
           name: pdfTeX
           category: Package caption
@@ -2953,8 +3019,31 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 594
-              end: 594
+              start: 656
+              end: 656
+        - severity: info
+          name: pdfTeX
+          category: Package caption
+          text: longtable package is loaded.
+          source:
+            file: >-
+              C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+          log:
+            file: Candidacy_ST_RevA.log
+            range:
+              start: 657
+              end: 657
+        - name: pdfTeX
+          severity: info
+          text: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
+          source:
+            file: >-
+              C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\ltcaption.sty
+          log:
+            file: Candidacy_ST_RevA.log
+            range:
+              start: 659
+              end: 659
         - severity: info
           name: pdfTeX
           category: Package caption
@@ -2965,8 +3054,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 595
-              end: 595
+              start: 661
+              end: 661
         - severity: info
           name: pdfTeX
           category: Package caption
@@ -2977,18 +3066,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 596
-              end: 596
-        - name: pdfTeX
-          severity: info
-          text: array 2016/10/06 v2.4d Tabular extension package (FMi)
-          source:
-            file: 'C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty'
-          log:
-            file: Candidacy_ST_RevA.log
-            range:
-              start: 598
-              end: 598
+              start: 662
+              end: 662
         - name: pdfTeX
           severity: info
           text: booktabs 2005/04/14 v1.61803 publication quality tables
@@ -2998,8 +3077,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 605
-              end: 605
+              start: 664
+              end: 664
         - name: pdfTeX
           severity: info
           text: 'framed 2011/10/22 v 0.96: framed or shaded text with page breaks'
@@ -3009,8 +3088,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 624
-              end: 624
+              start: 683
+              end: 683
         - name: pdfTeX
           severity: info
           text: pgfplots 2018/03/28 v1.16 Data Visualization (1.16)
@@ -3020,8 +3099,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 633
-              end: 633
+              start: 692
+              end: 692
         - name: pdfTeX
           severity: info
           text: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
@@ -3031,8 +3110,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 650
-              end: 650
+              start: 709
+              end: 709
         - name: pdfTeX
           severity: info
           text: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
@@ -3042,8 +3121,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 654
-              end: 654
+              start: 713
+              end: 713
         - name: pdfTeX
           severity: info
           text: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
@@ -3053,8 +3132,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 656
-              end: 656
+              start: 715
+              end: 715
         - name: pdfTeX
           severity: info
           text: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
@@ -3064,8 +3143,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 664
-              end: 664
+              start: 723
+              end: 723
         - name: pdfTeX
           severity: info
           text: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
@@ -3075,8 +3154,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 717
-              end: 717
+              start: 776
+              end: 776
         - name: pdfTeX
           severity: info
           text: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
@@ -3086,8 +3165,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 861
-              end: 861
+              start: 920
+              end: 920
         - name: pdfTeX
           severity: info
           text: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
@@ -3097,8 +3176,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 867
-              end: 867
+              start: 926
+              end: 926
         - name: pdfTeX
           severity: info
           text: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
@@ -3108,8 +3187,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 878
-              end: 878
+              start: 937
+              end: 937
         - name: pdfTeX
           severity: info
           text: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
@@ -3119,8 +3198,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 889
-              end: 889
+              start: 948
+              end: 948
         - name: pdfTeX
           severity: info
           text: 'pstricks 2018/01/06 v0.67 LaTeX wrapper for `PSTricks'' (RN,HV)'
@@ -3129,8 +3208,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1067
-              end: 1067
+              start: 1126
+              end: 1126
         - name: pdfTeX
           severity: info
           text: >-
@@ -3142,8 +3221,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1069
-              end: 1070
+              start: 1128
+              end: 1129
         - name: pdfTeX
           severity: info
           text: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
@@ -3152,8 +3231,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1072
-              end: 1072
+              start: 1131
+              end: 1131
         - severity: info
           name: pdfTeX
           category: Package shellesc
@@ -3166,8 +3245,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1073
-              end: 1073
+              start: 1132
+              end: 1132
         - name: pdfTeX
           severity: info
           text: xkeyval 2014/12/03 v2.7a package option processing (HA)
@@ -3176,8 +3255,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1077
-              end: 1077
+              start: 1136
+              end: 1136
         - name: pdfTeX
           severity: info
           text: pst-plot 2011/06/05 v1.00 LaTeX wrapper for `pst-plot' (HV)
@@ -3187,8 +3266,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1168
-              end: 1168
+              start: 1227
+              end: 1227
         - name: pdfTeX
           severity: info
           text: pst-xkey 2005/11/25 v1.6 package wrapper for pst-xkey.tex (HA)
@@ -3197,8 +3276,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1170
-              end: 1170
+              start: 1229
+              end: 1229
         - name: pdfTeX
           severity: info
           text: >-
@@ -3210,8 +3289,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1172
-              end: 1173
+              start: 1231
+              end: 1232
         - name: pdfTeX
           severity: info
           text: pst-plot 2011/04/13 package wrapper for pst-plot.tex (hv)
@@ -3221,8 +3300,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1182
-              end: 1182
+              start: 1241
+              end: 1241
         - name: pdfTeX
           severity: info
           text: psfrag 1998/04/11 v3.04 PSfrag (MCG)
@@ -3232,8 +3311,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1239
-              end: 1239
+              start: 1298
+              end: 1298
         - name: pdfTeX
           severity: info
           text: pgfgantt 2018/01/10 v5.0 Draw Gantt diagrams with TikZ
@@ -3243,8 +3322,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1325
-              end: 1325
+              start: 1384
+              end: 1384
         - name: pdfTeX
           severity: info
           text: enumitem 2011/09/28 v3.5.2 Customized lists
@@ -3254,8 +3333,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1373
-              end: 1373
+              start: 1432
+              end: 1432
         - severity: info
           name: pdfTeX
           category: LaTeX Font
@@ -3268,8 +3347,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1383
-              end: 1384
+              start: 1442
+              end: 1443
         - severity: info
           name: pdfTeX
           category: LaTeX Font
@@ -3282,8 +3361,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1385
-              end: 1386
+              start: 1444
+              end: 1445
         - severity: info
           name: pdfTeX
           category: LaTeX Font
@@ -3296,8 +3375,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1387
-              end: 1388
+              start: 1446
+              end: 1447
         - severity: info
           name: pdfTeX
           category: LaTeX Font
@@ -3310,8 +3389,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1389
-              end: 1390
+              start: 1448
+              end: 1449
         - severity: info
           name: pdfTeX
           category: LaTeX Font
@@ -3324,8 +3403,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1391
-              end: 1392
+              start: 1450
+              end: 1451
         - severity: info
           name: pdfTeX
           category: LaTeX Font
@@ -3338,8 +3417,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1393
-              end: 1394
+              start: 1452
+              end: 1453
         - severity: info
           name: pdfTeX
           category: LaTeX Font
@@ -3352,8 +3431,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1395
-              end: 1396
+              start: 1454
+              end: 1455
         - severity: info
           name: pdfTeX
           category: LaTeX Font
@@ -3366,8 +3445,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1397
-              end: 1397
+              start: 1456
+              end: 1456
         - severity: info
           name: pdfTeX
           category: LaTeX Font
@@ -3380,8 +3459,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1398
-              end: 1402
+              start: 1457
+              end: 1461
         - severity: info
           name: pdfTeX
           category: LaTeX Font
@@ -3394,8 +3473,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1403
-              end: 1403
+              start: 1462
+              end: 1462
         - severity: info
           name: pdfTeX
           category: Package hyperref
@@ -3408,8 +3487,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1408
-              end: 1408
+              start: 1467
+              end: 1467
         - name: pdfTeX
           severity: info
           text: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -3418,8 +3497,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1410
-              end: 1410
+              start: 1469
+              end: 1469
         - name: pdfTeX
           severity: info
           text: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
@@ -3430,8 +3509,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1412
-              end: 1412
+              start: 1471
+              end: 1471
         - severity: info
           name: pdfTeX
           category: LaTeX
@@ -3444,8 +3523,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1416
-              end: 1416
+              start: 1475
+              end: 1475
         - severity: info
           name: pdfTeX
           category: LaTeX
@@ -3458,8 +3537,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1417
-              end: 1417
+              start: 1476
+              end: 1476
         - severity: info
           name: pdfTeX
           category: LaTeX
@@ -3472,8 +3551,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1418
-              end: 1418
+              start: 1477
+              end: 1477
         - name: pdfTeX
           severity: info
           text: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -3482,8 +3561,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1438
-              end: 1438
+              start: 1497
+              end: 1497
         - name: pdfTeX
           severity: info
           text: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
@@ -3492,8 +3571,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1440
-              end: 1440
+              start: 1499
+              end: 1499
         - severity: info
           name: pdfTeX
           category: Package epstopdf-base
@@ -3506,8 +3585,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1442
-              end: 1443
+              start: 1501
+              end: 1502
         - severity: info
           name: pdfTeX
           category: Package grfext
@@ -3523,8 +3602,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1444
-              end: 1447
+              start: 1503
+              end: 1506
         - severity: info
           name: pdfTeX
           category: Package caption
@@ -3534,8 +3613,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1449
-              end: 1449
+              start: 1508
+              end: 1508
         - severity: info
           name: pdfTeX
           category: Package caption
@@ -3545,8 +3624,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1450
-              end: 1450
+              start: 1509
+              end: 1509
         - severity: info
           name: pdfTeX
           category: LaTeX Font
@@ -3561,8 +3640,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1455
-              end: 1456
+              start: 1514
+              end: 1515
         - severity: info
           name: pdfTeX
           category: LaTeX Font
@@ -3577,8 +3656,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1458
-              end: 1459
+              start: 1517
+              end: 1518
         - severity: info
           name: pdfTeX
           category: LaTeX Font
@@ -3593,22 +3672,64 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1467
-              end: 1468
+              start: 1526
+              end: 1527
         - severity: info
           name: pdfTeX
           category: LaTeX Font
-          text: Try loading font information for TS1+pplx
+          text: Try loading font information for OML+zplm
           source:
-            file: sections\4_state_of_the_art.tex
+            file: Sections\3_research_motivation.tex
             range:
-              start: 11
-              end: 11
+              start: 33
+              end: 33
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1499
-              end: 1499
+              start: 1557
+              end: 1557
+        - severity: info
+          name: pdfTeX
+          category: LaTeX Font
+          text: Try loading font information for OMS+zplm
+          source:
+            file: Sections\3_research_motivation.tex
+            range:
+              start: 33
+              end: 33
+          log:
+            file: Candidacy_ST_RevA.log
+            range:
+              start: 1562
+              end: 1562
+        - severity: info
+          name: pdfTeX
+          category: LaTeX Font
+          text: Try loading font information for OMX+zplm
+          source:
+            file: Sections\3_research_motivation.tex
+            range:
+              start: 33
+              end: 33
+          log:
+            file: Candidacy_ST_RevA.log
+            range:
+              start: 1567
+              end: 1567
+        - severity: info
+          name: pdfTeX
+          category: LaTeX Font
+          text: Try loading font information for OT1+zplm
+          source:
+            file: Sections\3_research_motivation.tex
+            range:
+              start: 33
+              end: 33
+          log:
+            file: Candidacy_ST_RevA.log
+            range:
+              start: 1572
+              end: 1572
         - severity: info
           name: pdfTeX
           category: Package atveryend
@@ -3621,8 +3742,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1505
-              end: 1505
+              start: 1584
+              end: 1584
         - severity: info
           name: pdfTeX
           category: Package atveryend
@@ -3635,8 +3756,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1506
-              end: 1506
+              start: 1585
+              end: 1585
         - severity: info
           name: pdfTeX
           category: Package atveryend
@@ -3649,8 +3770,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1508
-              end: 1508
+              start: 1587
+              end: 1587
         - severity: info
           name: pdfTeX
           category: Package atveryend
@@ -3663,8 +3784,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1509
-              end: 1509
+              start: 1588
+              end: 1588
         - severity: info
           name: pdfTeX
           category: Package rerunfilecheck
@@ -3676,8 +3797,8 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1510
-              end: 1511
+              start: 1589
+              end: 1590
         - severity: info
           name: pdfTeX
           category: Package atveryend
@@ -3690,31 +3811,31 @@ files:
           log:
             file: Candidacy_ST_RevA.log
             range:
-              start: 1512
-              end: 1512
+              start: 1591
+              end: 1591
       inputs: []
       outputs:
         - Candidacy_ST_RevA.pdf
       calls: []
     type: ParsedLaTeXLog
   Candidacy_ST_RevA.aux:
-    timeStamp: 2018-08-05T15:21:08.952Z
+    timeStamp: 2018-08-05T18:53:44.307Z
     jobNames: []
-    hash: OYMIJItuMmpvXqZ6ndkAtPJYfxO7pw1i55Mm89VL/WM=
+    hash: hMITKysftZudHAY6wjF8tyVDuEkfielLQY3CrIj9oXs=
     type: LaTeXAuxilary
   Candidacy_ST_RevA.fls:
-    timeStamp: 2018-08-05T15:21:09.057Z
+    timeStamp: 2018-08-05T18:53:44.424Z
     jobNames: []
-    hash: zEF6woufG8Rwm1maI2Xu+pxIJh2Juao8uo0gTDJwmRc=
+    hash: eqUWPpn7DcNWEivqDwZYYhsu+5hFORGNSG6UtF84g7Y=
     type: FileListing
   Candidacy_ST_RevA.log:
-    timeStamp: 2018-08-05T15:21:09.020Z
+    timeStamp: 2018-08-05T18:53:44.383Z
     jobNames: []
-    hash: F/F5uzJEGZ0gwiBYlNQMGQ6WuwDYpSCPEuGULFNzx80=
+    hash: D7nfwzNLk4QWfBAZ4spSOC6NgbLg07iG99bvbw89y0Q=
     type: LaTeXLog
     subType: pdfTeX
   Candidacy_ST_RevA.aux-ParsedLaTeXAuxilary:
-    timeStamp: 2018-08-05T14:57:40.706Z
+    timeStamp: 2018-08-05T18:22:27.780Z
     jobNames: []
     value:
       commands:
@@ -3746,12 +3867,15 @@ files:
         - newlabel
         - '@writefile'
         - newlabel
+        - '@writefile'
+        - newlabel
+        - '@writefile'
+        - providecommand
+        - newlabel
+        - '@writefile'
+        - newlabel
+        - '@writefile'
         - citation
-        - '@writefile'
-        - newlabel
-        - '@writefile'
-        - newlabel
-        - '@writefile'
         - bibstyle
         - bibdata
         - bibcite
@@ -3996,7 +4120,7 @@ files:
     timeStamp: 2018-03-16T10:27:56.779Z
     jobNames: []
   Candidacy_ST_RevA.out:
-    timeStamp: 2018-08-05T15:21:08.960Z
+    timeStamp: 2018-08-05T18:53:44.311Z
     jobNames: []
     hash: u/FDnFMhbV2o7Cp0sa9yzRe2jEwam4DvhygUs0ov+og=
     type: OUT
@@ -4011,16 +4135,16 @@ files:
     hash: NfqCjhlCQIavm7Z5D6Nou+YRzlKh0Pq7Q1WyF0mtPNs=
     type: XML
   Candidacy_ST_RevA.toc:
-    timeStamp: 2018-08-05T15:21:08.967Z
+    timeStamp: 2018-08-05T18:53:44.314Z
     jobNames: []
     hash: whcD4gV46/NTMBIIBRLEWG1hHE1L/fb6CmEG2RQnOuU=
     type: TableOfContents
   Candidacy_ST_RevA.bbl:
-    timeStamp: 2018-08-05T15:21:03.786Z
+    timeStamp: 2018-08-05T18:53:40.099Z
     jobNames: []
     hash: ihpkDv3PbvkmEQmRc9jACpBJLySwdqEyy840n7duqxk=
   Candidacy_ST_RevA.blg:
-    timeStamp: 2018-08-05T15:21:03.790Z
+    timeStamp: 2018-08-05T18:53:40.100Z
     jobNames: []
     hash: JfnEcOyooZ5U3JkAWu6CmNQE2NukJpNeIA/3avUvRI8=
     type: BibTeXLog
@@ -4082,14 +4206,14 @@ files:
     jobNames: []
     type: FontDescription
   Sections\3_research_motivation.tex:
-    timeStamp: 2018-08-05T10:54:23.367Z
+    timeStamp: 2018-08-05T18:37:43.890Z
     jobNames: []
-    hash: yiKZHb2RFB0oKjtbSLyx8Z6BqZyPZ7N4FZqxVo7eKPU=
+    hash: rnOsuWX495L6BCxDjWDZdBqulBviEuk3htSJe/bN26U=
     type: TeX
   sections\4_state_of_the_art.tex:
-    timeStamp: 2018-08-05T15:20:59.416Z
+    timeStamp: 2018-08-05T17:01:11.705Z
     jobNames: []
-    hash: FGjmHKYa6V797+f91OcgodEA0JFv/a8nC7AGZr80Bv8=
+    hash: DJGrbzGjTz6kFZIw8wlrxEX57gwKwjZz4rbVM1ZOaM8=
     type: TeX
   sections\5_work_accomplished.tex:
     timeStamp: 2018-08-05T10:54:23.386Z
@@ -4106,24 +4230,24 @@ files:
     timeStamp: 2009-07-14T18:37:47.000Z
     jobNames: []
   Candidacy_ST_RevA.pdf:
-    timeStamp: 2018-08-05T15:21:09.011Z
+    timeStamp: 2018-08-05T18:53:44.360Z
     jobNames: []
-    hash: 3hBZ8PZAZIDOiqfM6wwcv6acLJj5oSY0111QcVGsQ24=
+    hash: qUqvExnpFbMZ5ynUvWuIM4CenYIseAHgfnI56iX3kdU=
     type: PortableDocumentFormat
   TeXFiles\0_usepackage.tex:
-    timeStamp: 2018-08-05T10:54:23.395Z
+    timeStamp: 2018-08-05T18:29:48.475Z
     jobNames: []
-    hash: 3TWgbMZWREEMGhKPuJ8v28nmJKNNoCJ50sfrqkLWcTw=
+    hash: c72JqToCeUjUX0JqVizAfiG4cohwE8eNtqHaf/5VMJ8=
     type: TeX
   TeXFiles\1_definitions.tex:
-    timeStamp: 2018-08-05T10:54:23.403Z
+    timeStamp: 2018-08-05T18:53:35.840Z
     jobNames: []
-    hash: Un0mbf1lW5CwLYIgLW7Znec5ckI5cXOhzrqfDLMY6js=
+    hash: dnOafMTCrbbz3vTQsVwdS8KD7xJk+U2IHWiJYG3uHJI=
     type: TeX
   Candidacy_ST_RevA.synctex.gz:
-    timeStamp: 2018-08-05T15:21:09.017Z
+    timeStamp: 2018-08-05T18:53:44.369Z
     jobNames: []
-    hash: Cp+oHP3weOjjank9qy8qH4OQMJ3epjAvjCikNyQnnNU=
+    hash: eIAu8amIT7VSOTuU35gstkwl7sG/PXFrL8GRlHMCJlk=
     type: SyncTeX
   'C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\palatino\pplr9c.tfm':
     timeStamp: 2006-01-09T01:04:14.000Z
@@ -4183,7 +4307,7 @@ files:
         2.9\miktex\bin\x64;%ProgramFiles(x86)%\MiKTeX 2.9\miktex\bin;$PATH
     type: ParsedYAML
   'C:\Users\seant\AppData\Roaming\dicy\config.yaml':
-    timeStamp: 2018-08-05T15:21:00.258Z
+    timeStamp: 2018-08-05T17:01:17.936Z
     jobNames: []
     type: YAML
   'C:\Program Files\MiKTeX 2.9\tex\latex\tools\shellesc.sty':
@@ -4194,7 +4318,7 @@ files:
     timeStamp: 2018-03-16T12:21:07.098Z
     jobNames: []
   'C:\Users\seant\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map':
-    timeStamp: 2018-08-05T10:56:40.970Z
+    timeStamp: 2018-08-05T17:20:17.808Z
     jobNames: []
   'C:\Users\seant\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\mathpazo\fplmb.tfm':
     timeStamp: 2006-01-09T01:04:14.000Z
@@ -4876,6 +5000,45 @@ files:
     timeStamp: 2016-05-13T10:33:01.000Z
     jobNames: []
     type: LaTeXStyle
+  'C:\Program Files\MiKTeX 2.9\tex\latex\tools\indentfirst.sty':
+    timeStamp: 2017-04-17T09:59:54.000Z
+    jobNames: []
+    type: LaTeXStyle
+  'C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\varwidth.sty':
+    timeStamp: 2009-03-31T03:19:00.000Z
+    jobNames: []
+    type: LaTeXStyle
+  'C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty':
+    timeStamp: 2017-04-17T09:59:54.000Z
+    jobNames: []
+    type: LaTeXStyle
+  'C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\ltcaption.sty':
+    timeStamp: 2018-06-09T14:02:17.000Z
+    jobNames: []
+    type: LaTeXStyle
+  'C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\tabu\tabu.sty':
+    timeStamp: 2011-02-28T13:14:31.000Z
+    jobNames: []
+    type: LaTeXStyle
+  'C:\Users\seant\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\mathpazo\zplmr7m.tfm':
+    timeStamp: 2006-01-09T01:04:14.000Z
+    jobNames: []
+  'C:\Users\seant\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\mathpazo\zplmr7t.tfm':
+    timeStamp: 2006-01-09T01:04:14.000Z
+    jobNames: []
+  'C:\Users\seant\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\mathpazo\zplmr7v.tfm':
+    timeStamp: 2006-01-09T01:04:14.000Z
+    jobNames: []
+  'C:\Users\seant\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\mathpazo\zplmr7y.tfm':
+    timeStamp: 2006-01-09T01:04:14.000Z
+    jobNames: []
+  'C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\colortbl\colortbl.sty':
+    timeStamp: 2018-05-04T12:46:08.000Z
+    jobNames: []
+    type: LaTeXStyle
+  'C:\Users\seant\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\mathpazo\zplmr7y.vf':
+    timeStamp: 2006-01-09T01:04:14.000Z
+    jobNames: []
 rules:
   - name: ApplyOptions
     command: load
@@ -5659,6 +5822,47 @@ rules:
       - file: sections\4_state_of_the_art.tex
         type: default
       - file: sections\5_work_accomplished.tex
+        type: default
+      - file: 'C:\Program Files\MiKTeX 2.9\tex\latex\tools\indentfirst.sty'
+        type: default
+      - file: 'C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\varwidth.sty'
+        type: default
+      - file: 'C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty'
+        type: default
+      - file: >-
+          C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\ltcaption.sty
+        type: default
+      - file: 'C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\tabu\tabu.sty'
+        type: default
+      - file: 'C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlzplm.fd'
+        type: default
+      - file: 'C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omszplm.fd'
+        type: default
+      - file: 'C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxzplm.fd'
+        type: default
+      - file: 'C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1zplm.fd'
+        type: default
+      - file: >-
+          C:\Users\seant\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\mathpazo\zplmr7m.tfm
+        type: default
+      - file: >-
+          C:\Users\seant\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\mathpazo\zplmr7t.tfm
+        type: default
+      - file: >-
+          C:\Users\seant\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\mathpazo\zplmr7v.tfm
+        type: default
+      - file: >-
+          C:\Users\seant\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\mathpazo\zplmr7y.tfm
+        type: default
+      - file: >-
+          C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\colortbl\colortbl.sty
+        type: default
+      - file: 'C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm'
+        type: default
+      - file: 'C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb'
+        type: default
+      - file: >-
+          C:\Users\seant\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\mathpazo\zplmr7y.vf
         type: default
     outputs:
       - file: Candidacy_ST_RevA.pdf

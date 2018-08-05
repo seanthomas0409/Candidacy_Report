@@ -112,14 +112,24 @@ INPUT C:/Users/seant/AppData/Roaming/MiKTeX/2.9/tex/latex/xcolor/xcolor.sty
 INPUT C:/Users/seant/AppData/Roaming/MiKTeX/2.9/tex/latex/xcolor/xcolor.sty
 INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics-cfg/color.cfg
 INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics-cfg/color.cfg
+INPUT C:/Users/seant/AppData/Roaming/MiKTeX/2.9/tex/latex/colortbl/colortbl.sty
+INPUT C:/Users/seant/AppData/Roaming/MiKTeX/2.9/tex/latex/colortbl/colortbl.sty
+INPUT C:/Program Files/MiKTeX 2.9/tex/latex/tools/array.sty
+INPUT C:/Program Files/MiKTeX 2.9/tex/latex/tools/array.sty
 INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics/dvipsnam.def
 INPUT C:/Program Files/MiKTeX 2.9/tex/latex/graphics/dvipsnam.def
+INPUT C:/Users/seant/AppData/Roaming/MiKTeX/2.9/tex/latex/tabu/tabu.sty
+INPUT C:/Users/seant/AppData/Roaming/MiKTeX/2.9/tex/latex/tabu/tabu.sty
+INPUT C:/Program Files/MiKTeX 2.9/tex/latex/ltxmisc/varwidth.sty
+INPUT C:/Program Files/MiKTeX 2.9/tex/latex/ltxmisc/varwidth.sty
+INPUT C:/Program Files/MiKTeX 2.9/tex/latex/tools/longtable.sty
+INPUT C:/Program Files/MiKTeX 2.9/tex/latex/tools/longtable.sty
 INPUT C:/Users/seant/AppData/Roaming/MiKTeX/2.9/tex/latex/caption/caption.sty
 INPUT C:/Users/seant/AppData/Roaming/MiKTeX/2.9/tex/latex/caption/caption.sty
 INPUT C:/Users/seant/AppData/Roaming/MiKTeX/2.9/tex/latex/caption/caption3.sty
 INPUT C:/Users/seant/AppData/Roaming/MiKTeX/2.9/tex/latex/caption/caption3.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/tools/array.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/tools/array.sty
+INPUT C:/Users/seant/AppData/Roaming/MiKTeX/2.9/tex/latex/caption/ltcaption.sty
+INPUT C:/Users/seant/AppData/Roaming/MiKTeX/2.9/tex/latex/caption/ltcaption.sty
 INPUT C:/Users/seant/AppData/Roaming/MiKTeX/2.9/tex/latex/booktabs/booktabs.sty
 INPUT C:/Users/seant/AppData/Roaming/MiKTeX/2.9/tex/latex/booktabs/booktabs.sty
 INPUT C:/Users/seant/AppData/Roaming/MiKTeX/2.9/tex/latex/framed/framed.sty
@@ -427,13 +437,33 @@ INPUT C:/Users/seant/AppData/Roaming/MiKTeX/2.9/fonts/tfm/public/mathpazo/fplmb.
 INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplri9t.vf
 INPUT C:/Users/seant/AppData/Roaming/MiKTeX/2.9/fonts/tfm/public/mathpazo/fplmri.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplri8r.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr9t.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr9t.tfm
+INPUT C:/Program Files/MiKTeX 2.9/tex/latex/psnfss/omlzplm.fd
+INPUT C:/Program Files/MiKTeX 2.9/tex/latex/psnfss/omlzplm.fd
+INPUT C:/Users/seant/AppData/Roaming/MiKTeX/2.9/fonts/tfm/public/mathpazo/zplmr7m.tfm
+INPUT C:/Users/seant/AppData/Roaming/MiKTeX/2.9/fonts/tfm/public/mathpazo/zplmr7m.tfm
+INPUT C:/Users/seant/AppData/Roaming/MiKTeX/2.9/fonts/tfm/public/mathpazo/zplmr7m.tfm
+INPUT C:/Program Files/MiKTeX 2.9/tex/latex/psnfss/omszplm.fd
+INPUT C:/Program Files/MiKTeX 2.9/tex/latex/psnfss/omszplm.fd
+INPUT C:/Users/seant/AppData/Roaming/MiKTeX/2.9/fonts/tfm/public/mathpazo/zplmr7y.tfm
+INPUT C:/Users/seant/AppData/Roaming/MiKTeX/2.9/fonts/tfm/public/mathpazo/zplmr7y.tfm
+INPUT C:/Users/seant/AppData/Roaming/MiKTeX/2.9/fonts/tfm/public/mathpazo/zplmr7y.tfm
+INPUT C:/Program Files/MiKTeX 2.9/tex/latex/psnfss/omxzplm.fd
+INPUT C:/Program Files/MiKTeX 2.9/tex/latex/psnfss/omxzplm.fd
+INPUT C:/Users/seant/AppData/Roaming/MiKTeX/2.9/fonts/tfm/public/mathpazo/zplmr7v.tfm
+INPUT C:/Users/seant/AppData/Roaming/MiKTeX/2.9/fonts/tfm/public/mathpazo/zplmr7v.tfm
+INPUT C:/Users/seant/AppData/Roaming/MiKTeX/2.9/fonts/tfm/public/mathpazo/zplmr7v.tfm
+INPUT C:/Program Files/MiKTeX 2.9/tex/latex/psnfss/ot1zplm.fd
+INPUT C:/Program Files/MiKTeX 2.9/tex/latex/psnfss/ot1zplm.fd
+INPUT C:/Users/seant/AppData/Roaming/MiKTeX/2.9/fonts/tfm/public/mathpazo/zplmr7t.tfm
+INPUT C:/Users/seant/AppData/Roaming/MiKTeX/2.9/fonts/tfm/public/mathpazo/zplmr7t.tfm
+INPUT C:/Users/seant/AppData/Roaming/MiKTeX/2.9/fonts/tfm/public/mathpazo/zplmr7t.tfm
 INPUT C:/Users/seant/Documents/Candidacy_Report/sections/4_state_of_the_art.tex
 INPUT C:/Users/seant/Documents/Candidacy_Report/sections/4_state_of_the_art.tex
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/psnfss/ts1pplx.fd
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/psnfss/ts1pplx.fd
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr9c.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplr9c.vf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplrc8r.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplr9t.vf
+INPUT C:/Users/seant/AppData/Roaming/MiKTeX/2.9/fonts/tfm/public/mathpazo/fplmr.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr8r.tfm
 INPUT C:/Users/seant/Documents/Candidacy_Report/sections/5_work_accomplished.tex
 INPUT C:/Users/seant/Documents/Candidacy_Report/sections/5_work_accomplished.tex
 INPUT C:/Users/seant/Documents/Candidacy_Report/Candidacy_ST_RevA.bbl

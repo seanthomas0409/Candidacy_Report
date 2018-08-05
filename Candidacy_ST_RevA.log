@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.3.16)  5 AUG 2018 17:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.3.16)  5 AUG 2018 20:53
 entering extended mode
 **C:/Users/seant/Documents/Candidacy_Report/Candidacy_ST_RevA.tex
 (C:/Users/seant/Documents/Candidacy_Report/Candidacy_ST_RevA.tex
@@ -566,6 +566,20 @@ Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
+(C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\colortbl\colortbl.sty
+Package: colortbl 2018/05/02 v1.0c Color table columns (DPC)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen179
+\extrarowheight=\dimen180
+\NC@list=\toks21
+\extratabsurround=\skip67
+\backup@length=\skip68
+)
+\everycr=\toks22
+\minrowclearance=\skip69
+)
+\rownum=\count281
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
 Package xcolor Info: Model `RGB' extended on input line 1364.
@@ -577,56 +591,101 @@ Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def"
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-)) (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+)) (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\tabu\tabu.sty
+Package: tabu 2011/02/26 v2.8 - flexible LaTeX tabulars (FC)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\varwidth.sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box48
+\sift@deathcycles=\count282
+\@vwid@loff=\dimen181
+\@vwid@roff=\dimen182
+)
+\c@taburow=\count283
+\tabu@nbcols=\count284
+\tabu@cnt=\count285
+\tabu@Xcol=\count286
+\tabu@alloc=\count287
+\tabu@nested=\count288
+\tabu@target=\dimen183
+\tabu@spreadtarget=\dimen184
+\tabu@naturalX=\dimen185
+\tabucolX=\dimen186
+\tabu@Xsum=\dimen187
+\extrarowdepth=\dimen188
+\abovetabulinesep=\dimen189
+\belowtabulinesep=\dimen190
+\tabustrutrule=\dimen191
+\tabu@thebody=\toks23
+\tabu@footnotes=\toks24
+\tabu@box=\box49
+\tabu@arstrutbox=\box50
+\tabu@hleads=\box51
+\tabu@vleads=\box52
+\tabu@cellskip=\skip70
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip71
+\LTright=\skip72
+\LTpre=\skip73
+\LTpost=\skip74
+\LTchunksize=\count289
+\LTcapwidth=\dimen192
+\LT@head=\box53
+\LT@firsthead=\box54
+\LT@foot=\box55
+\LT@lastfoot=\box56
+\LT@cols=\count290
+\LT@rows=\count291
+\c@LT@tables=\count292
+\c@LT@chunks=\count293
+\LT@p@ftn=\toks25
+) (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
 Package: caption 2018/05/01 v3.3-147 Customizing captions (AR)
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
 Package: caption3 2018/05/27 v1.8a caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 64.
-\captionmargin=\dimen179
-\captionmargin@=\dimen180
-\captionwidth=\dimen181
-\caption@tempdima=\dimen182
-\caption@indent=\dimen183
-\caption@parindent=\dimen184
-\caption@hangindent=\dimen185
+\captionmargin=\dimen193
+\captionmargin@=\dimen194
+\captionwidth=\dimen195
+\caption@tempdima=\dimen196
+\caption@indent=\dimen197
+\caption@parindent=\dimen198
+\caption@hangindent=\dimen199
 )
-\c@ContinuedFloat=\count281
+\c@ContinuedFloat=\count294
 Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+(C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\ltcaption.sty
+Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
+)
 Package caption Info: subfigure package is loaded.
 Package caption Info: wrapfig package is loaded.
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
-Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
-\col@sep=\dimen186
-\extrarowheight=\dimen187
-\NC@list=\toks21
-\extratabsurround=\skip67
-\backup@length=\skip68
 ) (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\booktabs\booktabs.sty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
-\heavyrulewidth=\dimen188
-\lightrulewidth=\dimen189
-\cmidrulewidth=\dimen190
-\belowrulesep=\dimen191
-\belowbottomsep=\dimen192
-\aboverulesep=\dimen193
-\abovetopsep=\dimen194
-\cmidrulesep=\dimen195
-\cmidrulekern=\dimen196
-\defaultaddspace=\dimen197
-\@cmidla=\count282
-\@cmidlb=\count283
-\@aboverulesep=\dimen198
-\@belowrulesep=\dimen199
-\@thisruleclass=\count284
-\@lastruleclass=\count285
-\@thisrulewidth=\dimen256
+\heavyrulewidth=\dimen256
+\lightrulewidth=\dimen257
+\cmidrulewidth=\dimen258
+\belowrulesep=\dimen259
+\belowbottomsep=\dimen260
+\aboverulesep=\dimen261
+\abovetopsep=\dimen262
+\cmidrulesep=\dimen263
+\cmidrulekern=\dimen264
+\defaultaddspace=\dimen265
+\@cmidla=\count295
+\@cmidlb=\count296
+\@aboverulesep=\dimen266
+\@belowrulesep=\dimen267
+\@thisruleclass=\count297
+\@lastruleclass=\count298
+\@thisrulewidth=\dimen268
 ) (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\framed\framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
-\OuterFrameSep=\skip69
-\fb@frw=\dimen257
-\fb@frh=\dimen258
-\FrameRule=\dimen259
-\FrameSep=\dimen260
+\OuterFrameSep=\skip75
+\fb@frw=\dimen269
+\fb@frh=\dimen270
+\FrameRule=\dimen271
+\FrameSep=\dimen272
 ) (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\pgfplots\pgfplots.sty
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgfplots\pgfplots.revisi
 on.tex)
@@ -637,15 +696,15 @@ Package: pgfplots 2018/03/28 v1.16 Data Visualization (1.16)
 \Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfrcs.sty
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-co
 mmon.tex
-\pgfutil@everybye=\toks22
-\pgfutil@tempdima=\dimen261
-\pgfutil@tempdimb=\dimen262
+\pgfutil@everybye=\toks26
+\pgfutil@tempdima=\dimen273
+\pgfutil@tempdimb=\dimen274
 
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-co
 mmon-lists.tex))
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-la
 tex.def
-\pgfutil@abb=\box48
+\pgfutil@abb=\box57
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
@@ -665,30 +724,30 @@ Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.co
 de.tex
-\pgfkeys@pathtoks=\toks23
-\pgfkeys@temptoks=\toks24
+\pgfkeys@pathtoks=\toks27
+\pgfkeys@temptoks=\toks28
 
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeysfil
 tered.code.tex
-\pgfkeys@tmptoks=\toks25
+\pgfkeys@tmptoks=\toks29
 ))
-\pgf@x=\dimen263
-\pgf@y=\dimen264
-\pgf@xa=\dimen265
-\pgf@ya=\dimen266
-\pgf@xb=\dimen267
-\pgf@yb=\dimen268
-\pgf@xc=\dimen269
-\pgf@yc=\dimen270
+\pgf@x=\dimen275
+\pgf@y=\dimen276
+\pgf@xa=\dimen277
+\pgf@ya=\dimen278
+\pgf@xb=\dimen279
+\pgf@yb=\dimen280
+\pgf@xc=\dimen281
+\pgf@yc=\dimen282
 \w@pgf@writea=\write4
 \r@pgf@reada=\read2
-\c@pgf@counta=\count286
-\c@pgf@countb=\count287
-\c@pgf@countc=\count288
-\c@pgf@countd=\count289
-\t@pgf@toka=\toks26
-\t@pgf@tokb=\toks27
-\t@pgf@tokc=\toks28
+\c@pgf@counta=\count299
+\c@pgf@countb=\count300
+\c@pgf@countc=\count301
+\c@pgf@countd=\count302
+\t@pgf@toka=\toks30
+\t@pgf@tokb=\toks31
+\t@pgf@tokc=\toks32
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgf.cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
@@ -705,8 +764,8 @@ File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsysso
 ftpath.code.tex
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count290
-\pgfsyssoftpath@bigbuffer@items=\count291
+\pgfsyssoftpath@smallbuffer@items=\count303
+\pgfsyssoftpath@bigbuffer@items=\count304
 )
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsyspr
 otocol.code.tex
@@ -724,12 +783,12 @@ e.tex
 e.tex)
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathparser.c
 ode.tex
-\pgfmath@dimen=\dimen271
-\pgfmath@count=\count292
-\pgfmath@box=\box49
-\pgfmath@toks=\toks29
-\pgfmath@stack@operand=\toks30
-\pgfmath@stack@operation=\toks31
+\pgfmath@dimen=\dimen283
+\pgfmath@count=\count305
+\pgfmath@box=\box58
+\pgfmath@toks=\toks33
+\pgfmath@stack@operand=\toks34
+\pgfmath@stack@operation=\toks35
 )
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
 s.code.tex
@@ -751,57 +810,57 @@ s.misc.code.tex)
 s.integerarithmetics.code.tex)))
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfloat.co
 de.tex
-\c@pgfmathroundto@lastzeros=\count293
+\c@pgfmathroundto@lastzeros=\count306
 ))
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepo
 ints.code.tex
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen272
-\pgf@picmaxx=\dimen273
-\pgf@picminy=\dimen274
-\pgf@picmaxy=\dimen275
-\pgf@pathminx=\dimen276
-\pgf@pathmaxx=\dimen277
-\pgf@pathminy=\dimen278
-\pgf@pathmaxy=\dimen279
-\pgf@xx=\dimen280
-\pgf@xy=\dimen281
-\pgf@yx=\dimen282
-\pgf@yy=\dimen283
-\pgf@zx=\dimen284
-\pgf@zy=\dimen285
+\pgf@picminx=\dimen284
+\pgf@picmaxx=\dimen285
+\pgf@picminy=\dimen286
+\pgf@picmaxy=\dimen287
+\pgf@pathminx=\dimen288
+\pgf@pathmaxx=\dimen289
+\pgf@pathminy=\dimen290
+\pgf@pathmaxy=\dimen291
+\pgf@xx=\dimen292
+\pgf@xy=\dimen293
+\pgf@yx=\dimen294
+\pgf@yy=\dimen295
+\pgf@zx=\dimen296
+\pgf@zy=\dimen297
 )
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
 thconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen286
-\pgf@path@lasty=\dimen287
+\pgf@path@lastx=\dimen298
+\pgf@path@lasty=\dimen299
 )
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
 thusage.code.tex
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
-\pgf@shorten@end@additional=\dimen288
-\pgf@shorten@start@additional=\dimen289
+\pgf@shorten@end@additional=\dimen300
+\pgf@shorten@start@additional=\dimen301
 )
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoresc
 opes.code.tex
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
-\pgfpic=\box50
-\pgf@hbox=\box51
-\pgf@layerbox@main=\box52
-\pgf@picture@serial@count=\count294
+\pgfpic=\box59
+\pgf@hbox=\box60
+\pgf@layerbox@main=\box61
+\pgf@picture@serial@count=\count307
 )
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoregr
 aphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
-\pgflinewidth=\dimen290
+\pgflinewidth=\dimen302
 )
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoretr
 ansformations.code.tex
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
-\pgf@pt@x=\dimen291
-\pgf@pt@y=\dimen292
-\pgf@pt@temp=\dimen293
+\pgf@pt@x=\dimen303
+\pgf@pt@y=\dimen304
+\pgf@pt@temp=\dimen305
 )
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorequ
 ick.code.tex
@@ -818,13 +877,13 @@ File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorear
 rows.code.tex
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
-\pgfarrowsep=\dimen294
+\pgfarrowsep=\dimen306
 )
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoresh
 ade.code.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen295
-\pgf@sys@shading@range@num=\count295
+\pgf@max=\dimen307
+\pgf@sys@shading@range@num=\count308
 )
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreim
 age.code.tex
@@ -833,7 +892,7 @@ File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreex
 ternal.code.tex
 File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
-\pgfexternal@startupbox=\box53
+\pgfexternal@startupbox=\box62
 ))
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorela
 yers.code.tex
@@ -850,7 +909,7 @@ File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulesha
 pes.code.tex
 File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
-\pgfnodeparttextbox=\box54
+\pgfnodeparttextbox=\box63
 )
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmoduleplo
 t.code.tex
@@ -859,8 +918,8 @@ File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp-
 version-0-65.sty
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen296
-\pgf@nodesepend=\dimen297
+\pgf@nodesepstart=\dimen308
+\pgf@nodesepend=\dimen309
 )
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp-
 version-1-18.sty
@@ -879,10 +938,10 @@ Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.te
 x)
-\pgffor@iter=\dimen298
-\pgffor@skip=\dimen299
-\pgffor@stack=\toks32
-\pgffor@toks=\toks33
+\pgffor@iter=\dimen310
+\pgffor@skip=\dimen311
+\pgffor@stack=\toks36
+\pgffor@toks=\toks37
 ))
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\t
 ikz.code.tex
@@ -891,32 +950,32 @@ Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\pgflibrary
 plothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count296
-\pgfplotmarksize=\dimen300
+\pgf@plot@mark@count=\count309
+\pgfplotmarksize=\dimen312
 )
-\tikz@lastx=\dimen301
-\tikz@lasty=\dimen302
-\tikz@lastxsaved=\dimen303
-\tikz@lastysaved=\dimen304
-\tikzleveldistance=\dimen305
-\tikzsiblingdistance=\dimen306
-\tikz@figbox=\box55
-\tikz@figbox@bg=\box56
-\tikz@tempbox=\box57
-\tikz@tempbox@bg=\box58
-\tikztreelevel=\count297
-\tikznumberofchildren=\count298
-\tikznumberofcurrentchild=\count299
-\tikz@fig@count=\count300
+\tikz@lastx=\dimen313
+\tikz@lasty=\dimen314
+\tikz@lastxsaved=\dimen315
+\tikz@lastysaved=\dimen316
+\tikzleveldistance=\dimen317
+\tikzsiblingdistance=\dimen318
+\tikz@figbox=\box64
+\tikz@figbox@bg=\box65
+\tikz@tempbox=\box66
+\tikz@tempbox@bg=\box67
+\tikztreelevel=\count310
+\tikznumberofchildren=\count311
+\tikznumberofcurrentchild=\count312
+\tikz@fig@count=\count313
 
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulemat
 rix.code.tex
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count301
-\pgfmatrixcurrentcolumn=\count302
-\pgf@matrix@numberofcolumns=\count303
+\pgfmatrixcurrentrow=\count314
+\pgfmatrixcurrentcolumn=\count315
+\pgf@matrix@numberofcolumns=\count316
 )
-\tikz@expandcount=\count304
+\tikz@expandcount=\count317
 
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\l
 ibraries\tikzlibrarytopaths.code.tex
@@ -926,12 +985,12 @@ File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
 ex
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgfplots\pgfplotscore.co
 de.tex
-\t@pgfplots@toka=\toks34
-\t@pgfplots@tokb=\toks35
-\t@pgfplots@tokc=\toks36
-\pgfplots@tmpa=\dimen307
-\c@pgfplots@coordindex=\count305
-\c@pgfplots@scanlineindex=\count306
+\t@pgfplots@toka=\toks38
+\t@pgfplots@tokb=\toks39
+\t@pgfplots@tokc=\toks40
+\pgfplots@tmpa=\dimen319
+\c@pgfplots@coordindex=\count318
+\c@pgfplots@scanlineindex=\count319
 
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgfplots\sys\pgfplotssys
 generic.code.tex))
@@ -947,7 +1006,7 @@ Package pgfplots: loading complementary arithmetics for your pgf version...
 pgfplotsoldpgfsupp_pgflibraryfpu.code.tex)
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgfplots\oldpgfcompatib\
 pgfplotsoldpgfsupp_pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count307
+\c@pgfmathroundto@lastzeros=\count320
 )
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgfplots\oldpgfcompatib\
 pgfplotsoldpgfsupp_leq.code.tex))
@@ -959,14 +1018,14 @@ gfplotsliststructure.code.tex)
 gfplotsliststructureext.code.tex)
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgfplots\liststructure\p
 gfplotsarray.code.tex
-\c@pgfplotsarray@tmp=\count308
+\c@pgfplotsarray@tmp=\count321
 )
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgfplots\liststructure\p
 gfplotsmatrix.code.tex)
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgfplots\numtable\pgfplo
 tstableshared.code.tex
-\c@pgfplotstable@counta=\count309
-\t@pgfplotstable@a=\toks37
+\c@pgfplotstable@counta=\count322
+\t@pgfplotstable@a=\toks41
 )
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgfplots\liststructure\p
 gfplotsdeque.code.tex)
@@ -978,7 +1037,7 @@ nary.data.code.tex))
 il.verb.code.tex)
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgfplots\libs\pgflibrary
 pgfplots.surfshading.code.tex
-\c@pgfplotslibrarysurf@no=\count310
+\c@pgfplotslibrarysurf@no=\count323
 
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgfplots\sys\pgflibraryp
 gfplots.surfshading.pgfsys-pdftex.def)))
@@ -1010,16 +1069,16 @@ code.tex)
 ibraries\tikzlibrarydecorations.code.tex
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmoduledec
 orations.code.tex
-\pgfdecoratedcompleteddistance=\dimen308
-\pgfdecoratedremainingdistance=\dimen309
-\pgfdecoratedinputsegmentcompleteddistance=\dimen310
-\pgfdecoratedinputsegmentremainingdistance=\dimen311
-\pgf@decorate@distancetomove=\dimen312
-\pgf@decorate@repeatstate=\count311
-\pgfdecorationsegmentamplitude=\dimen313
-\pgfdecorationsegmentlength=\dimen314
+\pgfdecoratedcompleteddistance=\dimen320
+\pgfdecoratedremainingdistance=\dimen321
+\pgfdecoratedinputsegmentcompleteddistance=\dimen322
+\pgfdecoratedinputsegmentremainingdistance=\dimen323
+\pgf@decorate@distancetomove=\dimen324
+\pgf@decorate@repeatstate=\count324
+\pgfdecorationsegmentamplitude=\dimen325
+\pgfdecorationsegmentlength=\dimen326
 )
-\tikz@lib@dec@box=\box59
+\tikz@lib@dec@box=\box68
 )
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\l
 ibraries\tikzlibrarydecorations.pathmorphing.code.tex
@@ -1029,13 +1088,13 @@ s\pgflibrarydecorations.pathmorphing.code.tex))
 ibraries\tikzlibrarydecorations.pathreplacing.code.tex
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\decoration
 s\pgflibrarydecorations.pathreplacing.code.tex))
-\pgfplots@numplots=\count312
-\pgfplots@xmin@reg=\dimen315
-\pgfplots@xmax@reg=\dimen316
-\pgfplots@ymin@reg=\dimen317
-\pgfplots@ymax@reg=\dimen318
-\pgfplots@zmin@reg=\dimen319
-\pgfplots@zmax@reg=\dimen320
+\pgfplots@numplots=\count325
+\pgfplots@xmin@reg=\dimen327
+\pgfplots@xmax@reg=\dimen328
+\pgfplots@ymin@reg=\dimen329
+\pgfplots@ymax@reg=\dimen330
+\pgfplots@zmin@reg=\dimen331
+\pgfplots@zmax@reg=\dimen332
 )
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\l
 ibraries\tikzlibraryplotmarks.code.tex
@@ -1057,7 +1116,7 @@ Package pgfplots external lib: loading complementary code for your PGF version.
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgfplots\oldpgfcompatib\
 pgfplotsoldpgfsupp_pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2015/08/29  (rcs-revision 1.22)
-\pgfexternal@startupbox=\box60
+\pgfexternal@startupbox=\box69
 )
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgfplots\oldpgfcompatib\
 pgfplotsoldpgfsupp_tikzlibraryexternal.code.tex
@@ -1077,29 +1136,29 @@ File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 ("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex" ("C:\Program Fil
 es\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
-\XKV@toks=\toks38
-\XKV@tempa@toks=\toks39
+\XKV@toks=\toks42
+\XKV@tempa@toks=\toks43
 )
-\XKV@depth=\count313
+\XKV@depth=\count326
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))) ("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\pstricks.tex" ("C:\Progr
 am Files\MiKTeX 2.9\tex\generic\pstricks\pst-fp.tex" `pst-fp' v0.05, 2010/01/17
  (hv)
-\pstFP@xs=\count314
-\pstFP@xia=\count315
-\pstFP@xib=\count316
-\pstFP@xfa=\count317
-\pstFP@xfb=\count318
-\pstFP@rega=\count319
-\pstFP@regb=\count320
-\pstFP@regs=\count321
-\pstFP@times=\count322
+\pstFP@xs=\count327
+\pstFP@xia=\count328
+\pstFP@xib=\count329
+\pstFP@xfa=\count330
+\pstFP@xfb=\count331
+\pstFP@rega=\count332
+\pstFP@regb=\count333
+\pstFP@regs=\count334
+\pstFP@times=\count335
 )
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-co
 mmon.tex
-\pgfutil@everybye=\toks40
-\pgfutil@tempdima=\dimen321
-\pgfutil@tempdimb=\dimen322
+\pgfutil@everybye=\toks44
+\pgfutil@tempdima=\dimen333
+\pgfutil@tempdimb=\dimen334
 
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-co
 mmon-lists.tex))
@@ -1109,57 +1168,57 @@ de.tex)
 e.tex
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.te
 x)
-\pgffor@iter=\dimen323
-\pgffor@skip=\dimen324
-\pgffor@stack=\toks41
-\pgffor@toks=\toks42
+\pgffor@iter=\dimen335
+\pgffor@skip=\dimen336
+\pgffor@stack=\toks45
+\pgffor@toks=\toks46
 )
-\psLoopIndex=\count323
+\psLoopIndex=\count336
 `PSTricks' v2.82  <2018/01/06> (tvz,hv)
-\pst@dima=\dimen325
-\pst@dimb=\dimen326
-\pst@dimc=\dimen327
-\pst@dimd=\dimen328
-\pst@dimg=\dimen329
-\pst@dimh=\dimen330
-\pst@dimm=\dimen331
-\pst@dimn=\dimen332
-\pst@dimo=\dimen333
-\pst@dimp=\dimen334
-\pst@hbox=\box61
-\pst@ibox=\box62
-\pst@boxg=\box63
-\pst@cnta=\count324
-\pst@cntb=\count325
-\pst@cntc=\count326
-\pst@cntd=\count327
-\pst@cntg=\count328
-\pst@cnth=\count329
-\pst@cntm=\count330
-\pst@cntn=\count331
-\pst@cnto=\count332
-\pst@cntp=\count333
-\@zero=\count334
-\pst@toks=\toks43
+\pst@dima=\dimen337
+\pst@dimb=\dimen338
+\pst@dimc=\dimen339
+\pst@dimd=\dimen340
+\pst@dimg=\dimen341
+\pst@dimh=\dimen342
+\pst@dimm=\dimen343
+\pst@dimn=\dimen344
+\pst@dimo=\dimen345
+\pst@dimp=\dimen346
+\pst@hbox=\box70
+\pst@ibox=\box71
+\pst@boxg=\box72
+\pst@cnta=\count337
+\pst@cntb=\count338
+\pst@cntc=\count339
+\pst@cntd=\count340
+\pst@cntg=\count341
+\pst@cnth=\count342
+\pst@cntm=\count343
+\pst@cntn=\count344
+\pst@cnto=\count345
+\pst@cntp=\count346
+\@zero=\count347
+\pst@toks=\toks47
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\pstricks.con")
-\psunit=\dimen335
-\psxunit=\dimen336
-\psyunit=\dimen337
-\pst@C@@rType=\count335
-\pslinewidth=\dimen338
-\psk@startLW=\dimen339
-\psk@endLW=\dimen340
-\pst@customdefs=\toks44
-\pslinearc=\dimen341
-\pst@symbolStep=\dimen342
-\pst@symbolWidth=\dimen343
-\pst@symbolLinewidth=\dimen344
-\everypsbox=\toks45
-\psframesep=\dimen345
-\pslabelsep=\dimen346
-\sh@wgridXunit=\dimen347
-\sh@wgridYunit=\dimen348
-\pst@shift=\dimen349
+\psunit=\dimen347
+\psxunit=\dimen348
+\psyunit=\dimen349
+\pst@C@@rType=\count348
+\pslinewidth=\dimen350
+\psk@startLW=\dimen351
+\psk@endLW=\dimen352
+\pst@customdefs=\toks48
+\pslinearc=\dimen353
+\pst@symbolStep=\dimen354
+\pst@symbolWidth=\dimen355
+\pst@symbolLinewidth=\dimen356
+\everypsbox=\toks49
+\psframesep=\dimen357
+\pslabelsep=\dimen358
+\sh@wgridXunit=\dimen359
+\sh@wgridYunit=\dimen360
+\pst@shift=\dimen361
 )
 File: pstricks.tex 2018/01/06 v2.82 `PSTricks' (tvz,hv)
 ("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\pst-fp.tex")
@@ -1173,9 +1232,9 @@ Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
 
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\multido\multido.tex  v1.
 42, 2010/05/14 <tvz>
-\multido@count=\count336
-\multidocount=\count337
-\multido@stuff=\toks46
+\multido@count=\count349
+\multidocount=\count350
+\multido@stuff=\toks50
 )
 File: multido.tex 2010/05/14 v1.42 `multido' (tvz,hv)
 )
@@ -1186,59 +1245,59 @@ ST-tools' v0.09b, 2017/12/03 (hv))
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pstricks-add\pstricks-ad
 d.tex (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pst-node\pst-node.
 tex  v1.41, 2017/12/30
-\psrow=\count338
-\pscol=\count339
-\psmatrixcnt=\count340
-\psrowsep=\skip70
-\pscolsep=\skip71
-\pst@args=\count341
-\num@pts=\count342
-\pst@argcnt=\count343
+\psrow=\count351
+\pscol=\count352
+\psmatrixcnt=\count353
+\psrowsep=\skip76
+\pscolsep=\skip77
+\pst@args=\count354
+\num@pts=\count355
+\pst@argcnt=\count356
 ) (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pst-arrow\pst-arrow.te
 x `pst-arrow' v0.01, 2016/09/01 (dr,hv)
-\pshooklength=\dimen350
-\pshookwidth=\dimen351
+\pshooklength=\dimen362
+\pshookwidth=\dimen363
 ) (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pst-3d\pst-3d.tex `PST
 -3d' v1.11, 2010/02/14 (tvz)) (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\ge
 neric\pst-math\pst-math.tex `pst-math' v0.63 , (CJ,hv)) `pstricks-add' v3.85a, 
 2018/02/03 (dr,hv)
-\psparallelogramsep=\dimen352
-\pst@cntC=\count344
-\pst@stepcount=\count345
-\chart@ColorIndex=\dimen353
-\chart@ColorStep=\dimen354
-\pst@chartHeight=\dimen355
-\pst@chartStackDepth=\dimen356
-\pst@chartStackWidth=\dimen357
-\chart@Toggle=\count346
-\psVectorCtr=\count347
+\psparallelogramsep=\dimen364
+\pst@cntC=\count357
+\pst@stepcount=\count358
+\chart@ColorIndex=\dimen365
+\chart@ColorStep=\dimen366
+\pst@chartHeight=\dimen367
+\pst@chartStackDepth=\dimen368
+\pst@chartStackWidth=\dimen369
+\chart@Toggle=\count359
+\psVectorCtr=\count360
 )  v1.90, 2018/03/28 (tvz,hv)
-\pstRadUnit=\dimen358
-\pstRadUnitInv=\dimen359
-\pst@linecnt=\count348
+\pstRadUnit=\dimen370
+\pstRadUnitInv=\dimen371
+\pst@linecnt=\count361
 \RCD@file=\read3
-\psxlabelsep=\dimen360
-\psylabelsep=\dimen361
-\psk@subticksize=\dimen362
-\pst@xticksizeA=\dimen363
-\pst@xticksizeB=\dimen364
-\pst@xticksizeC=\dimen365
-\pst@yticksizeA=\dimen366
-\pst@yticksizeB=\dimen367
-\pst@yticksizeC=\dimen368
-\@digitcounter=\count349
-\psk@llx=\dimen369
-\psk@lly=\dimen370
-\psk@urx=\dimen371
-\psk@ury=\dimen372
-\pst@xunit=\dimen373
-\pst@yunit=\dimen374
+\psxlabelsep=\dimen372
+\psylabelsep=\dimen373
+\psk@subticksize=\dimen374
+\pst@xticksizeA=\dimen375
+\pst@xticksizeB=\dimen376
+\pst@xticksizeC=\dimen377
+\pst@yticksizeA=\dimen378
+\pst@yticksizeB=\dimen379
+\pst@yticksizeC=\dimen380
+\@digitcounter=\count362
+\psk@llx=\dimen381
+\psk@lly=\dimen382
+\psk@urx=\dimen383
+\psk@ury=\dimen384
+\pst@xunit=\dimen385
+\pst@yunit=\dimen386
 )
 File: pst-plot.tex 2018/03/28 1.90 `pst-plot' (tvz,hv)
 ) (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\psfrag\psfrag.sty
 Package: psfrag 1998/04/11 v3.04 PSfrag (MCG)
-\pfg@pcount=\count350
-\pfg@scount=\count351
+\pfg@pcount=\count363
+\pfg@scount=\count364
 \pfg@temp=\write5
 )
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\l
@@ -1292,26 +1351,26 @@ File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1
 libraryshapes.multipart.code.tex
 File: pgflibraryshapes.multipart.code.tex 2010/01/07 v3.0.1a (rcs-revision 1.2)
 
-\pgfnodepartlowerbox=\box64
-\pgfnodeparttwobox=\box65
-\pgfnodepartthreebox=\box66
-\pgfnodepartfourbox=\box67
-\pgfnodeparttwentybox=\box68
-\pgfnodepartnineteenbox=\box69
-\pgfnodeparteighteenbox=\box70
-\pgfnodepartseventeenbox=\box71
-\pgfnodepartsixteenbox=\box72
-\pgfnodepartfifteenbox=\box73
-\pgfnodepartfourteenbox=\box74
-\pgfnodepartthirteenbox=\box75
-\pgfnodeparttwelvebox=\box76
-\pgfnodepartelevenbox=\box77
-\pgfnodeparttenbox=\box78
-\pgfnodepartninebox=\box79
-\pgfnodeparteightbox=\box80
-\pgfnodepartsevenbox=\box81
-\pgfnodepartsixbox=\box82
-\pgfnodepartfivebox=\box83
+\pgfnodepartlowerbox=\box73
+\pgfnodeparttwobox=\box74
+\pgfnodepartthreebox=\box75
+\pgfnodepartfourbox=\box76
+\pgfnodeparttwentybox=\box77
+\pgfnodepartnineteenbox=\box78
+\pgfnodeparteighteenbox=\box79
+\pgfnodepartseventeenbox=\box80
+\pgfnodepartsixteenbox=\box81
+\pgfnodepartfifteenbox=\box82
+\pgfnodepartfourteenbox=\box83
+\pgfnodepartthirteenbox=\box84
+\pgfnodeparttwelvebox=\box85
+\pgfnodepartelevenbox=\box86
+\pgfnodeparttenbox=\box87
+\pgfnodepartninebox=\box88
+\pgfnodeparteightbox=\box89
+\pgfnodepartsevenbox=\box90
+\pgfnodepartsixbox=\box91
+\pgfnodepartfivebox=\box92
 )))
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\l
 ibraries\tikzlibraryarrows.code.tex
@@ -1320,15 +1379,15 @@ File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\pgflibrary
 arrows.code.tex
 File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
-\arrowsize=\dimen375
+\arrowsize=\dimen387
 )) (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\pgfgantt\pgfgantt.sty
 Package: pgfgantt 2018/01/10 v5.0 Draw Gantt diagrams with TikZ
 
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\l
 ibraries\tikzlibrarybackgrounds.code.tex
 File: tikzlibrarybackgrounds.code.tex 2013/07/18 v3.0.1a (rcs-revision 1.3)
-\pgf@layerbox@background=\box84
-\pgf@layerboxsaved@background=\box85
+\pgf@layerbox@background=\box93
+\pgf@layerboxsaved@background=\box94
 )
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\l
 ibraries\tikzlibrarycalc.code.tex
@@ -1351,31 +1410,31 @@ sty
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfcalenda
 r.code.tex
 File: pgfcalendar.code.tex 2007/07/23 v3.0.1a (rcs-revision 1.11)
-\pgfcalendarcurrentjulian=\count352
+\pgfcalendarcurrentjulian=\count365
 ))
-\gtt@currentline=\count353
-\gtt@lasttitleline=\count354
-\gtt@currgrid=\count355
-\gtt@chartwidth=\count356
-\gtt@lasttitleslot=\count357
-\gtt@elementid=\count358
-\gtt@today@slot=\count359
-\gtt@startjulian=\count360
-\gtt@endjulian=\count361
-\gtt@chartid=\count362
-\gtt@vrule@slot=\count363
-\gtt@calendar@slots=\count364
-\gtt@calendar@weeknumber=\count365
-\gtt@calendar@startofweek=\count366
-\gtt@left@slot=\count367
-\gtt@right@slot=\count368
+\gtt@currentline=\count366
+\gtt@lasttitleline=\count367
+\gtt@currgrid=\count368
+\gtt@chartwidth=\count369
+\gtt@lasttitleslot=\count370
+\gtt@elementid=\count371
+\gtt@today@slot=\count372
+\gtt@startjulian=\count373
+\gtt@endjulian=\count374
+\gtt@chartid=\count375
+\gtt@vrule@slot=\count376
+\gtt@calendar@slots=\count377
+\gtt@calendar@weeknumber=\count378
+\gtt@calendar@startofweek=\count379
+\gtt@left@slot=\count380
+\gtt@right@slot=\count381
 )) (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\latex\enumitem\enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
-\labelindent=\skip72
-\enit@outerparindent=\dimen376
-\enit@toks=\toks47
-\enit@inbox=\box86
-\enitdp@description=\count369
+\labelindent=\skip78
+\enit@outerparindent=\dimen388
+\enit@toks=\toks51
+\enit@inbox=\box95
+\enitdp@description=\count382
 ) (C:\Users\seant\Documents\Candidacy_Report\TeXFiles/1_definitions.tex) (C:\Us
 ers\seant\Documents\Candidacy_Report\Candidacy_ST_RevA.aux)
 \openout1 = `Candidacy_ST_RevA.aux'.
@@ -1404,14 +1463,14 @@ LaTeX Font Info:    Try loading font information for OT1+pplx on input line 7.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pplx.fd"
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
-\AtBeginShipoutBox=\box87
+\AtBeginShipoutBox=\box96
 Package hyperref Info: Link coloring OFF on input line 7.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count370
+\c@section@level=\count383
 )
 LaTeX Info: Redefining \ref on input line 7.
 LaTeX Info: Redefining \pageref on input line 7.
@@ -1423,17 +1482,17 @@ nt\Documents\Candidacy_Report\Candidacy_ST_RevA.out)
 
 (C:\Users\seant\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count371
-\scratchdimen=\dimen377
-\scratchbox=\box88
-\nofMPsegments=\count372
-\nofMParguments=\count373
-\everyMPshowfont=\toks48
-\MPscratchCnt=\count374
-\MPscratchDim=\dimen378
-\MPnumerator=\count375
-\makeMPintoPDFobject=\count376
-\everyMPtoPDFconversion=\toks49
+\scratchcounter=\count384
+\scratchdimen=\dimen389
+\scratchbox=\box97
+\nofMPsegments=\count385
+\nofMParguments=\count386
+\everyMPshowfont=\toks52
+\MPscratchCnt=\count387
+\MPscratchDim=\dimen390
+\MPnumerator=\count388
+\makeMPintoPDFobject=\count389
+\everyMPtoPDFconversion=\toks53
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
@@ -1494,14 +1553,34 @@ Non-PDF special ignored!
 <special> ps:tx@Dict begin  gsave STV CP T /ps@refangle 0.  def grestore  e...
 Non-PDF special ignored!
 <special> ps:tx@Dict begin  gsave STV CP T /ps@rot 0 def grestore  end
-{C:/Users/seant/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]) (C:\Users\
-seant\Documents\Candidacy_Report\sections/4_state_of_the_art.tex
-LaTeX Font Info:    Try loading font information for TS1+pplx on input line 11.
+{C:/Users/seant/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 33.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ts1pplx.fd"
-File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
-) [2]) (C:\Users\seant\Documents\Candidacy_Report\sections/5_work_accomplished.
-tex) (C:\Users\seant\Documents\Candidacy_Report\Candidacy_ST_RevA.bbl) [3]
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlzplm.fd"
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 33.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omszplm.fd"
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 33.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxzplm.fd"
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 33.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1zplm.fd"
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+Overfull \hbox (2.67738pt too wide) in paragraph at lines 43--43
+[]\OT1/pplx/b/n/10.95 Precision/Repeatability|  
+ []
+
+) (C:\Users\seant\Documents\Candidacy_Report\sections/4_state_of_the_art.tex [2
+]) (C:\Users\seant\Documents\Candidacy_Report\sections/5_work_accomplished.tex)
+(C:\Users\seant\Documents\Candidacy_Report\Candidacy_ST_RevA.bbl) [3]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 70.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 70.
 (C:\Users\seant\Documents\Candidacy_Report\Candidacy_ST_RevA.aux)
@@ -1512,22 +1591,22 @@ Package rerunfilecheck Info: File `Candidacy_ST_RevA.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 70.
  ) 
 Here is how much of TeX's memory you used:
- 45267 strings out of 493305
- 1040094 string characters out of 3138874
- 1379515 words of memory out of 3000000
- 48096 multiletter control sequences out of 15000+200000
- 542049 words of font info for 46 fonts, out of 3000000 for 9000
+ 46192 strings out of 493305
+ 1053512 string characters out of 3138874
+ 1401070 words of memory out of 3000000
+ 48990 multiletter control sequences out of 15000+200000
+ 547277 words of font info for 60 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 80i,5n,136p,1809b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 80i,18n,136p,1809b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmtcsc10.pfb><C:/Program Files/MiKTeX 2
 .9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts
 /type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/pal
 atino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.
 pfb>
-Output written on Candidacy_ST_RevA.pdf (3 pages, 87343 bytes).
+Output written on Candidacy_ST_RevA.pdf (3 pages, 90550 bytes).
 PDF statistics:
- 81 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
+ 82 PDF objects out of 1000 (max. 8388607)
+ 18 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
