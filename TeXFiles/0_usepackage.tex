@@ -1,0 +1,71 @@
+\usepackage{comment} % enables the use of multi-line comments (\ifx \fi)
+\usepackage{lipsum} %This package just generates Lorem Ipsum filler text.
+\usepackage{fullpage} % changes the margin
+\usepackage{hyperref}
+
+% \usepackage[backend=bibtex,style=verbose-trad2]{biblatex}
+%\usepackage[backend=bibtex,
+%  bibencoding=utf8
+%  ]{biblatex}
+% \usepackage[style=numeric-comp,natbib=true,backend=bibtex,bibencoding=utf8]{biblatex}
+% \AtEveryBibitem{%
+%   \clearfield{issn} % Remove issn
+%   \clearfield{doi} % Remove doi
+%   \clearfield{eprint} % Remove eprint
+%   \clearfield{pages} % Remove pages number
+%
+%   \ifentrytype{online}{}{% Remove url except for @online
+%     \clearfield{url}
+%   }
+% }
+%\addbibresource{bib/mybib}
+\usepackage{subfigure}
+\usepackage{wrapfig}
+\usepackage{xfrac}
+\usepackage{multirow}
+\usepackage{empheq}
+\usepackage{mathtools}
+\usepackage[sc]{mathpazo}
+
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{graphicx}
+\usepackage{caption}
+\captionsetup{%
+  font=footnotesize,% set font size to footnotesize
+  labelfont=bf % bold label (e.g., Figure 3.2) font
+}
+\usepackage{array,booktabs}
+\usepackage{framed}
+
+\usepackage{amsmath}
+
+\usepackage{pgfplots}        % make nice plots using raw data
+\usepgfplotslibrary{external}
+\usepackage{pstricks,pst-plot,psfrag}% Post-script graphics
+\usetikzlibrary{plotmarks}
+\usepackage{textcomp}
+\usetikzlibrary{shapes,arrows}
+ %define plots
+\pgfplotsset{
+  /pgfplots/xlabel near ticks/.style={
+    /pgfplots/every axis x label/.style={
+      at={(ticklabel cs:0.5)},anchor=near ticklabel
+    }
+  },
+  /pgfplots/ylabel near ticks/.style={
+    /pgfplots/every axis y label/.style={
+      at={(ticklabel cs:0.5)},rotate=90,anchor=near ticklabel
+    }
+  }
+}
+\pgfplotsset{compat=newest}
+\pgfplotsset{plot coordinates/math parser=false}
+
+\usepackage{pgfgantt}
+
+\setcounter{secnumdepth}{3} % only chapter and sections will be numbered
+\setcounter{tocdepth}{1}    % entries down to \subsubsections in the TOC
+
+\usepackage{enumitem}
+%\usepackage{fouriernc}
