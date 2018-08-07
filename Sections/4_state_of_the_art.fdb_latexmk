@@ -1,10 +1,12 @@
 # Fdb version 3
-["pdflatex"] 1533553228 "4_state_of_the_art.tex" "4_state_of_the_art.pdf" "4_state_of_the_art" 1533553228
+["pdflatex"] 1533637350 "4_state_of_the_art.tex" "4_state_of_the_art.pdf" "4_state_of_the_art" 1533637350
   "4_state_of_the_art.aux" 1533553228 9 a94a2480d3289e625eea47cd1b285758 ""
-  "4_state_of_the_art.tex" 1533552751 2677 3983bba44ec3564a4550f2802b566905 ""
+  "4_state_of_the_art.tex" 1533637346 6748 7acda0cc776169dd24d1223bf6f97f31 ""
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmbx5.tfm" 1136768653 1332 f817c21a1ba54560425663374f1b651a ""
+  "C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmbx7.tfm" 1136768653 1336 3125ccb448c1a09074e3aa4a9832f130 ""
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmti10.tfm" 1136768653 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "C:/Users/sethomas/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1509442497 4060069 09556cfdfc38ee824afa383411e8108e ""
   (generated)
-  "4_state_of_the_art.log"
   "4_state_of_the_art.pdf"
+  "4_state_of_the_art.log"
