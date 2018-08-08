@@ -19,7 +19,8 @@
 %   }
 % }
 %\addbibresource{bib/mybib}
-\usepackage{subfigure}
+\usepackage{subcaption}
+% \usepackage{subfig}
 \usepackage{wrapfig}
 \usepackage{xfrac}
 \usepackage{multirow}
@@ -35,9 +36,10 @@
 \usepackage{graphicx}
 \usepackage{caption}
 \captionsetup{%
-  % font=footnotesize,% set font size to footnotesize
+  font=small,% set font size to footnotesize
   labelfont=bf % bold label (e.g., Figure 3.2) font
 }
+\captionsetup[sub]{font=footnotesize,labelfont={bf,sf}}
 \usepackage{array,booktabs}
 \usepackage{framed}
 

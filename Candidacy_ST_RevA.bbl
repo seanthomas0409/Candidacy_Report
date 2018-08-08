@@ -1,18 +1,58 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{damodharan_review_2018}
 J.~Damodharan, A.~Sreedharan, and T.~Ramalingam, ``A {Review} on {Smart}
   {Materials}, {Types} and {Applications},'' {\em International Journal of
-  Engineering Technology Science and Research}, vol.~5, pp.~1--5, Mar. 2018.
+  Engineering Technology Science and Research}, vol.~5, p.~5, Mar. 2018.
 
-\bibitem{MohdJani2014}
-J.~{Mohd Jani}, M.~Leary, A.~Subic, and M.~A. Gibson, ``{A review of shape
-  memory alloy research, applications and opportunities},'' {\em Materials {\&}
-  Design (1980-2015)}, vol.~56, pp.~1078--1113, nov 2014.
+\bibitem{bar-cohen_artificial_2005}
+Y.~Bar-Cohen, ``Artificial muscles using electroactive polymers ({EAP}):
+  capabilities, challenges and potential,'' 2005.
 
-\bibitem{Rao2015}
-A.~Rao, A.~R. Srinivasa, and J.~N. Reddy, {\em {Design of Shape Memory Alloy
-  (SMA) Actuators}}.
-\newblock Cham: Springer International Publishing, oct 2015.
+\bibitem{kornbluh_electroactive_2004}
+R.~D. Kornbluh, R.~Pelrine, H.~Prahlad, and R.~Heydt, ``Electroactive polymers:
+  an emerging technology for {MEMS},'' in {\em {MEMS}/{MOEMS} {Components} and
+  {Their} {Applications}}, vol.~5344, pp.~13--28, International Society for
+  Optics and Photonics, Jan. 2004.
+
+\bibitem{kornbluh_electroelastomers:_2002}
+R.~D. Kornbluh, R.~Pelrine, Q.~Pei, R.~Heydt, S.~Stanford, S.~Oh, and
+  J.~Eckerle, ``Electroelastomers: applications of dielectric elastomer
+  transducers for actuation, generation, and smart structures,'' in {\em Smart
+  {Structures} and {Materials} 2002: {Industrial} and {Commercial}
+  {Applications} of {Smart} {Structures} {Technologies}}, vol.~4698,
+  pp.~254--271, International Society for Optics and Photonics, July 2002.
+
+\bibitem{thummala_analysis_2012}
+P.~Thummala, L.~Huang, Z.~Zhang, and M.~A.~E. Andersen, ``Analysis of
+  {Dielectric} {Electro} {Active} {Polymer} actuator and its high voltage
+  driving circuits,'' pp.~458--461, IEEE, June 2012.
+
+\bibitem{poubel_proposal_2011}
+L.~P. Poubel, {\em Proposal of a {Novel} {Method} for {Oscillating} {IPMCs}
+  with {DC} {Input}}.
+\newblock PhD thesis, Chiba University, Japan, 2011.
+
+\bibitem{shahinpoor_ionic_1998}
+M.~Shahinpoor, Y.~Bar-Cohen, J.~O. Simpson, and J.~Smith, ``Ionic polymer-metal
+  composites ({IPMCs}) as biomimetic sensors, actuators and artificial muscles
+  - a review,'' {\em Smart Materials and Structures}, vol.~7, no.~6, p.~R15,
+  1998.
+
+\bibitem{rossiter_self-switching_2006}
+J.~Rossiter, B.~Stoimenov, and T.~Mukai, ``A {Self}-switching {Bistable}
+  {Artificial} {Muscle} {Actuator},'' in {\em 2006 {SICE}-{ICASE}
+  {International} {Joint} {Conference}}, pp.~5847--5852, Oct. 2006.
+
+\bibitem{mohd_jani_review_2014}
+J.~Mohd~Jani, M.~Leary, A.~Subic, and M.~A. Gibson, ``A review of shape memory
+  alloy research, applications and opportunities,'' {\em Materials \& Design
+  (1980-2015)}, vol.~56, pp.~1078--1113, Apr. 2014.
+
+\bibitem{rao_design_2015}
+A.~Rao, A.~R. Srinivasa, and J.~N. Reddy, {\em Design of {Shape} {Memory}
+  {Alloy} ({SMA}) {Actuators}}.
+\newblock {SpringerBriefs} in {Applied} {Sciences} and {Technology}, Cham:
+  Springer International Publishing, 2015.
 
 \end{thebibliography}

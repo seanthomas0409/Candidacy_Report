@@ -40,10 +40,12 @@ INPUT C:/Program Files/MiKTeX 2.9/tex/latex/hyperref/hpdftex.def
 INPUT C:/Program Files/MiKTeX 2.9/tex/latex/hyperref/hpdftex.def
 INPUT C:/Program Files/MiKTeX 2.9/tex/latex/oberdiek/rerunfilecheck.sty
 INPUT C:/Program Files/MiKTeX 2.9/tex/latex/oberdiek/rerunfilecheck.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/subfigure/subfigure.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/subfigure/subfigure.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/subfigure/subfigure.cfg
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/subfigure/subfigure.cfg
+INPUT C:/Program Files/MiKTeX 2.9/tex/latex/caption/subcaption.sty
+INPUT C:/Program Files/MiKTeX 2.9/tex/latex/caption/subcaption.sty
+INPUT C:/Program Files/MiKTeX 2.9/tex/latex/caption/caption.sty
+INPUT C:/Program Files/MiKTeX 2.9/tex/latex/caption/caption.sty
+INPUT C:/Program Files/MiKTeX 2.9/tex/latex/caption/caption3.sty
+INPUT C:/Program Files/MiKTeX 2.9/tex/latex/caption/caption3.sty
 INPUT C:/Program Files/MiKTeX 2.9/tex/latex/wrapfig/wrapfig.sty
 INPUT C:/Program Files/MiKTeX 2.9/tex/latex/wrapfig/wrapfig.sty
 INPUT C:/Program Files/MiKTeX 2.9/tex/latex/l3packages/xfrac/xfrac.sty
@@ -125,12 +127,6 @@ INPUT C:/Program Files/MiKTeX 2.9/tex/latex/ltxmisc/varwidth.sty
 INPUT C:/Program Files/MiKTeX 2.9/tex/latex/ltxmisc/varwidth.sty
 INPUT C:/Program Files/MiKTeX 2.9/tex/latex/tools/longtable.sty
 INPUT C:/Program Files/MiKTeX 2.9/tex/latex/tools/longtable.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/caption/caption.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/caption/caption.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/caption/caption3.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/caption/caption3.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/caption/ltcaption.sty
-INPUT C:/Program Files/MiKTeX 2.9/tex/latex/caption/ltcaption.sty
 INPUT C:/Program Files/MiKTeX 2.9/tex/latex/booktabs/booktabs.sty
 INPUT C:/Program Files/MiKTeX 2.9/tex/latex/booktabs/booktabs.sty
 INPUT C:/Program Files/MiKTeX 2.9/tex/latex/framed/framed.sty
@@ -392,6 +388,8 @@ OUTPUT Candidacy_ST_RevA.pdf
 INPUT ./Candidacy_ST_RevA.out
 INPUT ./Candidacy_ST_RevA.out
 OUTPUT Candidacy_ST_RevA.out
+INPUT C:/Program Files/MiKTeX 2.9/tex/latex/caption/ltcaption.sty
+INPUT C:/Program Files/MiKTeX 2.9/tex/latex/caption/ltcaption.sty
 INPUT C:/Program Files/MiKTeX 2.9/tex/context/base/supp-pdf.mkii
 INPUT C:/Program Files/MiKTeX 2.9/tex/context/base/supp-pdf.mkii
 INPUT C:/Program Files/MiKTeX 2.9/tex/latex/oberdiek/epstopdf-base.sty
@@ -404,6 +402,16 @@ INPUT Candidacy_ST_RevA.toc
 INPUT Candidacy_ST_RevA.toc
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplb9t.tfm
 OUTPUT Candidacy_ST_RevA.toc
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplb9t.vf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplb8r.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmb.tfm
+INPUT C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplb9t.vf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplb8r.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmb.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplr9t.vf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmr.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr8r.tfm
 INPUT Sections/1_name.tex
 INPUT Sections/1_name.tex
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr9t.tfm
@@ -440,29 +448,70 @@ INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplri9t.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplb9t.vf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplb8r.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmb.tfm
-INPUT C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map
-INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplb9t.vf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplb8r.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmb.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplr9t.vf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmr.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr8r.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplb9t.vf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplb8r.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmb.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplri9t.vf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmri.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplri8r.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr9t.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplb9t.tfm
 INPUT sections/4_state_of_the_art.tex
 INPUT sections/4_state_of_the_art.tex
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplb9t.vf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplb8r.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmb.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplr9t.vf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmr.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr8r.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplr9t.vf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmr.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr8r.tfm
+INPUT Figures/DEAP_fig.png
+INPUT ./Figures/DEAP_fig.png
+INPUT ./Figures/DEAP_fig.png
+INPUT ./Figures/DEAP_fig.png
+INPUT ./Figures/DEAP_fig.png
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr9t.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplb9t.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmssbx10.tfm
+INPUT Figures/DEAP_curve.png
+INPUT ./Figures/DEAP_curve.png
+INPUT ./Figures/DEAP_curve.png
+INPUT ./Figures/DEAP_curve.png
+INPUT ./Figures/DEAP_curve.png
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplr9t.vf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmr.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr8r.tfm
+INPUT Figures/IPMC_fig.png
+INPUT ./Figures/IPMC_fig.png
+INPUT ./Figures/IPMC_fig.png
+INPUT ./Figures/IPMC_fig.png
+INPUT ./Figures/IPMC_fig.png
+INPUT Figures/IPMC_buckle.png
+INPUT ./Figures/IPMC_buckle.png
+INPUT ./Figures/IPMC_buckle.png
+INPUT ./Figures/IPMC_buckle.png
+INPUT ./Figures/IPMC_buckle.png
+INPUT Figures/IPMC_segment.png
+INPUT ./Figures/IPMC_segment.png
+INPUT ./Figures/IPMC_segment.png
+INPUT ./Figures/IPMC_segment.png
+INPUT ./Figures/IPMC_segment.png
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7m.vf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi10.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7t.vf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7m.vf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmri.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi10.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplri8r.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmb7t.vf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmbx10.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmb7t.vf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmb.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplb8r.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmbx10.tfm
 INPUT Figures/Phase_Transf_Diagram_noText.eps
 INPUT ./Figures/Phase_Transf_Diagram_noText.eps
 INPUT ./Figures/Phase_Transf_Diagram_noText.eps
@@ -473,18 +522,23 @@ INPUT ./Figures/Phase_Transf_Diagram_noText-eps-converted-to.pdf
 INPUT ./Figures/Phase_Transf_Diagram_noText-eps-converted-to.pdf
 INPUT ./Figures/Phase_Transf_Diagram_noText-eps-converted-to.pdf
 INPUT ./Figures/Phase_Transf_Diagram_noText-eps-converted-to.pdf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr9t.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7m.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7m.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7y.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7y.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7v.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7v.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7t.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7t.tfm
 INPUT sections/5_work_accomplished.tex
 INPUT sections/5_work_accomplished.tex
+INPUT sections/6_originality.tex
+INPUT sections/6_originality.tex
 INPUT Candidacy_ST_RevA.bbl
 INPUT Candidacy_ST_RevA.bbl
-INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmb7t.vf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmbx10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmb7t.vf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmb.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplb8r.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmbx10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7m.vf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi10.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7m.vf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmri.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi10.tfm
@@ -495,6 +549,10 @@ INPUT Candidacy_ST_RevA.aux
 INPUT ./Candidacy_ST_RevA.out
 INPUT ./Candidacy_ST_RevA.out
 INPUT C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
+INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb
+INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb
 INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtcsc10.pfb
