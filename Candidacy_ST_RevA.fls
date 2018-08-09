@@ -480,11 +480,24 @@ INPUT ./Figures/DEAP_curve.png
 INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplr9t.vf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmr.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr8r.tfm
+INPUT Figures/DEAP_flipflop.png
+INPUT ./Figures/DEAP_flipflop.png
+INPUT ./Figures/DEAP_flipflop.png
+INPUT ./Figures/DEAP_flipflop.png
+INPUT ./Figures/DEAP_flipflop.png
 INPUT Figures/IPMC_fig.png
 INPUT ./Figures/IPMC_fig.png
 INPUT ./Figures/IPMC_fig.png
 INPUT ./Figures/IPMC_fig.png
 INPUT ./Figures/IPMC_fig.png
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7m.vf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi10.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7t.vf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7m.vf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmri.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi10.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplri8r.tfm
 INPUT Figures/IPMC_buckle.png
 INPUT ./Figures/IPMC_buckle.png
 INPUT ./Figures/IPMC_buckle.png
@@ -495,23 +508,14 @@ INPUT ./Figures/IPMC_segment.png
 INPUT ./Figures/IPMC_segment.png
 INPUT ./Figures/IPMC_segment.png
 INPUT ./Figures/IPMC_segment.png
-INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7m.vf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7t.vf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7m.vf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmri.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplri8r.tfm
+INPUT Figures/MSMA_princ.png
+INPUT ./Figures/MSMA_princ.png
+INPUT ./Figures/MSMA_princ.png
+INPUT ./Figures/MSMA_princ.png
+INPUT ./Figures/MSMA_princ.png
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmb7t.vf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmbx10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmb7t.vf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmb.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplb8r.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmbx10.tfm
 INPUT Figures/Phase_Transf_Diagram_noText.eps
 INPUT ./Figures/Phase_Transf_Diagram_noText.eps
 INPUT ./Figures/Phase_Transf_Diagram_noText.eps
@@ -533,6 +537,12 @@ INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7t.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7t.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmb7t.vf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmbx10.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmb7t.vf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmb.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplb8r.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmbx10.tfm
 INPUT sections/5_work_accomplished.tex
 INPUT sections/5_work_accomplished.tex
 INPUT sections/6_originality.tex

@@ -51,6 +51,17 @@ The behaviour of the film is caused by the interaction of the electrostatic char
 \end{equation}
 where $\varepsilon_r$ and $\varepsilon_0$ are the permittivity of free space and the relative permittivity of the polymer respectively, $E$ is the electric field, $V$ is the voltage applied across the electrodes and t is the thickness of the dielectric material.
 
+
+Dielectric elastomer (DE) actuators are comprised of an elastomeric film that is platted on both sides with a compliant electrode as shown in figure \ref{fig:DEAP_fig}. The system is actuated when a high voltage is applied between the two electrodes. The main drawback of using DE actuators are the fact that they have very small fatigue life. By attempting to use the DE actuators in a continuous fashion, it will result in a short lifetimes and low reliability. In the paper written by J. Plante in 2005\cite{plante_properties_2007,chouinard_bistable_2012} or by N. Wang in 2018\cite{wang_design_2018}, the teams overcome the burdens of short fatigue life by coupling the DE actuator with a bistable element. Here the work displays DE actuators and a flip-flop bistable mechanism, where two agonistic-antagonistic actuators move a buckled beam back and forth. The DE actuator works as an external trigger mechanism that, when actuated, will force the bistable element into its opposing stable state.
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.4\textwidth]{Figures/DEAP_flipflop.png}
+	\caption{Flip-flop bistable actuator concept\cite{plante_compliant_2005}}
+	\label{fig:DEAP_flipflop}
+\end{figure}
+
+The work shows that the approach to use an antagonistic actuators with a smart present as a trigger mechanism are capable of approximately 10x greater volumetric energy density when compared to traditional flip-flop devices.\\
+
 \begin{wrapfigure}{r}{0.4\textwidth}
 	\centering
 	\vspace{-20pt}
@@ -62,21 +73,40 @@ where $\varepsilon_r$ and $\varepsilon_0$ are the permittivity of free space and
 
 Another variant of the EAPs are the Ionic EAP which differ from the DEAP which are sometimes referred to as Electronic EAP\cite{bar-cohen_artificial_2005}. The difference between the two variants arises from the fact that the actuation in Ionic EAPs is a result of diffusion of ions while in the traditional EAP, it is driven by Maxwell forces. An interesting Ionic EAP material are Ionic polymer-metal composites (IPMC). These IPMCs are a type of synthetic composite material that has a muscle-like behaviour under an applied voltage or electric field. In figure \ref{fig:IPMC_act}, the working principle is shown where as a voltage is applied, the diffusion of ions within the material causes a deformation. They are generally ionic polymers that are chemically plated with conductors\cite{shahinpoor_ionic_1998}.
 
-IPMC bending actuators have been used primarily used as bending actuators and artificial muscles. A novel work conducted by J. Rossiter in 2006\cite{rossiter_self-switching_2006} where a self-switching strategy is explored within the scope of a buckled bistable beam made entirely of the IPMC smart material. The work addresses many disadvantages experienced by using a classical bistable buckled beam system with an external trigger mechanism such as relaxation after actuation. low repeatability and the need for energy to maintain the stable states. The work concludes that by use of self-switching system, where the material itself is used as the buckled monolithic beam and switches from one stable state to another using applied voltage, the aforementioned disadvantages can be addressed. In this work, a buckled monolithic IPMC beam is separated into a number of electrically independent segments. The work, then, proposes various strategies to activate the segments so as to actuate the beam into transitioning or bifurcating from one of the stable positions to another.
-\begin{figure}[!htb]
-	\centering
-	\includegraphics[width=0.95\textwidth]{Figures/IPMC_buckle.png}
-	\caption{}
-	\label{}
+IPMC bending actuators have been used primarily used as bending actuators and artificial muscles. A novel work conducted by J. Rossiter in 2006\cite{rossiter_self-switching_2006, rossiter_bistable_2006} where a self-switching strategy is explored within the scope of a buckled bistable beam made entirely of the IPMC smart material. The work addresses many disadvantages experienced by using a classical bistable buckled beam system with an external trigger mechanism such as relaxation after actuation. low repeatability and the need for energy to maintain the stable states. The work concludes that by use of self-switching system, where the material itself is used as the buckled monolithic beam and switches from one stable state to another using applied voltage, the aforementioned disadvantages can be addressed. In this work, a buckled monolithic IPMC beam is separated into a number of electrically independent segments. The work, then, proposes various strategies to activate the segments so as to actuate the beam into transitioning or bifurcating from one of the stable positions to another.
+\begin{figure}[H]
+    \centering
+    \begin{subfigure}[t]{0.5\textwidth}
+			\includegraphics[width=\textwidth]{Figures/IPMC_buckle.png}
+			\caption{Nafion-based IPMC in the two buckled states.}
+			\label{fig:IPMC_buckle}
+    \end{subfigure}
+
+     %add desired spacing between images, e. g. ~, \quad, \qquad, \hfill etc.
+      %(or a blank line to force the subfigure onto a new line)
+    \begin{subfigure}[t]{0.6\textwidth}
+			\includegraphics[width=\textwidth]{Figures/IPMC_segment.png}
+			\caption{Segmentation at minimal static stress points.}
+			\label{fig:IPMC_segment}
+    \end{subfigure}
+		\caption{Self-switching IPMC buckled beam\cite{rossiter_self-switching_2006}.}
+		\label{fig:IPMC_work}
 \end{figure}
-\begin{figure}[!htb]
-	\centering
-	\includegraphics[width=0.95\textwidth]{Figures/IPMC_segment.png}
-	\caption{}
-	\label{}
-\end{figure}
+
 \subsubsection{Magneto-strictive materials}
-The magneto-strictive materials are category of smart materials that have the ability to alter their mechanical behaviour and shape when subjected to magnetic fields. Magnetic Shape Memory Alloys (MSMA) are a popular type of magnet0-strictive material. Here, the MSMA shows an interesting behaviour in which the material when deformed will tend to remain stable and retain its deformed shape. As the materials is introduced into a strong magnetic field, the crystals of the material are realigned and the material reverts back to its predeformed shape.
+The magneto-strictive materials are category of smart materials that have the ability to alter their mechanical behaviour and shape when subjected to magnetic fields. Magnetic Shape Memory Alloys (MSMA) are an interesting type of magneto-strictive material. Here, the MSMA shows an interesting behaviour in which the material when deformed will tend to remain stable and retain its deformed shape. As the materials is introduced into a strong magnetic field, the crystals of the material are realigned and the material reverts back to its predeformed shape. These MSMAs are an attractive choice for an actuator using smart materials as they are capable of high strains around 10\% while being able to prove fast response times\cite{faran_ferromagnetic_2016}.
+
+The main drawbacks of MSMAs are the fact that they are quite a new technology implying that they are expensive and that finding suppliers is quite difficult. They are also quite brittle and are thus it makes it quite difficult to see them in different geometries and shapes.
+
+The work presented by J.Y. Gauthier in 2006\cite{gauthier_multistable_2006} details the fabrication of a multistable actuator that is based on these MSMAs. Here the device is a push-pull actuator with a pair of agonistic-antagonistic MSMA beams. The active material is actuated using magnetic fields that are created using coils and concentrated using ferromagnetic cores. In figure \ref{fig:MSMA_princ}, a working principle of the MSMA actuator can be seen.
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.4\textwidth]{Figures/MSMA_princ.png}
+	\caption{Principle of the actuator\cite{gauthier_multistable_2006}}
+	\label{fig:MSMA_princ}
+\end{figure}
+
+The shape memory effect (SME) seen in the MSMA requires the material to be deformed before the application of the magnetic field. Only after the deformation can the strain recover of the SME be observed. In this work, the team was able to create a multistable actuator by using a pair of MSMA. Here, the activation of the first MSMA deformed the opposing beam and vice versa. This results in a displacement and positioning of an end effector placed in between the MSMAs. This work shows the advantages and breakthrough of using an agonistic-antagonistic pair of material to resolve the problem of preconstraining the active material.
 
 \subsubsection{Shape Memory Alloys}
 Shape Memory Alloys (SMA) are a particular subgroup of smart materials that change their mechanical behaviour based on a thermal stimulus. Here, the material as with the MSMA, retains its shape when deformed and reverts back to its original shape when heated. Shape Memory Alloys (SMA) actuators provide us with an opportunity to create such actuators due to their high work output per volume which is around 10 $\mathrm{J}/\mathrm{cm}^3$\cite{mohd_jani_review_2014}. This can be a 10-fold increase when compared to pneumatic actuators. The SMA actuators are thus able to provide large amounts of force when compared to their volume, making them particularly useful in compact, lightweight actuators.
@@ -85,9 +115,9 @@ NiTiNOL, the most used SMA, contains an interesting property known as the Shape 
 
 Shape memory alloys such NiTiNOL show two important properties: the Shape Memory Effect (SME) and Superelasticity (SE)\cite{rao_design_2015}. The property, this device aims to exploit is the SME. Materials exhibitng this property are able to return to a pre-defined shape when heated through a certain temperature range.
 
-SMAs exist in various different stable phases which consists of the \emph{Martensitic (M)} phase and the \emph{Austenitic (A)} phase. The M phase can exist in either the \emph{Twinned M phase} or the \emph{Detwinned M phase} based on the stress experienced by the material. The SME is the effect that transforms the material from the A phase to its M phase, also known as the Martensitic transformation. The opposite transformation, from the M phase to the A phase, is known as Austenitic transformation. When the material reaches the Austentic transformation temperature ($\mathbf{A_s}$) threshold, the material will begin the Austenitic transformation. Inversely, as the material cools down to the Martensitic transformation temperature ($\mathbf{M_s}$), it will begin the Martensitic transformation. Since these transformations occur over a range in temperature, we must heat and cool well beyond the transformation temperatures.
+SMAs exist in various different stable phases which consists of the \emph{Martensitic (M)} phase and the \emph{Austenitic (A)} phase. The M phase can exist in either the \emph{Twinned M phase} or the \emph{Detwinned M phase} based on the stress experienced by the material. The SME is the effect that transforms the material from the A phase to its M phase, also known as the Martensitic transformation. The opposite transformation, from the M phase to the A phase, is known as Austenitic transformation. When the material reaches the Austentic transformation temperature ($\mathbf{A_s}$) threshold, the material will begin the Austenitic transformation. Inversely, as the material cools down to the Martensitic tranlsformation temperature ($\mathbf{M_s}$), it will begin the Martensitic transformation. Since these transformations occur over a range in temperature, we must heat and cool well beyond the transformation temperatures.
 
-\begin{wrapfigure}{r}{0.5\textwidth}
+\begin{wrapfigure}{R}{0.5\textwidth}
   \centering
   \includegraphics[width=0.48\textwidth]{Figures/Phase_Transf_Diagram_noText.eps}
   \caption{Phase transformation diagram of a shape memory alloy. Here $\sigma$ represents the stress created by mechanical loading and T represents the temperature change due to thermal loading.}

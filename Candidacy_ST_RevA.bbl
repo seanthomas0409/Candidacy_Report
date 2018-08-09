@@ -28,6 +28,26 @@ P.~Thummala, L.~Huang, Z.~Zhang, and M.~A.~E. Andersen, ``Analysis of
   {Dielectric} {Electro} {Active} {Polymer} actuator and its high voltage
   driving circuits,'' pp.~458--461, IEEE, June 2012.
 
+\bibitem{plante_properties_2007}
+J.-S. Plante and S.~Dubowsky, ``On the properties of dielectric elastomer
+  actuators and their design implications,'' {\em Smart Materials and
+  Structures}, vol.~16, no.~2, p.~S227, 2007.
+
+\bibitem{chouinard_bistable_2012}
+P.~Chouinard and J.~Plante, ``Bistable {Antagonistic} {Dielectric} {Elastomer}
+  {Actuators} for {Binary} {Robotics} and {Mechatronics},'' {\em IEEE/ASME
+  Transactions on Mechatronics}, vol.~17, pp.~857--865, Oct. 2012.
+
+\bibitem{wang_design_2018}
+N.~Wang, C.~Cui, B.~Chen, and X.~Zhang, ``Design and {Analysis} of {Bistable}
+  {Dielectric} {Elastomer} {Actuator} with {Buckling} {Beam},'' in {\em
+  {MARSS}}, (Japan), p.~6, July 2018.
+
+\bibitem{plante_compliant_2005}
+J.-S. Plante, M.~Santer, S.~Dubowsky, and S.~Pellegrino, ``Compliant {Bistable}
+  {Dielectric} {Elastomer} {Actuators} for {Binary} {Mechatronic} {Systems},''
+  pp.~121--126, Jan. 2005.
+
 \bibitem{poubel_proposal_2011}
 L.~P. Poubel, {\em Proposal of a {Novel} {Method} for {Oscillating} {IPMCs}
   with {DC} {Input}}.
@@ -43,6 +63,23 @@ M.~Shahinpoor, Y.~Bar-Cohen, J.~O. Simpson, and J.~Smith, ``Ionic polymer-metal
 J.~Rossiter, B.~Stoimenov, and T.~Mukai, ``A {Self}-switching {Bistable}
   {Artificial} {Muscle} {Actuator},'' in {\em 2006 {SICE}-{ICASE}
   {International} {Joint} {Conference}}, pp.~5847--5852, Oct. 2006.
+
+\bibitem{rossiter_bistable_2006}
+J.~Rossiter, B.~Stoimenov, and T.~Mukai, ``A {Bistable} {Artificial} {Muscle}
+  {Actuator},'' in {\em 2006 {IEEE} {International} {Symposium} on
+  {MicroNanoMechanical} and {Human} {Science}}, pp.~1--6, Nov. 2006.
+
+\bibitem{faran_ferromagnetic_2016}
+E.~Faran and D.~Shilo, ``Ferromagnetic {Shape} {Memory}
+  {Alloys}—{Challenges}, {Applications}, and {Experimental}
+  {Characterization},'' {\em Experimental Techniques}, vol.~40, pp.~1005--1031,
+  June 2016.
+
+\bibitem{gauthier_multistable_2006}
+J.-Y. Gauthier, A.~Hubert, J.~Abadie, C.~Lexcellent, and N.~Chaillet,
+  ``Multistable actuator based on magnetic shape memory alloy..,'' in {\em
+  Proceedings of the 10th {International} {Conference} on {New} {Actuators},
+  {ACTUATOR}'06.}, vol.~1, (Bremen, Germany), pp.~787--790, June 2006.
 
 \bibitem{mohd_jani_review_2014}
 J.~Mohd~Jani, M.~Leary, A.~Subic, and M.~A. Gibson, ``A review of shape memory
