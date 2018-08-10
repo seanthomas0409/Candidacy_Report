@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.31)  9 AUG 2018 14:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.31)  10 AUG 2018 14:43
 entering extended mode
 **./Candidacy_ST_RevA.tex
 (Candidacy_ST_RevA.tex
@@ -1563,61 +1563,69 @@ LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <12> not available
 LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <10> not available
 (Font)              Font shape `OT1/pplx/b/n' tried instead on input line 28.
 ) (sections/4_state_of_the_art.tex
-[3] <Figures/DEAP_fig.png, id=64, 1134.2375pt x 523.9575pt>
+[3] <Figures/PZT_grip.png, id=63, 772.8875pt x 537.00626pt>
+File: Figures/PZT_grip.png Graphic file (type png)
+
+<use Figures/PZT_grip.png>
+Package pdftex.def Info: Figures/PZT_grip.png used on input line 27.
+(pdftex.def)             Requested size: 181.18439pt x 125.8851pt.
+ [4 <./Figures/PZT_grip.png>]
+<Figures/DEAP_fig.png, id=81, 1134.2375pt x 523.9575pt>
 File: Figures/DEAP_fig.png Graphic file (type png)
 
 <use Figures/DEAP_fig.png>
-Package pdftex.def Info: Figures/DEAP_fig.png used on input line 32.
+Package pdftex.def Info: Figures/DEAP_fig.png used on input line 44.
 (pdftex.def)             Requested size: 203.83417pt x 94.15637pt.
 LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <9> not available
-(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 33.
+(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 45.
 
-<Figures/DEAP_curve.png, id=66, 865.2325pt x 451.6875pt>
+<Figures/DEAP_curve.png, id=82, 865.2325pt x 451.6875pt>
 File: Figures/DEAP_curve.png Graphic file (type png)
 
 <use Figures/DEAP_curve.png>
-Package pdftex.def Info: Figures/DEAP_curve.png used on input line 39.
+Package pdftex.def Info: Figures/DEAP_curve.png used on input line 51.
 (pdftex.def)             Requested size: 203.83417pt x 106.40848pt.
- [4 <./Figures/DEAP_fig.png> <./Figures/DEAP_curve.png>] <Figures/DEAP_flipflop
-.png, id=87, 914.41624pt x 657.45625pt>
+
+<Figures/DEAP_flipflop.png, id=90, 914.41624pt x 657.45625pt>
 File: Figures/DEAP_flipflop.png Graphic file (type png)
 
 <use Figures/DEAP_flipflop.png>
-Package pdftex.def Info: Figures/DEAP_flipflop.png used on input line 58.
+Package pdftex.def Info: Figures/DEAP_flipflop.png used on input line 70.
 (pdftex.def)             Requested size: 181.18439pt x 130.26501pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 63--64
+ [5 <./Figures/DEAP_fig.png> <./Figures/DEAP_curve.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
  []
 
-<Figures/IPMC_fig.png, id=90, 891.33pt x 1008.76875pt>
+<Figures/IPMC_fig.png, id=108, 891.33pt x 1008.76875pt>
 File: Figures/IPMC_fig.png Graphic file (type png)
 
 <use Figures/IPMC_fig.png>
-Package pdftex.def Info: Figures/IPMC_fig.png used on input line 68.
+Package pdftex.def Info: Figures/IPMC_fig.png used on input line 80.
 (pdftex.def)             Requested size: 158.54152pt x 179.43097pt.
- [5 <./Figures/DEAP_flipflop.png> <./Figures/IPMC_fig.png>] <Figures/IPMC_buckl
-e.png, id=115, 520.94624pt x 103.38625pt>
+
+<Figures/IPMC_buckle.png, id=116, 520.94624pt x 103.38625pt>
 File: Figures/IPMC_buckle.png Graphic file (type png)
 
 <use Figures/IPMC_buckle.png>
-Package pdftex.def Info: Figures/IPMC_buckle.png used on input line 80.
+Package pdftex.def Info: Figures/IPMC_buckle.png used on input line 92.
 (pdftex.def)             Requested size: 226.48395pt x 44.9474pt.
 
-<Figures/IPMC_segment.png, id=116, 508.90125pt x 199.74625pt>
+<Figures/IPMC_segment.png, id=117, 508.90125pt x 199.74625pt>
 File: Figures/IPMC_segment.png Graphic file (type png)
 
 <use Figures/IPMC_segment.png>
-Package pdftex.def Info: Figures/IPMC_segment.png used on input line 88.
+Package pdftex.def Info: Figures/IPMC_segment.png used on input line 100.
 (pdftex.def)             Requested size: 271.7835pt x 106.67879pt.
-
-<Figures/MSMA_princ.png, id=122, 1013.7875pt x 685.56125pt>
+ [6 <./Figures/DEAP_flipflop.png> <./Figures/IPMC_fig.png>] <Figures/MSMA_princ
+.png, id=136, 1013.7875pt x 685.56125pt>
 File: Figures/MSMA_princ.png Graphic file (type png)
 
 <use Figures/MSMA_princ.png>
-Package pdftex.def Info: Figures/MSMA_princ.png used on input line 104.
+Package pdftex.def Info: Figures/MSMA_princ.png used on input line 116.
 (pdftex.def)             Requested size: 181.18439pt x 122.51698pt.
- [6 <./Figures/IPMC_buckle.png> <./Figures/IPMC_segment.png>]
+ [7 <./Figures/IPMC_buckle.png> <./Figures/IPMC_segment.png> <./Figures/MSMA_pr
+inc.png>]
 Package epstopdf Info: Source file: <Figures/Phase_Transf_Diagram_noText.eps>
 (epstopdf)                    date: 2018-07-30 13:20:22
 (epstopdf)                    size: 96075 bytes
@@ -1627,25 +1635,25 @@ nverted-to.pdf>
 (epstopdf)                    size: 35134 bytes
 (epstopdf)             Command: <epstopdf --outfile=Figures/Phase_Transf_Diagra
 m_noText-eps-converted-to.pdf Figures/Phase_Transf_Diagram_noText.eps>
-(epstopdf)             \includegraphics on input line 122.
+(epstopdf)             \includegraphics on input line 136.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Phase_Transf_Diagram_noText-eps-converted-to.pdf, id=140, 1178.4025pt 
+<Figures/Phase_Transf_Diagram_noText-eps-converted-to.pdf, id=155, 1178.4025pt 
 x 675.52374pt>
 File: Figures/Phase_Transf_Diagram_noText-eps-converted-to.pdf Graphic file (ty
 pe pdf)
  <use Figures/Phase_Transf_Diagram_noText-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Phase_Transf_Diagram_noText-eps-converted-to.p
-df used on input line 122.
+df used on input line 136.
 (pdftex.def)             Requested size: 217.42265pt x 124.62978pt.
 
-[7 <./Figures/MSMA_princ.png>]) (sections/5_work_accomplished.tex)
-(sections/6_originality.tex) (Candidacy_ST_RevA.bbl [8 <./Figures/Phase_Transf_
-Diagram_noText-eps-converted-to.pdf>]
+[8 <./Figures/Phase_Transf_Diagram_noText-eps-converted-to.pdf>])
+(sections/5_work_accomplished.tex) (sections/6_originality.tex)
+(Candidacy_ST_RevA.bbl [9]
 Missing character: There is no â in font pplr9t!
 Missing character: There is no € in font pplr9t!
 Missing character: There is no ” in font pplr9t!
- [9]) [10]
+ [10]) [11]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 70.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 70.
  (Candidacy_ST_RevA.aux)
@@ -1656,10 +1664,10 @@ Package rerunfilecheck Info: File `Candidacy_ST_RevA.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 70.
  ) 
 Here is how much of TeX's memory you used:
- 45572 strings out of 493323
- 1043134 string characters out of 3139056
- 1398892 words of memory out of 3000000
- 48298 multiletter control sequences out of 15000+200000
+ 45586 strings out of 493323
+ 1043385 string characters out of 3139056
+ 1399898 words of memory out of 3000000
+ 48306 multiletter control sequences out of 15000+200000
  560584 words of font info for 96 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  80i,18n,136p,10425b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1672,9 +1680,9 @@ msfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/mathpazo/
 fplmri.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:
 /Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files
 /MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Candidacy_ST_RevA.pdf (10 pages, 882619 bytes).
+Output written on Candidacy_ST_RevA.pdf (11 pages, 1225150 bytes).
 PDF statistics:
- 219 PDF objects out of 1000 (max. 8388607)
- 57 named destinations out of 1000 (max. 500000)
- 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 234 PDF objects out of 1000 (max. 8388607)
+ 62 named destinations out of 1000 (max. 500000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
 
