@@ -29,7 +29,7 @@ The work performed by Lianf et al., 2018\cite{liang_design_2018} displays a micr
 	\label{fig:PZT_grip}
 \end{figure}
 
-
+An interested approach to designing the amplification system has been observed in the study performed by Ruiz and Sigmund, 2018\cite{ruiz_optimal_2018}. In this work, a large displacement PZT microgripper was designed from a rectangular plate using topology optimization. Here, the PZT plate is sandwiched between two electrodes and an input voltage is applied. This voltage will generate an electric field and will create a deformation in the PZT structure. The optimisation strategy is to increase the deformation by varying the shape and dimensions of the total structure. This strategy could be used in not just this instance but to optimize the actuation of any actuator built around an active smart material.
 
 \subsubsection{Electro-Active polymers}
 Electroactive Polymers (EAP) are smart material polymers that have the ability to alter their mechanical behaviour such as a change in shape or size when exposed to an electric field. They are most commonly used in the domain of actuators and sensors. EAPs emerged in the last few decades exhibiting large strains when exposed to electrical stimulus \cite{bar-cohen_artificial_2005}.
@@ -143,3 +143,20 @@ SMAs exist in various different stable phases which consists of the \emph{Marten
 The SMA that in most likelihood will be used is a type of NiTiNOL variant with a relatively high transformation temperature (with $A_s$ around 50\degreeC) and thus exists primarily in the M phase at room temperature. The phase transformations can be seen in figure \ref{fig:PhaseTransfDiagram}. When a mechanical load is applied to the SMA while in its M phase, the material shears on an atomic level and this allows it to deform through a detwinning process at relatively low stress levels. This process allows the material to deform up to strains of 8$\%$. Strains larger than this will cause dislocations which are irreversible. When the beam is then heated, the Austentite transformation from the detwinned M phase to the A phase, causes the beam to lose all the strain due to twinning, allowing the material to return to its original shape. This strain recovery allows the beam to revert to its pre-defined state while producing large forces.
 
 \subsection{Comparison}
+The aim of this section of the report is to find the most appropriate type of technology that can replace and innovate the current gripper that are employed in industry. In the current industrial era, most grippers employ the use of pneumatic actuators as their primary source of energy. Thus, to innovate the current domain of gripper, various important factors must be taken into account so as to have a point of comparison between the different smart materials and the presently used pneumatic grippers.
+
+\begin{table}[h]
+  \centering
+  \caption{Comparison of actuator performances}
+  \label{tab:comparison}
+  \begin{tabu} to 1\textwidth {X[l, 2] X[l, 0.75] X[l,0.75] X[l,1] X[l,1] X[l,1.25]}
+			\tableHeaderStyle{tableBlue}
+      Actuator type & Stress [MPa] & Strain [\%] & Efficiency [\%] & Bandwidth [Hz] & Volumetric Work [J/\cc]\\
+      Pneumatic \cite{mohd_jani_review_2014} & 0.7 & 50 & 90 & 20 & 0.175\\
+			NiTi SMA \cite{mohd_jani_review_2014, rizzello_overview_2017, faran_ferromagnetic_2016} & 200 & 10 & 3 & $10^2$ & 10\\
+			PZT \cite{kornbluh_electroelastomers:_2002, faran_ferromagnetic_2016} & 110 & 0.1 & 90 & $10^6$ & 0.1\\
+			MSMA \cite{rizzello_overview_2017, faran_ferromagnetic_2016} &  & 6 & 90 & $10^3$ & 0.15\\
+			EAP \cite{kornbluh_electroelastomers:_2002, faran_ferromagnetic_2016, rizzello_overview_2017} & 3 & 63 & 90 & $10^5$ & 0.75\\
+			Human Muscle \cite{hollerbach_comparative_1992, tadesse_electroactive_2013} & 0.8 & 100 & 35 & 173 & 0.035\\
+  \end{tabu}
+\end{table}

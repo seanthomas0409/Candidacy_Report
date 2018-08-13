@@ -1,8 +1,8 @@
 %%%%%%%%%%%%%%%%%%%% Color definitions %%%%%%%%%%%%%%%%%%%%%
 
-\definecolor{aaublue}{RGB}{33,26,82}
+\definecolor{tableBlue}{RGB}{22,88,127}
 
-\definecolor{tableHeader}{RGB}{211, 47, 47}
+\definecolor{tableRed}{RGB}{211, 47, 47}
 \definecolor{tableLineOne}{RGB}{245, 245, 245}
 \definecolor{tableLineTwo}{RGB}{224, 224, 224}
 
@@ -10,12 +10,13 @@
 
 
 %%%%%%%%%%%%%%%%%%%% New Commands %%%%%%%%%%%%%%%%%%%%%%%%%%%
-\newcommand{\tableHeaderStyle}{
+\newcommand{\tableHeaderStyle}[1]{
     \rowfont{\leavevmode\color{white}\bfseries}
-    \rowcolor{tableHeader}
+    \rowcolor{#1}
 }
 \newcommand{\degree}{$^\circ$}
 \newcommand{\micrometer}{$\mu$m}
+\newcommand{\cc}{cm$^3$}
 
 % Black square bullets within lists
 \newcommand{\localtextbulletone}{\textcolor{bulletColor}{\raisebox{.2ex}{\rule{1.0ex}{1.0ex}}}}

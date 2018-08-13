@@ -11,6 +11,11 @@ C.~Liang, F.~Wang, B.~Shi, Z.~Huo, K.~Zhou, Y.~Tian, and D.~Zhang, ``Design and
   micromanipulation,'' {\em Sensors and Actuators A: Physical}, vol.~269,
   pp.~227--237, Jan. 2018.
 
+\bibitem{ruiz_optimal_2018}
+D.~Ruiz and O.~Sigmund, ``Optimal design of robust piezoelectric microgrippers
+  undergoing large displacements,'' {\em Structural and Multidisciplinary
+  Optimization}, vol.~57, pp.~71--82, Jan. 2018.
+
 \bibitem{bar-cohen_artificial_2005}
 Y.~Bar-Cohen, ``Artificial muscles using electroactive polymers ({EAP}):
   capabilities, challenges and potential,'' 2005.
@@ -103,5 +108,22 @@ A.~Rao, A.~R. Srinivasa, and J.~N. Reddy, {\em Design of {Shape} {Memory}
   {Alloy} ({SMA}) {Actuators}}.
 \newblock {SpringerBriefs} in {Applied} {Sciences} and {Technology}, Cham:
   Springer International Publishing, 2015.
+
+\bibitem{rizzello_overview_2017}
+G.~Rizzello and L.~Riccardi, ``An {Overview} on {Innovative} {Mechatronic}
+  {Actuators} {Based} on {Smart} {Materials},'' {\em IEEE Africon 2017
+  Proceedings}, p.~6, 2017.
+
+\bibitem{hollerbach_comparative_1992}
+J.~M. Hollerbach, I.~W. Hunter, and J.~Ballantyne, ``A comparative analysis of
+  actuator technologies for robotics,'' in {\em The {Robotics} {Review} 2}
+  (O.~Khatib, J.~J. Craig, and T.~Lozano-Pérez, eds.), pp.~299--342,
+  Cambridge, MA, USA: MIT Press, 1992.
+
+\bibitem{tadesse_electroactive_2013}
+Y.~Tadesse, ``Electroactive polymer and shape memory alloy actuators in
+  biomimetics and humanoids,'' in {\em Electroactive {Polymer} {Actuators} and
+  {Devices} ({EAPAD}) 2013}, vol.~8687, p.~868709, International Society for
+  Optics and Photonics, Apr. 2013.
 
 \end{thebibliography}
