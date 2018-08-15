@@ -19,15 +19,16 @@ The aim of this project is to adapt these aforementioned smart materials to harn
 \subsubsection{Piezoelectric Materials}
 Piezoelectric (PZT) materials are a subgroup of smart materials that have the capability to produce voltages when a stress is applied. This behaviour is can also be expressed in the opposite direction i.e. a strain can be generated using an electric field. Piezoelectric materials are the most popular type of smart materials and the most commonly used piezoceramics, such as lead zirconate titanate, are available in the form of thin sheets. These sheets can then be stacked to create piezostack actuators.
 
-PZT actuators are widely used due to the fact that they have small volumes, high output force and fast response times. But generally these materials have quite a small maximum stroke, generally around 10 \micrometer. This implies that PZT actuators will require the integration of amplifiers that will increase the total displacement of the actuator.
-
-The work performed by Lianf et al., 2018\cite{liang_design_2018} displays a micro-gripper that is comprised of a PZT along with an integrated amplifying system. The study uses flexure-based mechanical structures as an amplifier so as to create a high stroke gripper without a great increase in the total volume of the gripper.
-\begin{figure}[H]
+\begin{wrapfigure}{r}{0.45\textwidth}
 	\centering
+	% \vspace{-10pt}
 	\includegraphics[width=0.4\textwidth]{Figures/PZT_grip.png}
-	\caption{Mechanism of the PZT gripper\cite{liang_design_2018}}
+	\caption{Mechanism of the PZT gripper\cite{liang_design_2018}.}
+	% \vspace{-15pt}
 	\label{fig:PZT_grip}
-\end{figure}
+\end{wrapfigure}
+
+PZT actuators are widely used due to the fact that they have small volumes, high output force and fast response times. But generally these materials have quite a small maximum stroke, generally around 10 \micrometer. This implies that PZT actuators will require the integration of amplifiers that will increase the total displacement of the actuator. The work performed by Lianf et al., 2018\cite{liang_design_2018} displays a micro-gripper that is comprised of a PZT along with an integrated amplifying system. The study uses flexure-based mechanical structures as an amplifier so as to create a high stroke gripper without a great increase in the total volume of the gripper.
 
 An interested approach to designing the amplification system has been observed in the study performed by Ruiz and Sigmund, 2018\cite{ruiz_optimal_2018}. In this work, a large displacement PZT microgripper was designed from a rectangular plate using topology optimization. Here, the PZT plate is sandwiched between two electrodes and an input voltage is applied. This voltage will generate an electric field and will create a deformation in the PZT structure. The optimisation strategy is to increase the deformation by varying the shape and dimensions of the total structure. This strategy could be used in not just this instance but to optimize the actuation of any actuator built around an active smart material.
 
@@ -63,14 +64,16 @@ The behaviour of the film is caused by the interaction of the electrostatic char
 \end{equation}
 where $\varepsilon_r$ and $\varepsilon_0$ are the permittivity of free space and the relative permittivity of the polymer respectively, $E$ is the electric field, $V$ is the voltage applied across the electrodes and t is the thickness of the dielectric material.
 
-
-Dielectric elastomer (DE) actuators are comprised of an elastomeric film that is platted on both sides with a compliant electrode as shown in figure \ref{fig:DEAP_fig}. The system is actuated when a high voltage is applied between the two electrodes. The main drawback of using DE actuators are the fact that they have very small fatigue life. By attempting to use the DE actuators in a continuous fashion, it will result in a short lifetimes and low reliability. In the paper written by Plante et al,. 2005\cite{plante_properties_2007,chouinard_bistable_2012} or by Wang et al., 2018\cite{wang_design_2018}, the teams overcome the burdens of short fatigue life by coupling the DE actuator with a bistable element. Here the work displays DE actuators and a flip-flop bistable mechanism, where two agonistic-antagonistic actuators move a buckled beam back and forth. The DE actuator works as an external trigger mechanism that, when actuated, will force the bistable element into its opposing stable state.
-\begin{figure}[H]
+\begin{wrapfigure}{l}{0.45\textwidth}
 	\centering
+	% \vspace{-10pt}
 	\includegraphics[width=0.4\textwidth]{Figures/DEAP_flipflop.png}
-	\caption{Flip-flop bistable actuator concept\cite{plante_compliant_2005}}
+	\caption{Flip-flop bistable actuator concept\cite{plante_compliant_2005}.}
+	% \vspace{-15pt}
 	\label{fig:DEAP_flipflop}
-\end{figure}
+\end{wrapfigure}
+
+Dielectric elastomer (DE) actuators are comprised of an elastomeric film that is platted on both sides with a compliant electrode as shown in figure \ref{fig:DEAP_fig}. The system is actuated when a high voltage is applied between the two electrodes. The main drawback of using DE actuators are the fact that they have very small fatigue life. By attempting to use the DE actuators in a continuous fashion, it will result in a short lifetimes and low reliability. In the paper written by Plante et al,. 2005\cite{plante_properties_2007,chouinard_bistable_2012} or by Wang et al., 2018\cite{wang_design_2018}, the teams overcome the burdens of short fatigue life by coupling the DE actuator with a bistable element. Here, the work displays DE actuators and a flip-flop bistable mechanism, where two agonistic-antagonistic actuators move a buckled beam back and forth. The DE actuator works as an external trigger mechanism that, when actuated, will force the bistable element into its opposing stable state.
 
 The work shows that the approach to use an antagonistic actuators with a smart present as a trigger mechanism are capable of approximately 10x greater volumetric energy density when compared to traditional flip-flop devices.\\
 

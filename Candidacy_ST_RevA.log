@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.31)  15 AUG 2018 10:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.31)  15 AUG 2018 15:17
 entering extended mode
 **./Candidacy_ST_RevA.tex
 (Candidacy_ST_RevA.tex
@@ -1559,73 +1559,79 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--1
 ) (Sections/3_research_motivation.tex
 LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <12> not available
 (Font)              Font shape `OT1/pplx/b/n' tried instead on input line 2.
- [2]
+ [1]
 LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <10> not available
 (Font)              Font shape `OT1/pplx/b/n' tried instead on input line 28.
 ) (sections/4_state_of_the_art.tex
-[3] <Figures/PZT_grip.png, id=78, 772.8875pt x 537.00626pt>
+[2] <Figures/PZT_grip.png, id=77, 772.8875pt x 537.00626pt>
 File: Figures/PZT_grip.png Graphic file (type png)
 
 <use Figures/PZT_grip.png>
-Package pdftex.def Info: Figures/PZT_grip.png used on input line 27.
+Package pdftex.def Info: Figures/PZT_grip.png used on input line 25.
 (pdftex.def)             Requested size: 181.18439pt x 125.8851pt.
- [4 <./Figures/PZT_grip.png>]
-<Figures/DEAP_fig.png, id=95, 1134.2375pt x 523.9575pt>
+ [3 <./Figures/PZT_grip.png>]
+<Figures/DEAP_fig.png, id=98, 1134.2375pt x 523.9575pt>
 File: Figures/DEAP_fig.png Graphic file (type png)
 
 <use Figures/DEAP_fig.png>
-Package pdftex.def Info: Figures/DEAP_fig.png used on input line 44.
+Package pdftex.def Info: Figures/DEAP_fig.png used on input line 45.
 (pdftex.def)             Requested size: 203.83417pt x 94.15637pt.
 LaTeX Font Info:    Font shape `OT1/pplx/bx/n' in size <9> not available
-(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 45.
+(Font)              Font shape `OT1/pplx/b/n' tried instead on input line 46.
 
-<Figures/DEAP_curve.png, id=96, 865.2325pt x 451.6875pt>
+<Figures/DEAP_curve.png, id=99, 865.2325pt x 451.6875pt>
 File: Figures/DEAP_curve.png Graphic file (type png)
 
 <use Figures/DEAP_curve.png>
-Package pdftex.def Info: Figures/DEAP_curve.png used on input line 51.
+Package pdftex.def Info: Figures/DEAP_curve.png used on input line 52.
 (pdftex.def)             Requested size: 203.83417pt x 106.40848pt.
 
-<Figures/DEAP_flipflop.png, id=104, 914.41624pt x 657.45625pt>
+<Figures/DEAP_flipflop.png, id=103, 914.41624pt x 657.45625pt>
 File: Figures/DEAP_flipflop.png Graphic file (type png)
 
 <use Figures/DEAP_flipflop.png>
 Package pdftex.def Info: Figures/DEAP_flipflop.png used on input line 70.
 (pdftex.def)             Requested size: 181.18439pt x 130.26501pt.
- [5 <./Figures/DEAP_fig.png> <./Figures/DEAP_curve.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+[]\OT1/pplx/b/n/10 Figure 3: |\OT1/pplx/m/n/10 Flip-flop bistable ac-tu-a-tor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
 
  []
 
-<Figures/IPMC_fig.png, id=125, 891.33pt x 1008.76875pt>
+[4 <./Figures/DEAP_fig.png> <./Figures/DEAP_curve.png> <./Figures/DEAP_flipflop
+.png>] <Figures/IPMC_fig.png, id=128, 891.33pt x 1008.76875pt>
 File: Figures/IPMC_fig.png Graphic file (type png)
 
 <use Figures/IPMC_fig.png>
-Package pdftex.def Info: Figures/IPMC_fig.png used on input line 80.
+Package pdftex.def Info: Figures/IPMC_fig.png used on input line 83.
 (pdftex.def)             Requested size: 158.54152pt x 179.43097pt.
 
-<Figures/IPMC_buckle.png, id=133, 520.94624pt x 103.38625pt>
+<Figures/IPMC_buckle.png, id=136, 520.94624pt x 103.38625pt>
 File: Figures/IPMC_buckle.png Graphic file (type png)
 
 <use Figures/IPMC_buckle.png>
-Package pdftex.def Info: Figures/IPMC_buckle.png used on input line 92.
+Package pdftex.def Info: Figures/IPMC_buckle.png used on input line 95.
 (pdftex.def)             Requested size: 226.48395pt x 44.9474pt.
 
-<Figures/IPMC_segment.png, id=134, 508.90125pt x 199.74625pt>
+<Figures/IPMC_segment.png, id=137, 508.90125pt x 199.74625pt>
 File: Figures/IPMC_segment.png Graphic file (type png)
 
 <use Figures/IPMC_segment.png>
-Package pdftex.def Info: Figures/IPMC_segment.png used on input line 100.
+Package pdftex.def Info: Figures/IPMC_segment.png used on input line 103.
 (pdftex.def)             Requested size: 271.7835pt x 106.67879pt.
- [6 <./Figures/DEAP_flipflop.png> <./Figures/IPMC_fig.png>] <Figures/MSMA_princ
-.png, id=153, 1013.7875pt x 685.56125pt>
+ [5 <./Figures/IPMC_fig.png> <./Figures/IPMC_buckle.png> <./Figures/IPMC_segmen
+t.png>]
+<Figures/MSMA_princ.png, id=156, 1013.7875pt x 685.56125pt>
 File: Figures/MSMA_princ.png Graphic file (type png)
 
 <use Figures/MSMA_princ.png>
-Package pdftex.def Info: Figures/MSMA_princ.png used on input line 116.
+Package pdftex.def Info: Figures/MSMA_princ.png used on input line 119.
 (pdftex.def)             Requested size: 181.18439pt x 122.51698pt.
- [7 <./Figures/IPMC_buckle.png> <./Figures/IPMC_segment.png> <./Figures/MSMA_pr
-inc.png>]
+ [6 <./Figures/MSMA_princ.png>]
 Package epstopdf Info: Source file: <Figures/Phase_Transf_Diagram_noText.eps>
 (epstopdf)                    date: 2018-07-30 13:20:22
 (epstopdf)                    size: 96075 bytes
@@ -1635,21 +1641,21 @@ nverted-to.pdf>
 (epstopdf)                    size: 35134 bytes
 (epstopdf)             Command: <epstopdf --outfile=Figures/Phase_Transf_Diagra
 m_noText-eps-converted-to.pdf Figures/Phase_Transf_Diagram_noText.eps>
-(epstopdf)             \includegraphics on input line 136.
+(epstopdf)             \includegraphics on input line 139.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/Phase_Transf_Diagram_noText-eps-converted-to.pdf, id=172, 1178.4025pt 
+<Figures/Phase_Transf_Diagram_noText-eps-converted-to.pdf, id=173, 1178.4025pt 
 x 675.52374pt>
 File: Figures/Phase_Transf_Diagram_noText-eps-converted-to.pdf Graphic file (ty
 pe pdf)
  <use Figures/Phase_Transf_Diagram_noText-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/Phase_Transf_Diagram_noText-eps-converted-to.p
-df used on input line 136.
+df used on input line 139.
 (pdftex.def)             Requested size: 217.42265pt x 124.62978pt.
 
-[8 <./Figures/Phase_Transf_Diagram_noText-eps-converted-to.pdf>])
-(sections/5_work_accomplished.tex [9] (Figures/BuckledBeamStable.pdf_tex
-<./Figures/BuckledBeamStable.pdf, id=232, page=1, 294.93672pt x 30.94008pt>
+[7 <./Figures/Phase_Transf_Diagram_noText-eps-converted-to.pdf>])
+(sections/5_work_accomplished.tex (Figures/BuckledBeamStable.pdf_tex
+<./Figures/BuckledBeamStable.pdf, id=225, page=1, 294.93672pt x 30.94008pt>
 File: ./Figures/BuckledBeamStable.pdf Graphic file (type pdf)
 
 <use ./Figures/BuckledBeamStable.pdf, page 1>
@@ -1657,7 +1663,7 @@ Package pdftex.def Info: ./Figures/BuckledBeamStable.pdf, page1 used on input l
 ine 52.
 (pdftex.def)             Requested size: 181.18439pt x 19.00748pt.
 
-<./Figures/BuckledBeamStable.pdf, id=233, page=2, 294.93672pt x 30.94008pt>
+<./Figures/BuckledBeamStable.pdf, id=226, page=2, 294.93672pt x 30.94008pt>
 File: ./Figures/BuckledBeamStable.pdf Graphic file (type pdf)
 
 <use ./Figures/BuckledBeamStable.pdf, page 2>
@@ -1665,47 +1671,14 @@ Package pdftex.def Info: ./Figures/BuckledBeamStable.pdf, page2 used on input l
 ine 54.
 (pdftex.def)             Requested size: 181.18439pt x 19.00748pt.
 
-<./Figures/BuckledBeamStable.pdf, id=234, page=3, 294.93672pt x 30.94008pt>
+<./Figures/BuckledBeamStable.pdf, id=227, page=3, 294.93672pt x 30.94008pt>
 File: ./Figures/BuckledBeamStable.pdf Graphic file (type pdf)
 
 <use ./Figures/BuckledBeamStable.pdf, page 3>
 Package pdftex.def Info: ./Figures/BuckledBeamStable.pdf, page3 used on input l
 ine 56.
 (pdftex.def)             Requested size: 181.18439pt x 19.00748pt.
-)
-(Figures/BuckledBeamModes.pdf_tex
-<./Figures/BuckledBeamModes.pdf, id=238, page=1, 297.99083pt x 32.52498pt>
-File: ./Figures/BuckledBeamModes.pdf Graphic file (type pdf)
-
-<use ./Figures/BuckledBeamModes.pdf, page 1>
-Package pdftex.def Info: ./Figures/BuckledBeamModes.pdf, page1 used on input li
-ne 52.
-(pdftex.def)             Requested size: 181.18439pt x 19.77617pt.
-
-<./Figures/BuckledBeamModes.pdf, id=239, page=2, 297.99083pt x 32.52498pt>
-File: ./Figures/BuckledBeamModes.pdf Graphic file (type pdf)
-
-<use ./Figures/BuckledBeamModes.pdf, page 2>
-Package pdftex.def Info: ./Figures/BuckledBeamModes.pdf, page2 used on input li
-ne 54.
-(pdftex.def)             Requested size: 181.18439pt x 19.77617pt.
-
-<./Figures/BuckledBeamModes.pdf, id=240, page=3, 297.99083pt x 32.52498pt>
-File: ./Figures/BuckledBeamModes.pdf Graphic file (type pdf)
-
-<use ./Figures/BuckledBeamModes.pdf, page 3>
-Package pdftex.def Info: ./Figures/BuckledBeamModes.pdf, page3 used on input li
-ne 56.
-(pdftex.def)             Requested size: 181.18439pt x 19.77617pt.
-
-<./Figures/BuckledBeamModes.pdf, id=241, page=4, 297.99083pt x 32.52498pt>
-File: ./Figures/BuckledBeamModes.pdf Graphic file (type pdf)
-
-<use ./Figures/BuckledBeamModes.pdf, page 4>
-Package pdftex.def Info: ./Figures/BuckledBeamModes.pdf, page4 used on input li
-ne 58.
-(pdftex.def)             Requested size: 181.18439pt x 19.77617pt.
-) [10 <./Figures/BuckledBeamStable.pdf> <./Figures/BuckledBeamStable.pdf
+) [8 <./Figures/BuckledBeamStable.pdf> <./Figures/BuckledBeamStable.pdf
 
 pdfTeX warning: pdflatex (file ./Figures/BuckledBeamStable.pdf): PDF inclusion:
  multiple pdfs with page group included in a single page
@@ -1713,11 +1686,39 @@ pdfTeX warning: pdflatex (file ./Figures/BuckledBeamStable.pdf): PDF inclusion:
 
 pdfTeX warning: pdflatex (file ./Figures/BuckledBeamStable.pdf): PDF inclusion:
  multiple pdfs with page group included in a single page
-> <./Figures/BuckledBeamModes.pdf
+>] (Figures/BuckledBeamModes.pdf_tex
+<./Figures/BuckledBeamModes.pdf, id=243, page=1, 297.99083pt x 32.52498pt>
+File: ./Figures/BuckledBeamModes.pdf Graphic file (type pdf)
 
-pdfTeX warning: pdflatex (file ./Figures/BuckledBeamModes.pdf): PDF inclusion: 
-multiple pdfs with page group included in a single page
-> <./Figures/BuckledBeamModes.pdf
+<use ./Figures/BuckledBeamModes.pdf, page 1>
+Package pdftex.def Info: ./Figures/BuckledBeamModes.pdf, page1 used on input li
+ne 52.
+(pdftex.def)             Requested size: 181.18439pt x 19.77617pt.
+
+<./Figures/BuckledBeamModes.pdf, id=244, page=2, 297.99083pt x 32.52498pt>
+File: ./Figures/BuckledBeamModes.pdf Graphic file (type pdf)
+
+<use ./Figures/BuckledBeamModes.pdf, page 2>
+Package pdftex.def Info: ./Figures/BuckledBeamModes.pdf, page2 used on input li
+ne 54.
+(pdftex.def)             Requested size: 181.18439pt x 19.77617pt.
+
+<./Figures/BuckledBeamModes.pdf, id=245, page=3, 297.99083pt x 32.52498pt>
+File: ./Figures/BuckledBeamModes.pdf Graphic file (type pdf)
+
+<use ./Figures/BuckledBeamModes.pdf, page 3>
+Package pdftex.def Info: ./Figures/BuckledBeamModes.pdf, page3 used on input li
+ne 56.
+(pdftex.def)             Requested size: 181.18439pt x 19.77617pt.
+
+<./Figures/BuckledBeamModes.pdf, id=246, page=4, 297.99083pt x 32.52498pt>
+File: ./Figures/BuckledBeamModes.pdf Graphic file (type pdf)
+
+<use ./Figures/BuckledBeamModes.pdf, page 4>
+Package pdftex.def Info: ./Figures/BuckledBeamModes.pdf, page4 used on input li
+ne 58.
+(pdftex.def)             Requested size: 181.18439pt x 19.77617pt.
+) [9 <./Figures/BuckledBeamModes.pdf> <./Figures/BuckledBeamModes.pdf
 
 pdfTeX warning: pdflatex (file ./Figures/BuckledBeamModes.pdf): PDF inclusion: 
 multiple pdfs with page group included in a single page
@@ -1730,7 +1731,7 @@ multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex (file ./Figures/BuckledBeamModes.pdf): PDF inclusion: 
 multiple pdfs with page group included in a single page
 >] (Figures/FigElongationStressStrain.pdf_tex
-<./Figures/FigElongationStressStrain.pdf, id=261, page=1, 289.78537pt x 172.447
+<./Figures/FigElongationStressStrain.pdf, id=265, page=1, 289.78537pt x 172.447
 72pt>
 File: ./Figures/FigElongationStressStrain.pdf Graphic file (type pdf)
  <use ./Figures/FigElongationStressStrain.pdf, page 1>
@@ -1738,7 +1739,7 @@ Package pdftex.def Info: ./Figures/FigElongationStressStrain.pdf, page1 used on
  input line 52.
 (pdftex.def)             Requested size: 226.48395pt x 134.77707pt.
 
-<./Figures/FigElongationStressStrain.pdf, id=262, page=2, 289.78537pt x 172.447
+<./Figures/FigElongationStressStrain.pdf, id=266, page=2, 289.78537pt x 172.447
 72pt>
 File: ./Figures/FigElongationStressStrain.pdf Graphic file (type pdf)
  <use ./Figures/FigElongationStressStrain.pdf, page 2>
@@ -1746,7 +1747,7 @@ Package pdftex.def Info: ./Figures/FigElongationStressStrain.pdf, page2 used on
  input line 61.
 (pdftex.def)             Requested size: 226.48395pt x 134.77707pt.
 
-<./Figures/FigElongationStressStrain.pdf, id=263, page=3, 289.78537pt x 172.447
+<./Figures/FigElongationStressStrain.pdf, id=267, page=3, 289.78537pt x 172.447
 72pt>
 File: ./Figures/FigElongationStressStrain.pdf Graphic file (type pdf)
  <use ./Figures/FigElongationStressStrain.pdf, page 3>
@@ -1754,7 +1755,7 @@ Package pdftex.def Info: ./Figures/FigElongationStressStrain.pdf, page3 used on
  input line 68.
 (pdftex.def)             Requested size: 226.48395pt x 134.77707pt.
 
-<./Figures/FigElongationStressStrain.pdf, id=264, page=4, 289.78537pt x 172.447
+<./Figures/FigElongationStressStrain.pdf, id=268, page=4, 289.78537pt x 172.447
 72pt>
 File: ./Figures/FigElongationStressStrain.pdf Graphic file (type pdf)
  <use ./Figures/FigElongationStressStrain.pdf, page 4>
@@ -1762,7 +1763,7 @@ Package pdftex.def Info: ./Figures/FigElongationStressStrain.pdf, page4 used on
  input line 75.
 (pdftex.def)             Requested size: 226.48395pt x 134.77707pt.
 
-<./Figures/FigElongationStressStrain.pdf, id=265, page=5, 289.78537pt x 172.447
+<./Figures/FigElongationStressStrain.pdf, id=269, page=5, 289.78537pt x 172.447
 72pt>
 File: ./Figures/FigElongationStressStrain.pdf Graphic file (type pdf)
  <use ./Figures/FigElongationStressStrain.pdf, page 5>
@@ -1770,16 +1771,36 @@ Package pdftex.def Info: ./Figures/FigElongationStressStrain.pdf, page5 used on
  input line 77.
 (pdftex.def)             Requested size: 226.48395pt x 134.77707pt.
 
-<./Figures/FigElongationStressStrain.pdf, id=266, page=6, 289.78537pt x 172.447
+<./Figures/FigElongationStressStrain.pdf, id=270, page=6, 289.78537pt x 172.447
 72pt>
 File: ./Figures/FigElongationStressStrain.pdf Graphic file (type pdf)
  <use ./Figures/FigElongationStressStrain.pdf, page 6>
 Package pdftex.def Info: ./Figures/FigElongationStressStrain.pdf, page6 used on
  input line 79.
 (pdftex.def)             Requested size: 226.48395pt x 134.77707pt.
-) [11]
-(Figures/FigSMABlade3x.pdf_tex
-<./Figures/FigSMABlade3x.pdf, id=279, page=1, 577.67816pt x 258.48569pt>
+) [10 <./Figures/FigElongationStressStrain.pdf> <./Figures/FigElongationStressS
+train.pdf
+
+pdfTeX warning: pdflatex (file ./Figures/FigElongationStressStrain.pdf): PDF in
+clusion: multiple pdfs with page group included in a single page
+> <./Figures/FigElongationStressStrain.pdf
+
+pdfTeX warning: pdflatex (file ./Figures/FigElongationStressStrain.pdf): PDF in
+clusion: multiple pdfs with page group included in a single page
+> <./Figures/FigElongationStressStrain.pdf
+
+pdfTeX warning: pdflatex (file ./Figures/FigElongationStressStrain.pdf): PDF in
+clusion: multiple pdfs with page group included in a single page
+> <./Figures/FigElongationStressStrain.pdf
+
+pdfTeX warning: pdflatex (file ./Figures/FigElongationStressStrain.pdf): PDF in
+clusion: multiple pdfs with page group included in a single page
+> <./Figures/FigElongationStressStrain.pdf
+
+pdfTeX warning: pdflatex (file ./Figures/FigElongationStressStrain.pdf): PDF in
+clusion: multiple pdfs with page group included in a single page
+>] (Figures/FigSMABlade3x.pdf_tex
+<./Figures/FigSMABlade3x.pdf, id=853, page=1, 577.67816pt x 258.48569pt>
 File: ./Figures/FigSMABlade3x.pdf Graphic file (type pdf)
 
 <use ./Figures/FigSMABlade3x.pdf, page 1>
@@ -1787,39 +1808,13 @@ Package pdftex.def Info: ./Figures/FigSMABlade3x.pdf, page1 used on input line
 52.
 (pdftex.def)             Requested size: 226.48395pt x 101.34146pt.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 91--92
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
 
  []
 
-[12 <./Figures/FigElongationStressStrain.pdf> <./Figures/FigElongationStressStr
-ain.pdf
 
-pdfTeX warning: pdflatex (file ./Figures/FigElongationStressStrain.pdf): PDF in
-clusion: multiple pdfs with page group included in a single page
-> <./Figures/FigElongationStressStrain.pdf
-
-pdfTeX warning: pdflatex (file ./Figures/FigElongationStressStrain.pdf): PDF in
-clusion: multiple pdfs with page group included in a single page
-> <./Figures/FigElongationStressStrain.pdf
-
-pdfTeX warning: pdflatex (file ./Figures/FigElongationStressStrain.pdf): PDF in
-clusion: multiple pdfs with page group included in a single page
-> <./Figures/FigElongationStressStrain.pdf
-
-pdfTeX warning: pdflatex (file ./Figures/FigElongationStressStrain.pdf): PDF in
-clusion: multiple pdfs with page group included in a single page
-> <./Figures/FigElongationStressStrain.pdf
-
-pdfTeX warning: pdflatex (file ./Figures/FigElongationStressStrain.pdf): PDF in
-clusion: multiple pdfs with page group included in a single page
-> <./Figures/FigSMABlade3x.pdf
-
-pdfTeX warning: pdflatex (file ./Figures/FigSMABlade3x.pdf): PDF inclusion: mul
-tiple pdfs with page group included in a single page
->]
-
-LaTeX Warning: Reference `fig:FigCentBumpGeom' on page 13 undefined on input li
-ne 93.
+LaTeX Warning: Reference `fig:FigCentBumpGeom' on page 11 undefined on input li
+ne 95.
 
 Package epstopdf Info: Source file: <Figures/FigCentBumpBefore2x.eps>
 (epstopdf)                    date: 2018-06-20 08:54:22
@@ -1830,15 +1825,15 @@ to.pdf>
 (epstopdf)                    size: 99587 bytes
 (epstopdf)             Command: <epstopdf --outfile=Figures/FigCentBumpBefore2x
 -eps-converted-to.pdf Figures/FigCentBumpBefore2x.eps>
-(epstopdf)             \includegraphics on input line 98.
+(epstopdf)             \includegraphics on input line 100.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/FigCentBumpBefore2x-eps-converted-to.pdf, id=863, 599.23875pt x 268.00
+<Figures/FigCentBumpBefore2x-eps-converted-to.pdf, id=854, 599.23875pt x 268.00
 125pt>
 File: Figures/FigCentBumpBefore2x-eps-converted-to.pdf Graphic file (type pdf)
  <use Figures/FigCentBumpBefore2x-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/FigCentBumpBefore2x-eps-converted-to.pdf used 
-on input line 98.
+on input line 100.
 (pdftex.def)             Requested size: 203.83417pt x 91.1601pt.
 Package epstopdf Info: Source file: <Figures/FigCentBumpAfter2x.eps>
 (epstopdf)                    date: 2018-06-20 08:56:09
@@ -1849,32 +1844,33 @@ o.pdf>
 (epstopdf)                    size: 96655 bytes
 (epstopdf)             Command: <epstopdf --outfile=Figures/FigCentBumpAfter2x-
 eps-converted-to.pdf Figures/FigCentBumpAfter2x.eps>
-(epstopdf)             \includegraphics on input line 106.
+(epstopdf)             \includegraphics on input line 108.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figures/FigCentBumpAfter2x-eps-converted-to.pdf, id=864, 599.23875pt x 268.001
+<Figures/FigCentBumpAfter2x-eps-converted-to.pdf, id=855, 599.23875pt x 268.001
 25pt>
 File: Figures/FigCentBumpAfter2x-eps-converted-to.pdf Graphic file (type pdf)
  <use Figures/FigCentBumpAfter2x-eps-converted-to.pdf>
 Package pdftex.def Info: Figures/FigCentBumpAfter2x-eps-converted-to.pdf used o
-n input line 106.
+n input line 108.
 (pdftex.def)             Requested size: 203.83417pt x 91.1601pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
+ [11 <./Figures/FigSMABlade3x.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
 
  []
 
-[13 <./Figures/FigCentBumpBefore2x-eps-converted-to.pdf> <./Figures/FigCentBump
-After2x-eps-converted-to.pdf>] (Figures/test_bench.pdf_tex
-<./Figures/test_bench.pdf, id=880, page=1, 523.52277pt x 294.43266pt>
+(Figures/test_bench.pdf_tex
+<./Figures/test_bench.pdf, id=871, page=1, 523.52277pt x 294.43266pt>
 File: ./Figures/test_bench.pdf Graphic file (type pdf)
 
 <use ./Figures/test_bench.pdf, page 1>
 Package pdftex.def Info: ./Figures/test_bench.pdf, page1 used on input line 52.
 
 (pdftex.def)             Requested size: 226.48395pt x 127.37631pt.
-) (Figures/SMA_LaserCut_revB.pdf_tex
-<./Figures/SMA_LaserCut_revB.pdf, id=882, page=1, 773.75328pt x 457.88077pt>
+) [12 <./Figures/FigCentBumpBefore2x-eps-converted-to.pdf> <./Figures/FigCentBu
+mpAfter2x-eps-converted-to.pdf>]
+(Figures/SMA_LaserCut_revB.pdf_tex
+<./Figures/SMA_LaserCut_revB.pdf, id=887, page=1, 773.75328pt x 457.88077pt>
 File: ./Figures/SMA_LaserCut_revB.pdf Graphic file (type pdf)
 
 <use ./Figures/SMA_LaserCut_revB.pdf, page 1>
@@ -1882,60 +1878,60 @@ Package pdftex.def Info: ./Figures/SMA_LaserCut_revB.pdf, page1 used on input l
 ine 52.
 (pdftex.def)             Requested size: 226.48395pt x 134.02565pt.
 
-<./Figures/SMA_LaserCut_revB.pdf, id=883, page=2, 773.75328pt x 457.88077pt>
+<./Figures/SMA_LaserCut_revB.pdf, id=888, page=2, 773.75328pt x 457.88077pt>
 File: ./Figures/SMA_LaserCut_revB.pdf Graphic file (type pdf)
 
 <use ./Figures/SMA_LaserCut_revB.pdf, page 2>
 Package pdftex.def Info: ./Figures/SMA_LaserCut_revB.pdf, page2 used on input l
 ine 62.
 (pdftex.def)             Requested size: 226.48395pt x 134.02565pt.
-) [14 <./Figures/test_bench.pdf>]
-<Figures/fig_bar.pdf, id=906, 421.575pt x 316.18124pt>
+) [13 <./Figures/test_bench.pdf>]
+<Figures/fig_bar.pdf, id=909, 421.575pt x 316.18124pt>
 File: Figures/fig_bar.pdf Graphic file (type pdf)
 
 <use Figures/fig_bar.pdf>
-Package pdftex.def Info: Figures/fig_bar.pdf used on input line 154.
+Package pdftex.def Info: Figures/fig_bar.pdf used on input line 156.
 (pdftex.def)             Requested size: 240.07242pt x 180.05632pt.
- [15 <./Figures/SMA_LaserCut_revB.pdf> <./Figures/SMA_LaserCut_revB.pdf
+ [14 <./Figures/SMA_LaserCut_revB.pdf> <./Figures/SMA_LaserCut_revB.pdf
 
 pdfTeX warning: pdflatex (file ./Figures/SMA_LaserCut_revB.pdf): PDF inclusion:
  multiple pdfs with page group included in a single page
 > <./Figures/fig_bar.pdf>]) (sections/6_originality.tex)
-(sections/7_thesis_plan.tex [16]) (sections/8_gantt.tex
+(sections/7_thesis_plan.tex [15]) (sections/8_gantt.tex
 Overfull \hbox (8.9396pt too wide) in paragraph at lines 99--102
  [][] 
  []
 
-) (sections/9_publications.tex) (Candidacy_ST_RevA.bbl [17]
+) (sections/9_publications.tex) (Candidacy_ST_RevA.bbl [16]
 Missing character: There is no â in font pplr9t!
 Missing character: There is no € in font pplr9t!
 Missing character: There is no ” in font pplr9t!
- [18]
+ [17]
 Missing character: There is no â in font pplr9t!
 Missing character: There is no € in font pplr9t!
 Missing character: There is no ” in font pplr9t!
 Missing character: There is no â in font pplr9t!
 Missing character: There is no € in font pplr9t!
 Missing character: There is no “ in font pplr9t!
-) [19]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 71.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 71.
+) [18]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 72.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 72.
 
 (Candidacy_ST_RevA.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 71.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 71.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 72.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 72.
 Package rerunfilecheck Info: File `Candidacy_ST_RevA.out' has not changed.
 (rerunfilecheck)             Checksum: DEB0477BC863BAFD4EDF6597930A9059;503.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 71.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 72.
  ) 
 Here is how much of TeX's memory you used:
  46197 strings out of 493323
- 1057548 string characters out of 3139056
- 1405800 words of memory out of 3000000
+ 1057547 string characters out of 3139056
+ 1405798 words of memory out of 3000000
  48830 multiletter control sequences out of 15000+200000
  570596 words of font info for 123 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1950,9 +1946,9 @@ cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmri.p
 fb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program
  Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 
 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Candidacy_ST_RevA.pdf (19 pages, 5065338 bytes).
+Output written on Candidacy_ST_RevA.pdf (19 pages, 5066271 bytes).
 PDF statistics:
- 1200 PDF objects out of 1200 (max. 8388607)
+ 1203 PDF objects out of 1440 (max. 8388607)
  107 named destinations out of 1000 (max. 500000)
  230 words of extra memory for PDF output out of 10000 (max. 10000000)
 
