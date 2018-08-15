@@ -114,16 +114,30 @@ G.~Rizzello and L.~Riccardi, ``An {Overview} on {Innovative} {Mechatronic}
   {Actuators} {Based} on {Smart} {Materials},'' {\em IEEE Africon 2017
   Proceedings}, p.~6, 2017.
 
-\bibitem{hollerbach_comparative_1992}
-J.~M. Hollerbach, I.~W. Hunter, and J.~Ballantyne, ``A comparative analysis of
-  actuator technologies for robotics,'' in {\em The {Robotics} {Review} 2}
-  (O.~Khatib, J.~J. Craig, and T.~Lozano-Pérez, eds.), pp.~299--342,
-  Cambridge, MA, USA: MIT Press, 1992.
+\bibitem{karaca_magnetic_2009}
+H.~E. Karaca, I.~Karaman, B.~Basaran, Y.~Ren, Y.~I. Chumlyakov, and H.~J.
+  Maier, ``Magnetic {Field}-{Induced} {Phase} {Transformation} in {NiMnCoIn}
+  {Magnetic} {Shape}-{Memory} {Alloys}—{A} {New} {Actuation} {Mechanism} with
+  {Large} {Work} {Output},'' {\em Advanced Functional Materials}, vol.~19,
+  pp.~983--998, Apr. 2009.
 
-\bibitem{tadesse_electroactive_2013}
-Y.~Tadesse, ``Electroactive polymer and shape memory alloy actuators in
-  biomimetics and humanoids,'' in {\em Electroactive {Polymer} {Actuators} and
-  {Devices} ({EAPAD}) 2013}, vol.~8687, p.~868709, International Society for
-  Optics and Photonics, Apr. 2013.
+\bibitem{timoshenko_theory_1962}
+S.~P. Timoshenko, J.~M. Gere, and W.~Prager, ``Theory of {Elastic} {Stability},
+  {Second} {Edition},'' {\em Journal of Applied Mechanics}, vol.~29, no.~1,
+  p.~220, 1962.
+
+\bibitem{divringi_advanced_2009}
+K.~Divringi and C.~Ozcan, ``Advanced {Shape} {Memory} {Alloy} {Material}
+  {Models} for {ANSYS},'' tech. rep., Ozen Engineering Inc, 2009.
+
+\bibitem{hongchun_xie_design_2007}
+O.~Hongchun~Xie, ``Design, simulation and experimental study of shape memory
+  alloy and micro-motor activated high pressure optical cell for bio-physical
+  studies,'' p.~180, Oct. 2007.
+
+\bibitem{liu_asymmetry_1998}
+Y.~Liu, Z.~Xie, J.~Van~Humbeeck, and L.~Delaey, ``Asymmetry of stress–strain
+  curves under tension and compression for {NiTi} shape memory alloys,'' {\em
+  Acta Materialia}, vol.~46, pp.~4325--4338, July 1998.
 
 \end{thebibliography}

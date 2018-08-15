@@ -1,0 +1,102 @@
+\section{Gantt Diagram}\label{sec:gantt}
+\vspace{-1mm}
+The chart proposes a 4-year course of the doctorate, considering Comissioning and Measuring (C\&M). Interesting conferences are shown and a small time buffer is considered.
+
+%%PATO SUGGESTION
+\begin{figure}[tbh!]
+\centering
+\begin{ganttchart}
+[
+vgrid,
+hgrid,
+today=4,
+newline shortcut=true,
+bar label node/.append style={align=right},
+x unit=.7 cm,
+y unit chart=.4 cm,
+today rule/.style={draw=red, ultra thick},
+milestone/.append style={fill=Goldenrod,rounded corners=.5pt,style={xscale=0.3}}%,
+%milestone left shift=-.2,
+]{1}{16}
+\gantttitle{2017}{2}
+\gantttitle{2018}{4}
+\gantttitle{2019}{4}
+\gantttitle{2020}{4}
+\gantttitle{2021}{2} \\
+%%%CTI
+%\ganttbar[bar/.append style={fill=magenta}]{Modelling Bearingless}{1}{3}\\
+%\ganttbar[bar/.append style={fill=magenta}]{Conception and Optimization}{3}{6}\\
+%\ganttbar[bar/.append style={fill=magenta}]{Realization of Ventilation Prototype}{6}{8}\\
+%\ganttbar[bar/.append style={fill=magenta}]{Command Electronics}{8}{10}
+%%%
+%\ganttnewline[thick, blue]
+\ganttbar[
+bar/.append style={fill=lime}
+]{Literature Review}{1}{2}\\
+
+\ganttbar[
+bar/.append style={fill=lime}
+]{Modeling Bearingless Drive}{2}{2}\\
+
+\ganttbar[
+bar/.append style={fill=ForestGreen}
+]{Draft Solution Portfolio}{3}{3}
+
+\ganttmilestone[
+inline, milestone inline label node/.append style={right=1mm},
+milestone/.append style={fill=Cyan},
+milestone left shift=.4,
+milestone right shift=.4,
+]{\href{http://www.ieee-ecce.org/2018/}{ECCE 18'}}{5}\\
+
+\ganttbar[bar/.append style={fill=ForestGreen}]{FEM Analysis of Portfolio}{3}{4}
+
+\ganttmilestone[
+inline, milestone inline label node/.append style={right=1mm},
+milestone/.append style={fill=Cyan},
+milestone left shift=.6,
+milestone right shift=.6,
+]{\href{http://www.icems2018.com/}{ICEMS 18'}}{5}\\
+
+%\ganttmilestone[inline]{ICEMS}{5}\\
+\ganttbar[
+bar/.append style={fill=Orange}
+]{Sensor System Analysis}{5}{6}
+
+\ganttmilestone[
+inline, milestone inline label node/.append style={right=1mm},
+milestone left shift=.0,
+milestone right shift=.0,
+]{\href{http://www.ieee-icit2019.org/}{ICIT 19'}}{7}\\
+
+\ganttbar[
+bar/.append style={fill=Orange}
+]{Power Electronics Analysis}{6}{8}
+\ganttmilestone[
+inline, milestone inline label node/.append style={right=1mm},
+milestone left shift=.0,
+milestone right shift=.0,
+]{\href{http://ieee-peds.org/}{PEDS 19'}}{9}\\
+
+\ganttbar[
+bar/.append style={fill=Orange}
+]{Assembly}{8}{8}\\
+
+\ganttbar[
+bar/.append style={fill=Red}
+]{C\&M of  1$^{\text{st.}}$ Prototype}{9}{11}
+\ganttmilestone[
+inline, milestone inline label node/.append style={right=1mm},
+milestone left shift=.0,
+milestone right shift=.0,
+]{\href{https://ias.ieee.org/events-conferences/conference-schedule.html}{APEC 20'}}{12}\\
+
+\ganttbar[
+bar/.append style={fill=Red}
+]{C\&M of  2$^{\text{nd.}}$ Prototype}{11}{13}\\
+
+\ganttbar[bar/.append style={fill=Purple}]{Redaction}{15}{16}
+\end{ganttchart}
+\label{fig:gantt}
+\vspace{-10mm}
+\end{figure}

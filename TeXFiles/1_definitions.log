@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.31)  10 AUG 2018 13:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.31)  14 AUG 2018 13:45
 entering extended mode
 **D:/Dropbox/Work/PhD/Papers/Candidacy_Report/TeXFiles/1_definitions.tex
 (D:/Dropbox/Work/PhD/Papers/Candidacy_Report/TeXFiles/1_definitions.tex
@@ -6,7 +6,7 @@ LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
 ! Undefined control sequence.
 l.3 \definecolor
-                {aaublue}{RGB}{33,26,82} 
+                {tableBlue}{RGB}{22,88,127} 
 Here is how much of TeX's memory you used:
  7 strings out of 493323
  276 string characters out of 3139056
