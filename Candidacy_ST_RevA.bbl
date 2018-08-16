@@ -98,16 +98,36 @@ J.~Lu, Z.~Liang, and W.~Qu, ``Optimal {Design} of {Rotating} {Actuators} {Made}
   {Ninth} {International} {Conference} on {Hybrid} {Intelligent} {Systems}},
   vol.~1, pp.~95--98, Aug. 2009.
 
-\bibitem{mohd_jani_review_2014}
-J.~Mohd~Jani, M.~Leary, A.~Subic, and M.~A. Gibson, ``A review of shape memory
-  alloy research, applications and opportunities,'' {\em Materials \& Design
-  (1980-2015)}, vol.~56, pp.~1078--1113, Apr. 2014.
-
 \bibitem{rao_design_2015}
 A.~Rao, A.~R. Srinivasa, and J.~N. Reddy, {\em Design of {Shape} {Memory}
   {Alloy} ({SMA}) {Actuators}}.
 \newblock {SpringerBriefs} in {Applied} {Sciences} and {Technology}, Cham:
   Springer International Publishing, 2015.
+
+\bibitem{mohd_jani_review_2014}
+J.~Mohd~Jani, M.~Leary, A.~Subic, and M.~A. Gibson, ``A review of shape memory
+  alloy research, applications and opportunities,'' {\em Materials \& Design
+  (1980-2015)}, vol.~56, pp.~1078--1113, Apr. 2014.
+
+\bibitem{tomozawa_characterization_2005}
+M.~Tomozawa, K.~Okutsu, H.~Y. Kim, and S.~Miyazaki, ``Characterization of
+  {High}-{Speed} {Microactuator} {Utilizing} {Shape} {Memory} {Alloy} {Thin}
+  {Films},'' 2005.
+
+\bibitem{vitushinsky_bistable_2009}
+R.~Vitushinsky, S.~Schmitz, and A.~Ludwig, ``Bistable {Thin}-{Film} {Shape}
+  {Memory} {Actuators} for {Applications} in {Tactile} {Displays},'' {\em
+  Journal of Microelectromechanical Systems}, vol.~18, pp.~186--194, Feb. 2009.
+
+\bibitem{paik_bidirectional_2012}
+J.~K. Paik and R.~J. Wood, ``A bidirectional shape memory alloy folding
+  actuator,'' {\em Smart Materials and Structures}, vol.~21, no.~6, p.~065013,
+  2012.
+
+\bibitem{paik_novel_2010}
+J.~K. Paik, E.~Hawkes, and R.~J. Wood, ``A novel low-profile shape memory alloy
+  torsional actuator,'' {\em Smart Materials and Structures}, vol.~19, no.~12,
+  p.~125014, 2010.
 
 \bibitem{rizzello_overview_2017}
 G.~Rizzello and L.~Riccardi, ``An {Overview} on {Innovative} {Mechatronic}
