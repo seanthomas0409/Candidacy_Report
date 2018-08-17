@@ -455,6 +455,9 @@ INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmb.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplri9t.vf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmri.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplri8r.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplr9t.vf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmr.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr8r.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr9t.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplb9t.tfm
 INPUT sections/4_state_of_the_art.tex
@@ -462,9 +465,6 @@ INPUT sections/4_state_of_the_art.tex
 INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplb9t.vf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplb8r.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmb.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplr9t.vf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmr.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr8r.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplr9t.vf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmr.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr8r.tfm
@@ -574,27 +574,27 @@ INPUT Figures/BuckledBeamStable.pdf
 INPUT ./Figures/BuckledBeamStable.pdf
 INPUT ./Figures/BuckledBeamStable.pdf
 INPUT ./Figures/BuckledBeamStable.pdf
+INPUT Figures/BuckledBeamModes.pdf_tex
+INPUT Figures/BuckledBeamModes.pdf_tex
+INPUT Figures/BuckledBeamModes.pdf
+INPUT ./Figures/BuckledBeamModes.pdf
+INPUT ./Figures/BuckledBeamModes.pdf
+INPUT ./Figures/BuckledBeamModes.pdf
+INPUT Figures/BuckledBeamModes.pdf
+INPUT ./Figures/BuckledBeamModes.pdf
+INPUT ./Figures/BuckledBeamModes.pdf
+INPUT ./Figures/BuckledBeamModes.pdf
+INPUT Figures/BuckledBeamModes.pdf
+INPUT ./Figures/BuckledBeamModes.pdf
+INPUT ./Figures/BuckledBeamModes.pdf
+INPUT ./Figures/BuckledBeamModes.pdf
+INPUT Figures/BuckledBeamModes.pdf
+INPUT ./Figures/BuckledBeamModes.pdf
+INPUT ./Figures/BuckledBeamModes.pdf
+INPUT ./Figures/BuckledBeamModes.pdf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplr9t.vf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmr.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr8r.tfm
-INPUT Figures/BuckledBeamModes.pdf_tex
-INPUT Figures/BuckledBeamModes.pdf_tex
-INPUT Figures/BuckledBeamModes.pdf
-INPUT ./Figures/BuckledBeamModes.pdf
-INPUT ./Figures/BuckledBeamModes.pdf
-INPUT ./Figures/BuckledBeamModes.pdf
-INPUT Figures/BuckledBeamModes.pdf
-INPUT ./Figures/BuckledBeamModes.pdf
-INPUT ./Figures/BuckledBeamModes.pdf
-INPUT ./Figures/BuckledBeamModes.pdf
-INPUT Figures/BuckledBeamModes.pdf
-INPUT ./Figures/BuckledBeamModes.pdf
-INPUT ./Figures/BuckledBeamModes.pdf
-INPUT ./Figures/BuckledBeamModes.pdf
-INPUT Figures/BuckledBeamModes.pdf
-INPUT ./Figures/BuckledBeamModes.pdf
-INPUT ./Figures/BuckledBeamModes.pdf
-INPUT ./Figures/BuckledBeamModes.pdf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7v.vf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmex10.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmex10.tfm
@@ -645,16 +645,16 @@ INPUT Figures/FigElongationStressStrain.pdf
 INPUT ./Figures/FigElongationStressStrain.pdf
 INPUT ./Figures/FigElongationStressStrain.pdf
 INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7m.vf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmri.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplri8r.tfm
 INPUT Figures/FigSMABlade3x.pdf_tex
 INPUT Figures/FigSMABlade3x.pdf_tex
 INPUT Figures/FigSMABlade3x.pdf
 INPUT ./Figures/FigSMABlade3x.pdf
 INPUT ./Figures/FigSMABlade3x.pdf
 INPUT ./Figures/FigSMABlade3x.pdf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7m.vf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmri.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi10.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplri8r.tfm
 INPUT Figures/FigCentBumpBefore2x.eps
 INPUT ./Figures/FigCentBumpBefore2x.eps
 INPUT ./Figures/FigCentBumpBefore2x.eps
