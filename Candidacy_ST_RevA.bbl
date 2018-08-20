@@ -14,6 +14,17 @@ C.~Liang, F.~Wang, B.~Shi, Z.~Huo, K.~Zhou, Y.~Tian, and D.~Zhang, ``Design and
   micromanipulation,'' {\em Sensors and Actuators A: Physical}, vol.~269,
   pp.~227--237, Jan. 2018.
 
+\bibitem{faran_ferromagnetic_2016}
+E.~Faran and D.~Shilo, ``Ferromagnetic {Shape} {Memory} {Alloys} —
+  {Challenges}, {Applications}, and {Experimental} {Characterization},'' {\em
+  Experimental Techniques}, vol.~40, pp.~1005--1031, June 2016.
+
+\bibitem{rupitsch_piezoelectric_2019}
+S.~J. Rupitsch, {\em Piezoelectric {Sensors} and {Actuators}: {Fundamentals}
+  and {Applications}}.
+\newblock Topics in {Mining}, {Metallurgy} and {Materials} {Engineering},
+  Berlin Heidelberg: Springer-Verlag, 2019.
+
 \bibitem{ruiz_optimal_2018}
 D.~Ruiz and O.~Sigmund, ``Optimal design of robust piezoelectric microgrippers
   undergoing large displacements,'' {\em Structural and Multidisciplinary
@@ -29,14 +40,6 @@ R.~D. Kornbluh, R.~Pelrine, H.~Prahlad, and R.~Heydt, ``Electroactive polymers:
   {Their} {Applications}}, vol.~5344, pp.~13--28, International Society for
   Optics and Photonics, Jan. 2004.
 
-\bibitem{kornbluh_electroelastomers:_2002}
-R.~D. Kornbluh, R.~Pelrine, Q.~Pei, R.~Heydt, S.~Stanford, S.~Oh, and
-  J.~Eckerle, ``Electroelastomers: applications of dielectric elastomer
-  transducers for actuation, generation, and smart structures,'' in {\em Smart
-  {Structures} and {Materials} 2002: {Industrial} and {Commercial}
-  {Applications} of {Smart} {Structures} {Technologies}}, vol.~4698,
-  pp.~254--271, International Society for Optics and Photonics, July 2002.
-
 \bibitem{thummala_analysis_2012}
 P.~Thummala, L.~Huang, Z.~Zhang, and M.~A.~E. Andersen, ``Analysis of
   {Dielectric} {Electro} {Active} {Polymer} actuator and its high voltage
@@ -46,6 +49,13 @@ P.~Thummala, L.~Huang, Z.~Zhang, and M.~A.~E. Andersen, ``Analysis of
 J.-S. Plante, M.~Santer, S.~Dubowsky, and S.~Pellegrino, ``Compliant {Bistable}
   {Dielectric} {Elastomer} {Actuators} for {Binary} {Mechatronic} {Systems},''
   pp.~121--126, Jan. 2005.
+
+\bibitem{chen_preliminary_2017}
+Y.~Chen, R.~Vertechy, and M.~Fontana, ``Preliminary results on the fatigue life
+  characterization of a styrenic dielectric elastomer ({Conference}
+  {Presentation}),'' in {\em Electroactive {Polymer} {Actuators} and {Devices}
+  ({EAPAD}) 2017}, vol.~10163, p.~101630F, International Society for Optics and
+  Photonics, May 2017.
 
 \bibitem{plante_properties_2007}
 J.-S. Plante and S.~Dubowsky, ``On the properties of dielectric elastomer
@@ -82,12 +92,6 @@ J.~Rossiter, B.~Stoimenov, and T.~Mukai, ``A {Self}-switching {Bistable}
 J.~Rossiter, B.~Stoimenov, and T.~Mukai, ``A {Bistable} {Artificial} {Muscle}
   {Actuator},'' in {\em 2006 {IEEE} {International} {Symposium} on
   {MicroNanoMechanical} and {Human} {Science}}, pp.~1--6, Nov. 2006.
-
-\bibitem{faran_ferromagnetic_2016}
-E.~Faran and D.~Shilo, ``Ferromagnetic {Shape} {Memory}
-  {Alloys}—{Challenges}, {Applications}, and {Experimental}
-  {Characterization},'' {\em Experimental Techniques}, vol.~40, pp.~1005--1031,
-  June 2016.
 
 \bibitem{gauthier_multistable_2006}
 J.-Y. Gauthier, A.~Hubert, J.~Abadie, C.~Lexcellent, and N.~Chaillet,
@@ -136,6 +140,14 @@ J.~K. Paik, E.~Hawkes, and R.~J. Wood, ``A novel low-profile shape memory alloy
 G.~Rizzello and L.~Riccardi, ``An {Overview} on {Innovative} {Mechatronic}
   {Actuators} {Based} on {Smart} {Materials},'' {\em IEEE Africon 2017
   Proceedings}, p.~6, 2017.
+
+\bibitem{kornbluh_electroelastomers:_2002}
+R.~D. Kornbluh, R.~Pelrine, Q.~Pei, R.~Heydt, S.~Stanford, S.~Oh, and
+  J.~Eckerle, ``Electroelastomers: applications of dielectric elastomer
+  transducers for actuation, generation, and smart structures,'' in {\em Smart
+  {Structures} and {Materials} 2002: {Industrial} and {Commercial}
+  {Applications} of {Smart} {Structures} {Technologies}}, vol.~4698,
+  pp.~254--271, International Society for Optics and Photonics, July 2002.
 
 \bibitem{karaca_magnetic_2009}
 H.~E. Karaca, I.~Karaman, B.~Basaran, Y.~Ren, Y.~I. Chumlyakov, and H.~J.

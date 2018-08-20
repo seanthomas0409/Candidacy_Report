@@ -459,6 +459,22 @@ INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplr9t.vf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmr.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr8r.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr9t.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr9t.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplb9t.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr9t.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr9t.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7m.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7m.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7m.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7y.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7y.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7y.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7v.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7v.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7v.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7t.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7t.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7t.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplb9t.tfm
 INPUT sections/4_state_of_the_art.tex
 INPUT sections/4_state_of_the_art.tex
@@ -468,50 +484,51 @@ INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmb.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplr9t.vf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmr.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr8r.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplb9t.vf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplb8r.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmb.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplr9t.vf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmr.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr8r.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplr9t.vf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmr.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr8r.tfm
 INPUT Figures/PZT_grip.png
 INPUT ./Figures/PZT_grip.png
 INPUT ./Figures/PZT_grip.png
 INPUT ./Figures/PZT_grip.png
 INPUT ./Figures/PZT_grip.png
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7y.vf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmsy10.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7m.vf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi10.tfm
-INPUT Figures/DEAP_fig.png
-INPUT ./Figures/DEAP_fig.png
-INPUT ./Figures/DEAP_fig.png
-INPUT ./Figures/DEAP_fig.png
-INPUT ./Figures/DEAP_fig.png
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr9t.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplb9t.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmssbx10.tfm
-INPUT Figures/DEAP_curve.png
-INPUT ./Figures/DEAP_curve.png
-INPUT ./Figures/DEAP_curve.png
-INPUT ./Figures/DEAP_curve.png
-INPUT ./Figures/DEAP_curve.png
 INPUT Figures/DEAP_flipflop.png
 INPUT ./Figures/DEAP_flipflop.png
 INPUT ./Figures/DEAP_flipflop.png
 INPUT ./Figures/DEAP_flipflop.png
 INPUT ./Figures/DEAP_flipflop.png
-INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplr9t.vf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmr.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr8r.tfm
+INPUT Figures/IPMC_fig.eps
+INPUT ./Figures/IPMC_fig.eps
+INPUT ./Figures/IPMC_fig.eps
+INPUT ./Figures/IPMC_fig-eps-converted-to.pdf
+INPUT ./Figures/IPMC_fig-eps-converted-to.pdf
+INPUT ./Figures/IPMC_fig.eps
+INPUT ./Figures/IPMC_fig-eps-converted-to.pdf
+INPUT ./Figures/IPMC_fig-eps-converted-to.pdf
+INPUT ./Figures/IPMC_fig-eps-converted-to.pdf
+INPUT ./Figures/IPMC_fig-eps-converted-to.pdf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7t.vf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7m.vf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmri.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi10.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplri8r.tfm
-INPUT Figures/IPMC_fig.png
-INPUT ./Figures/IPMC_fig.png
-INPUT ./Figures/IPMC_fig.png
-INPUT ./Figures/IPMC_fig.png
-INPUT ./Figures/IPMC_fig.png
 INPUT Figures/IPMC_buckle.png
 INPUT ./Figures/IPMC_buckle.png
 INPUT ./Figures/IPMC_buckle.png
 INPUT ./Figures/IPMC_buckle.png
 INPUT ./Figures/IPMC_buckle.png
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmssbx10.tfm
 INPUT Figures/IPMC_segment.png
 INPUT ./Figures/IPMC_segment.png
 INPUT ./Figures/IPMC_segment.png
@@ -552,14 +569,21 @@ INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmb7t.vf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmb.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplb8r.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmbx10.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
+INPUT Figures/Vol_Req_Bar.pdf
+INPUT ./Figures/Vol_Req_Bar.pdf
+INPUT ./Figures/Vol_Req_Bar.pdf
+INPUT ./Figures/Vol_Req_Bar.pdf
+INPUT sections/5_work_accomplished.tex
+INPUT sections/5_work_accomplished.tex
 INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7m.vf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmri.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi10.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplri8r.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7y.vf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmsy10.tfm
-INPUT sections/5_work_accomplished.tex
-INPUT sections/5_work_accomplished.tex
 INPUT Figures/BuckledBeamStable.pdf_tex
 INPUT Figures/BuckledBeamStable.pdf_tex
 INPUT Figures/BuckledBeamStable.pdf
@@ -600,61 +624,48 @@ INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmex10.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmex10.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmex10.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmr.tfm
+INPUT Figures/FigElongationStressStrain.pdf_tex
+INPUT Figures/FigElongationStressStrain.pdf_tex
+INPUT Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7m.vf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmri.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi10.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplri8r.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7m.vf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmri.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi10.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplri8r.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7y.vf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmsy10.tfm
-INPUT Figures/FigElongationStressStrain.pdf_tex
-INPUT Figures/FigElongationStressStrain.pdf_tex
-INPUT Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr9t.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr9t.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7m.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7m.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7m.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7y.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7y.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7y.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7v.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7v.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7v.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7t.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7t.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7t.tfm
-INPUT Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
 INPUT Figures/FigSMABlade3x.pdf_tex
 INPUT Figures/FigSMABlade3x.pdf_tex
 INPUT Figures/FigSMABlade3x.pdf
 INPUT ./Figures/FigSMABlade3x.pdf
 INPUT ./Figures/FigSMABlade3x.pdf
 INPUT ./Figures/FigSMABlade3x.pdf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7m.vf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmri.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplri8r.tfm
 INPUT Figures/FigCentBumpBefore2x.eps
 INPUT ./Figures/FigCentBumpBefore2x.eps
 INPUT ./Figures/FigCentBumpBefore2x.eps
