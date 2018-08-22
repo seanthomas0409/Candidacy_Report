@@ -1,5 +1,18 @@
 \section{Work Accomplished}\label{sec:work_accomplished}
 In the previous section, the state of the art explored the various ways in which literature shows the integration of smart materials in actuator systems. Bistable elements using buckled beams shows a lot of promise due to the fact that they do not require energy to maintain the stable position and their potential energy can be used to trigger fast and dynamic strokes. By using the techniques established in the previous section, the SMA can be integrated into a bistable buckled beam system.
+
+\subsection{Basic principle of SMA} \label{sec:WA_SMA}
+SMAs exist in various different stable phases which consists of the \emph{Martensitic (M)} phase and the \emph{Austenitic (A)} phase. The M phase can exist in either the \emph{Twinned M phase} or the \emph{Detwinned M phase} based on the stress experienced by the material. The SME is the effect that transforms the material from the A phase to its M phase, also known as the Martensitic transformation. The opposite transformation, from the M phase to the A phase, is known as Austenitic transformation. When the material reaches the Austentic transformation temperature ($\mathbf{A_s}$) threshold, the material will begin the Austenitic transformation. Inversely, as the material cools down to the Martensitic transformation temperature ($\mathbf{M_s}$), it will begin the Martensitic transformation. Since these transformations occur over a range in temperature, we must heat and cool well beyond the transformation temperatures.
+
+\begin{wrapfigure}{r}{0.5\textwidth}
+  \centering
+  \includegraphics[width=0.48\textwidth]{Figures/Phase_Transf_Diagram_noText.eps}
+  \caption{Phase transformation diagram of a shape memory alloy. Here $\sigma$ represents the stress created by mechanical loading and T represents the temperature change due to thermal loading.}
+	\vspace{-10pt}
+  \label{fig:PhaseTransfDiagram}
+\end{wrapfigure}
+
+The SMA that in most likelihood will be used is a type of NiTiNOL variant with a relatively high transformation temperature (with $A_s$ around 50\degreeC) and thus exists primarily in the M phase at room temperature. The phase transformations can be seen in figure \ref{fig:PhaseTransfDiagram}. When a mechanical load is applied to the SMA while in its M phase, the material shears on an atomic level and this allows it to deform through a detwinning process at relatively low stress levels. This process allows the material to deform up to strains of 8$\%$. Strains larger than this will cause dislocations which are irreversible. When the beam is then heated, the Austentite transformation from the detwinned M phase to the A phase, causes the beam to lose all the strain due to twinning, allowing the material to return to its original shape. This strain recovery allows the beam to revert to its pre-defined state while producing large forces.
 \subsection{Buckled beam modelling}
 When a longitudinal monolithic beam is compressed and the critical axial load is reached, the beam will buckle and result in a bistable structure. The buckled beam will exist in two stable configurations as seen in the figure \ref{fig:States_Schema}. Specifically, this figure shows the two symmetrical stable states that the buckled beam can exist in for each given stable mode. The figure \ref{fig:Modes_Schema} shows the first three stable modes that are created when a longitudinal beam is pre-compressed.
 

@@ -4,17 +4,15 @@ This section will discuss the existing smart materials that are currently studie
 \subsection{Smart materials} \label{subsec:Smartmaterials}
 In the field of engineering, ranging from haptics, automation and bio-medical fields, there has been a need  to create actuators that are lightweight, compact and having force output. This creates a need for materials that can deliver high forces and strokes while remaining light and small meaning that the materials need to have a high work output.
 
-On the basis of creating an actuator that can meet the demands of the currently implemented strategies while at the same time pushing the limits of the current technology, a thorough investigation of the available smart materials must be conducted. These materials have the ability to react mechanically to an external stimulus such as thermal electrical or magnetic and are thus referred to as \emph{smart} or \emph{active materials}.
+On the basis of creating an actuator that can meet the demands of the currently implemented strategies while at the same time pushing the limits of the current technology, a thorough investigation of the available smart materials must be conducted. These materials have the ability to react mechanically to an external stimulus such as thermal electrical or magnetic and are thus referred to as \emph{smart} or \emph{active materials}. There exist numerous types of smart materials and based on their properties, they can be classified into many types based on their activation methods\cite{damodharan_review_2018}.
+% \begin{itemize}
+% 	\item Piezoelectric materials
+% 	\item Magneto-strictive materials
+% 	\item Electro-active polymers
+% 	\item Shape Memory Alloys
+% \end{itemize}
 
-There exist numerous types of smart materials and based on their properties, they can be classified into many types such as \cite{damodharan_review_2018}:
-\begin{itemize}
-	\item Piezoelectric materials
-	\item Magneto-strictive materials
-	\item Electro-active polymers
-	\item Shape Memory Alloys
-\end{itemize}
-
-The aim of this project is to adapt these aforementioned smart materials to harness their specific behaviour and fabricate smart actuators. This implies that the system that incorporates the material is equally critical for the conception of the actuator. This section of the report will delved into different strategies used to harness the specific behaviours of the smart materials and integrate them into actuators.
+The aim of this project is to adapt the various smart materials to harness their specific behaviour and fabricate smart actuators. This implies that the system that incorporates the material is equally critical for the conception of the actuator. This section of the report will delved into different strategies used to harness the specific behaviours of the smart materials and integrate them into actuators.
 
 \subsubsection{Piezoelectric Materials}
 Piezoelectric (PZT) materials are a well known type of smart material that reacts to voltages. These materials are already commercially available in various different gripper systems. The company PI\cite{noauthor_p-604_2018} is a supplier of PZT actuators and many more such suppliers already exist.
@@ -82,7 +80,7 @@ The work shows that the approach to use an antagonistic actuators with a smart m
 	\vspace{-20pt}
 	\includegraphics[width=0.35\textwidth]{Figures/IPMC_fig.eps}
 	\caption{IPMC actuation principle\cite{poubel_proposal_2011}.}
-	\vspace{-15pt}
+	\vspace{-5pt}
 	\label{fig:IPMC_act}
 \end{wrapfigure}
 \paragraph{Ionic EAP} are another variant of EAPs which differ from the DEAP which are sometimes referred to as Electronic EAP\cite{bar-cohen_artificial_2005}. The difference between the two variants arises from the fact that the actuation in Ionic EAPs is a result of diffusion of ions. An interesting Ionic EAP material are Ionic polymer-metal composites (IPMC). These IPMCs are a type of synthetic composite material that has a muscle-like behaviour under an applied voltage or electric field. In figure \ref{fig:IPMC_act}, the working principle is shown where as a voltage is applied, the diffusion of ions within the material causes a deformation. They are generally ionic polymers that are chemically plated with conductors\cite{shahinpoor_ionic_1998}.
@@ -109,9 +107,12 @@ IPMC bending actuators have been used primarily used as bending actuators and ar
 For the purpose of this project, as a means of comparison, the volume of the smart required was calculated. Based on the literature of the energy density and the specifications, the volume required was calculated to be about 20 mm$^3$ for silicone and about 500 mm$^3$ for IPMCs.
 
 \subsubsection{Magneto-strictive materials}
-The magneto-strictive materials have the ability to alter their mechanical behaviour and shape when subjected to magnetic fields. Magnetic Shape Memory Alloys (MSMA) are an interesting type of magneto-strictive material. Here, the MSMA shows an interesting behaviour in which the material when deformed will tend to remain stable and retain its deformed shape. As the materials is introduced into a strong magnetic field, the crystals of the material are realigned and the material reverts back to its predeformed shape. These MSMAs are an attractive choice as they are capable of high strains around 10\% while being able to prove fast response times\cite{faran_ferromagnetic_2016}.
+The magneto-strictive materials have the ability to alter their mechanical behaviour and shape when subjected to magnetic fields. Magnetic Shape Memory Alloys (MSMA) are an interesting type of magneto-strictive material. Here, the MSMA shows an interesting behaviour in which the material when deformed will tend to remain stable and retain its deformed shape. As the materials is introduced into a strong magnetic field, the crystals of the material are realigned and the material reverts back to its predeformed shape. These MSMAs are an attractive choice as they are capable of high strains around 10\% while being able to prove fast response times in the order of 1 kHz\cite{faran_ferromagnetic_2016}.
 
-The main drawbacks of MSMAs are the fact that they are quite a new technology implying that they are expensive and that finding suppliers is quite difficult. They are also quite brittle and are thus it makes it quite difficult to see them in different geometries and shapes.
+The main drawbacks of MSMAs are the fact that they are quite a new technology implying that they are expensive and that finding suppliers is quite difficult. They are also quite brittle and are thus it makes it quite difficult to find them in different geometries and shapes.
+
+The work presented by Gauthier et al., 2006\cite{gauthier_multistable_2006} details the fabrication of a multistable actuator that is based on these MSMAs. Here the device is a push-pull actuator with a pair of agonistic-antagonistic MSMA beams. The active material is actuated using magnetic fields that are created using coils and concentrated using ferromagnetic cores. In figure \ref{fig:MSMA_princ}, a working principle of the MSMA actuator can be seen.
+
 \begin{wrapfigure}{r}{0.45\textwidth}
 	\centering
 	% \vspace{20pt}
@@ -120,33 +121,22 @@ The main drawbacks of MSMAs are the fact that they are quite a new technology im
 	% \vspace{-15pt}
 	\label{fig:MSMA_princ}
 \end{wrapfigure}
-The work presented by Gauthier et al., 2006\cite{gauthier_multistable_2006} details the fabrication of a multistable actuator that is based on these MSMAs. Here the device is a push-pull actuator with a pair of agonistic-antagonistic MSMA beams. The active material is actuated using magnetic fields that are created using coils and concentrated using ferromagnetic cores. In figure \ref{fig:MSMA_princ}, a working principle of the MSMA actuator can be seen.
-
 The shape memory effect (SME) seen in the MSMA requires the material to be deformed before the application of the magnetic field. Only after the deformation can the strain recover of the SME be observed. In this work, the team was able to create a multistable actuator by using a pair of MSMA. Here, the activation of the first MSMA deformed the opposing beam and vice versa. This results in a displacement and positioning of an end effector placed in between the MSMAs. MSMAs as with traditional SMAs have to be deformed before any actuation can be observed. This work shows the advantages and breakthrough of using an agonistic-antagonistic pair of material to resolve the problem of having to predeform the active material.
 
-One of the important factors that leads to this technology not being widely used, is the fact that the activation of the MSMA requires magnetic fields of around 0.6 T. The work by Lu at al., 2009\cite{lu_optimal_2009} shows the relationship between strain experienced by the material and the magnetic field density. The work shows an example of a differential rotating MSMA actuator that is powered using permanent magnets and ferromagnetic cores. This study shows that the limiting factor of these technology is the activation magnetic field required for the smart material. The resulting magnetic circuits will render the fabricated actuator to be heavy and bulky. Thus, the MSMA material will ultimately be unsuitable for the use in small and light weight actuators as desired by this research.
+One of the important factors that leads to this technology not being widely used, is the fact that the activation of the MSMA requires magnetic fields of around 0.6 T. The work by Lu at al., 2009\cite{lu_optimal_2009} shows the relationship between strain experienced by the material and the magnetic field density. The work shows an example of a differential rotating MSMA actuator that is powered using permanent magnets and ferromagnetic cores. This study shows that the limiting factor of these technology is the activation magnetic field required for the smart material. The resulting magnetic circuits will render the fabricated actuator to be heavy and bulky. In the use case presented in this work, a rough estimation of the dimensions of the magnetic circuit was established. A basic coil system with dimensions of $23\times11\times25$ mm would be required to generate the 0.6 T needed for actuation. Thus, the MSMA material will ultimately be unsuitable for the use in small and light weight actuators as desired by this research.
 
 \subsubsection{Shape Memory Alloys}
 Shape memory alloys such NiTiNOL show two important properties: the Shape Memory Effect (SME) and Superelasticity (SE)\cite{rao_design_2015}. SMAs are a particular subgroup of smart materials that change their mechanical behaviour based on a thermal stimulus. Here, the material as with the MSMA, retains its shape when deformed and reverts back to its original shape when heated (SME). Shape Memory Alloys (SMA) actuators provide us with an opportunity to create such actuators due to their high work output per volume which is around 10 $\mathrm{J}/\mathrm{cm}^3$\cite{mohd_jani_review_2014}. This can be a 10-fold increase when compared to pneumatic actuators. The SMA actuators are thus able to provide large amounts of force when compared to their volume, making them particularly useful in compact, lightweight actuators.
 
-SMAs exist in various different stable phases which consists of the \emph{Martensitic (M)} phase and the \emph{Austenitic (A)} phase. The M phase can exist in either the \emph{Twinned M phase} or the \emph{Detwinned M phase} based on the stress experienced by the material. The SME is the effect that transforms the material from the A phase to its M phase, also known as the Martensitic transformation. The opposite transformation, from the M phase to the A phase, is known as Austenitic transformation. When the material reaches the Austentic transformation temperature ($\mathbf{A_s}$) threshold, the material will begin the Austenitic transformation. Inversely, as the material cools down to the Martensitic transformation temperature ($\mathbf{M_s}$), it will begin the Martensitic transformation. Since these transformations occur over a range in temperature, we must heat and cool well beyond the transformation temperatures.
-
-\begin{wrapfigure}{r}{0.5\textwidth}
-  \centering
-  \includegraphics[width=0.48\textwidth]{Figures/Phase_Transf_Diagram_noText.eps}
-  \caption{Phase transformation diagram of a shape memory alloy. Here $\sigma$ represents the stress created by mechanical loading and T represents the temperature change due to thermal loading.}
-	\vspace{-10pt}
-  \label{fig:PhaseTransfDiagram}
-\end{wrapfigure}
-
-
-The SMA that in most likelihood will be used is a type of NiTiNOL variant with a relatively high transformation temperature (with $A_s$ around 50\degreeC) and thus exists primarily in the M phase at room temperature. The phase transformations can be seen in figure \ref{fig:PhaseTransfDiagram}. When a mechanical load is applied to the SMA while in its M phase, the material shears on an atomic level and this allows it to deform through a detwinning process at relatively low stress levels. This process allows the material to deform up to strains of 8$\%$. Strains larger than this will cause dislocations which are irreversible. When the beam is then heated, the Austentite transformation from the detwinned M phase to the A phase, causes the beam to lose all the strain due to twinning, allowing the material to return to its original shape. This strain recovery allows the beam to revert to its pre-defined state while producing large forces.
-
 SMAs are an attractive choice of material for the realisation of small and compact actuators due to their high energy density. They can provide high forces and displacements with a low volume of required material. However, they are thermally activated and have, thus, very long response times. Tomozawa et al.\cite{tomozawa_characterization_2005}, 2005, have worked on fabricating a microactuator using thin film SMA with high transformation temperatures that work at a frequency of 100Hz. The high transformation temperatures and large surface area to volume ratio allows the SMA to cool down and achieve high frequencies. Vitushinsky et al.\cite{vitushinsky_bistable_2009}, 2009 have developed also managed to create a highly responsive actuator by reducing the temperature hysteresis seen in SMAs using an actuator that is made up of two SMAs with different transition temperatures.
 
-Paik and Wood\cite{paik_bidirectional_2012, paik_novel_2010}, 2012 devised a way to decrease the heating time of the SMAs by the way of printed-on coil. In this work, the actuator was fitted with a coil having a higher resistivity to further optimize the heating process by Joules heating. The use of an external heating element that was glued to the SMA has decreased the time response by around 30\%.
-
-A combination of the innovative ideas proposed in these works can be used achieve effective results when designing a reactive and compact smart gripper.
+Paik and Wood\cite{paik_bidirectional_2012, paik_novel_2010}, 2012 devised a way to decrease the heating time of the SMAs by the way of printed-on coil. In this work, the actuator was fitted with a coil having a higher resistivity to further optimize the heating process by Joules heating. The use of an external heating element that was glued to the SMA has decreased the time response by around 30\%. Below is a simple heat exchange curve
+\begin{equation}
+	\label{eq:Tech}
+	T(t) = (T_A - T_{\infty})e^{-t/\tau} + T_{\infty},~~\tau = \frac{C_m\rho V}{h s_{ech}}
+\end{equation}
+where $C_m$ is the specific heat capacity, $h$ is the heat transfer coefficient, $s_{ech}$ is the surface area of heat exchange, $V$ is the volume, $T_A$ is the austenitic finish temperature and $T_{\infty}$ is the ambient room temperature. This equation can be used to calculate the approximate time it would take to cool down the SMA material and thus determine the bandwidth of the material. Using 15 \micrometer~thick thin films or 25~\micrometer diameter thin wires and high temperature SMA (around $T_A$ = 90 \degreeC), the cooling time can be reduced to 20 ms.
+A rough estimation of the required SMA for the gripper was calculated to be just around 1.5mm$^3$. Thus, a combination of the innovative ideas proposed in these above works can be used achieve effective results when designing a reactive and compact smart gripper.
 
 \subsection{Comparison}
 The aim of this section of the report is to find the most appropriate type of technology that can replace and innovate the current gripper that are employed in industry. In the current industrial era, most grippers employ the use of pneumatic actuators as their primary source of energy. Thus, to innovate the current domain of gripper, various important factors must be taken into account so as to have a point of comparison between the different smart materials and the presently used pneumatic grippers.
@@ -167,12 +157,21 @@ The aim of this section of the report is to find the most appropriate type of te
 			% Human Muscle \cite{hollerbach_comparative_1992, tadesse_electroactive_2013} & 0.8 & 100 & 35 & 173 & 0.035\\
   \end{tabu}
 \end{table}
-
+\begin{wrapfigure}{r}{0.45\textwidth}
+	\centering
+	\vspace{-20pt}
+	\includegraphics[width=0.4\textwidth]{Figures/Vol_Req_Bar.pdf}
+	\vspace{-5pt}
+	\caption{Approximate volume of the smart material required for the gripper based on the specifications and the volumetric work.}
+	% \vspace{-5pt}
+	\label{fig:vol_req_bar}
+\end{wrapfigure}
 In the hopes of creating a compact and lightweight actuator, the most important parameter to consider would be the volumetric work. This parameters determines the level at which the active component of the actuator can be minimised when designing the gripper. The SMA offers a great deal better work output to volume ratio when compared to the other materials. The most critical aspect in this case would be attempting to optimize the time response of these SMA in hopes of improving a critical parameter in which this material is lacking.
 
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=0.6\textwidth]{Figures/Vol_Req_Bar.pdf}
-	\caption{Approximate volume of the smart material required for the gripper based on the specifications and the volumetric work.}
-	\label{fig:vol_req_bar}
-\end{figure}
+
+% \begin{figure}[H]
+% 	\centering
+% 	\includegraphics[width=0.4\textwidth]{Figures/Vol_Req_Bar.pdf}
+% 	\caption{Approximate volume of the smart material required for the gripper based on the specifications and the volumetric work.}
+% 	\label{fig:vol_req_bar}
+% \end{figure}
