@@ -648,9 +648,6 @@ INPUT Figures/BuckledBeamModes.pdf
 INPUT ./Figures/BuckledBeamModes.pdf
 INPUT ./Figures/BuckledBeamModes.pdf
 INPUT ./Figures/BuckledBeamModes.pdf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplr9t.vf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmr.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr8r.tfm
@@ -665,6 +662,9 @@ INPUT Figures/FigElongationStressStrain.pdf
 INPUT ./Figures/FigElongationStressStrain.pdf
 INPUT ./Figures/FigElongationStressStrain.pdf
 INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
 INPUT Figures/FigElongationStressStrain.pdf
 INPUT ./Figures/FigElongationStressStrain.pdf
 INPUT ./Figures/FigElongationStressStrain.pdf
@@ -685,22 +685,16 @@ INPUT Figures/FigElongationStressStrain.pdf
 INPUT ./Figures/FigElongationStressStrain.pdf
 INPUT ./Figures/FigElongationStressStrain.pdf
 INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7m.vf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmri.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplri8r.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7m.vf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmri.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplri8r.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7y.vf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmsy10.tfm
 INPUT Figures/FigSMABlade3x.pdf_tex
 INPUT Figures/FigSMABlade3x.pdf_tex
 INPUT Figures/FigSMABlade3x.pdf
 INPUT ./Figures/FigSMABlade3x.pdf
 INPUT ./Figures/FigSMABlade3x.pdf
 INPUT ./Figures/FigSMABlade3x.pdf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7m.vf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmri.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi10.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplri8r.tfm
 INPUT Figures/FigCentBumpBefore2x.eps
 INPUT ./Figures/FigCentBumpBefore2x.eps
 INPUT ./Figures/FigCentBumpBefore2x.eps

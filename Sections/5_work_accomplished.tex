@@ -58,38 +58,40 @@ The modes seen in figure \ref{fig:Modes_Schema}, represent also the transition s
 Shape memory alloys can be used to create the buckled beam and can be used to supply the energy required to trigger the bifurcation. Since shape memory alloys can be activated using a thermal load, by applying a current through it, this allows the option to remove the central vertical force required and thus the external triggered required to trigger the switching. Thus, the SMA buckled beam actuation can be deemed a self-switching bistable mechanism. This paper will thus focus on the elimination of the external trigger in regards to standard bistable buckled beam actuators by using the potential energy stored within the SMA material.
 
 \subsection{Finite element modelling of SMA}
-Since the stress distribution in a buckled beam is inhomogeneous, a Finite Element Modelling (FEM) simulation is more suited to handle the complexity of the calculations. The FEM simulation is performed using the Shape Memory Effect material property found in ANSYS Workbench. Using the nine parameters defined in the material property toolbox, we can simulate the shape memory effect. In table \ref{tab:matprop}, the material properties required by ANSYS to define the SMA, can be seen. These values were obtained by consulting the datasheet of NiTiNOL from various suppliers\cite{divringi_advanced_2009}.
-\begin{table}[H]
-	\centering
-	\footnotesize
-	\caption{SMA material property definitions}
-	\label{tab:matprop}
-	\begin{tabu} to 0.7\textwidth {X[l, 1.35] X[l, 0.65] X[r,3]}
-			\tableHeaderStyle{tableBlue}
-			\textbf{Property} & \textbf{Value} & \textbf{Definition} \\ [0.5ex]
-			$E_A$ [GPa] & 70 & Austenite Modulus \\
-			$E_M$ [GPa] & 30 & Martensite Modulus \\
-			$\nu$ & 0.3 & Poisson's Ratio \\
-			$H$ [GPa] & 1 & Hardening Parameter \\
-			$R$ [MPa] & 140 & Elastic Limit \\
-			$\beta$ [MPaK\textsuperscript{-1}] & 5.6 & Temperature Scaling Parameter \\
-			$T_0$ [K] & 323.15 & Reference Temperature \\
-			$\overline{\epsilon}_L$ [mm mm$^{-1}$] & 0.1 & Maximum Transformation Strain \\
-			$m$ & 0 & Lode Dependency Parameter \\
-	\end{tabu}
-\end{table}
+Since the stress distribution in a buckled beam is inhomogeneous, a Finite Element Modelling (FEM) simulation is more suited to handle the complexity of the calculations. The FEM simulation is performed using the Shape Memory Effect material property found in ANSYS Workbench. Using the nine parameters defined in the material property toolbox, we can simulate the shape memory effect. These parameters were obtained by consulting the material properties established in literature and datasheets from manufacturers\cite{divringi_advanced_2009}.
+% \begin{table}[H]
+% 	\centering
+% 	\footnotesize
+% 	\caption{SMA material property definitions}
+% 	\label{tab:matprop}
+% 	\begin{tabu} to 0.7\textwidth {X[l, 1.35] X[l, 0.65] X[r,3]}
+% 			\tableHeaderStyle{tableBlue}
+% 			\textbf{Property} & \textbf{Value} & \textbf{Definition} \\ [0.5ex]
+% 			$E_A$ [GPa] & 70 & Austenite Modulus \\
+% 			$E_M$ [GPa] & 30 & Martensite Modulus \\
+% 			$\nu$ & 0.3 & Poisson's Ratio \\
+% 			$H$ [GPa] & 1 & Hardening Parameter \\
+% 			$R$ [MPa] & 140 & Elastic Limit \\
+% 			$\beta$ [MPaK\textsuperscript{-1}] & 5.6 & Temperature Scaling Parameter \\
+% 			$T_0$ [K] & 323.15 & Reference Temperature \\
+% 			$\overline{\epsilon}_L$ [mm mm$^{-1}$] & 0.1 & Maximum Transformation Strain \\
+% 			$m$ & 0 & Lode Dependency Parameter \\
+% 	\end{tabu}
+% \end{table}
 
 So as to ascertain the reliability of the shape memory effect model created using ANSYS, a simple elongation test was performed. ANSYS workbench was used to model a simple SMA blade and a tractional strain of 8$\%$ was applied. The figure \ref{fig:FigElongationStressStrain}, shows the evolution of the internal stress of the SMA blade during the ANSYS scenario. This elongation test allows us to create a uniform stressed SMA blade that will perform the same phase changes as seen in the more complex buckled SMA beam.
 
-\begin{figure}[ht]
+\begin{wrapfigure}{r}{0.55\textwidth}
+	\vspace{-20pt}
 	\centering
   {\footnotesize
 	\def\svgwidth{0.5\textwidth}
 	\input{Figures/FigElongationStressStrain.pdf_tex}
   }
 	\caption{Finite element simulation of SMA Stress-Strain curve in traction and compression using a longitudinal bar}
+	\vspace{-15pt}
 	\label{fig:FigElongationStressStrain}
-\end{figure}
+\end{wrapfigure}
 
 In figure \ref{fig:FigElongationStressStrain}, we can see the various phase changes that occur within the SMA blade. Firstly, one end of the blade is considered a fixed support and has no degrees of freedom. The other end of the blade is the subjected to a remote displacement so as to produce a strain. The resulting stress can be observed in region (1) of the figure. As the strain increases, the material reaches its stress threshold to transform from its twinned M phase to its detwinned M phase. This can be observed in region (2), where the strain increases rapidly. Once the blade has reached its maximal strain, the remote displacement is disabled. The region (3) shows that the blade loses its internal stress but remembers the deformation created by the mechanical load. Finally, the SMA blade is heated up and past its transformation temperature and in region (4), the graph shows the strain recovery of the material. The graph shows that after the mechanical load is removed, the SMA retains a small quantity of the internal stress. This inconsistency is due to the way in which the mechanical load is applied to the longitudinal bar within the simulation. The elongation seen in the graph is created using a forced displacement of the edges of the bar. When the elongation is finished and the constraints on the edges are removed, some inconsistencies are seen regarding the internal stress that persist in the material. The material upon heating, immediately returns to zero and the elongation of the bar is recovered. This cycle can be observed in experimental tests studied in literature such as \cite{hongchun_xie_design_2007, liu_asymmetry_1998}
 
@@ -97,16 +99,18 @@ The FEM simulation was also used to ascertain the volumetric energy density of t
 
 \subsection{Self-switching SMA blade}
 The next step of the research were to study the effects of geometry optimization to increase the maximal deformation of a buckled SMA beam. The goal is to search for a potential bifurcation of the buckled beam to enhance significantly the displacement. The shape memory effect is only observed in areas of high stress where the material has exceeded the twinning threshold and has attained the twinned M phase as seen in figure \ref{fig:FigSMABlade}. Thus during the heating phase, the twinned M phase reverts to the A phase and deformation is observed. Thus, to achieved this twinned state, the SMA beam is pre-constrained by applying a remote displacement to the centre vertex while fixing one side face and constraining all but the X axis degree of freedom for the other side face. This step creates a buckled SMA beam which is pre-stressed to allow for the shape memory effect. Finally a thermal load, with a temperature exceeding the transformation temperature, is applied to the structure and the displacement of the centre vertex is recorded.
-\begin{figure}[H]
+\begin{wrapfigure}{r}{0.55\textwidth}
+	\vspace{-10pt}
 	\centering
 	\def\svgwidth{0.5\textwidth}
 	\input{Figures/FigSMABlade3x.pdf_tex}
 	\caption{Simulated geometry of buckled SMA blade}
+	\vspace{-10pt}
 	\label{fig:FigSMABlade}
-\end{figure}
-The strain recovery of the buckled SMA beam can be optimized by increasing the percentage of material that has reached the twinned M phase. This requires the material to be stressed beyond its twinning threshold.\\
+\end{wrapfigure}
+The strain recovery of the buckled SMA beam can be optimized by increasing the percentage of material that has reached the twinned M phase. This requires the material to be stressed beyond its twinning threshold.
 
-The dimensions of the initial SMA blade is used to optimized the vertex displacement. The strain recovery observed by changing the initial blade dimensions to increase the vertical displacement does not allow for sufficient displacement that would trigger a self-switching. Thus another strategy is required to further improve the strain recovery observed in the buckled beam. An alternative strategy to varying the initial dimensions of the SMA blade would be to add regions of higher thickness to the blade. In figure \ref{fig:FigCentBumpGeom}, the thickened region is placed in the centre of the SMA blade. By creating these regions of increased thickness, the SMA blade behaviour can be altered.
+The dimensions of the initial SMA blade is used to optimized the vertex displacement. The strain recovery observed by changing the initial blade dimensions to increase the vertical displacement does not allow for sufficient displacement that would trigger a self-switching. Thus another strategy is required to further improve the strain recovery observed in the buckled beam. An alternative strategy to varying the initial dimensions of the SMA blade would be to add regions of higher thickness to the blade. In figure \ref{fig:modechange}, the thickened region is placed in the centre of the SMA blade. By creating these regions of increased thickness, the SMA blade behaviour can be altered.
 
 \begin{figure}[H]
     \centering
@@ -136,20 +140,29 @@ The simulations show that the optimization of the dimensions of the initial SMA 
 The work initially strived to vary arbitrary parameters so as to observe an effect on the vertical displacement and thus, subsequently the beams ability to self-actuate. The initial simulations conclude that the parameters that influence the self-switching are difficult to pinpoint. In figure \ref{fig:modechangeafter}, the stable mode after heating can be observed. The simulations show that by creating a blade with variable thickness, the behaviour of the system can be greatly affected. The thickened regions divide the beam into segments, allowing regions of the beam which are curved in the same direction to be actuated while regions that are curved in the opposite direction to not be actuated. This effect has been seen in \cite{rossiter_self-switching_2006} where the same principle is used for electrically stimulated self-switching buckled beams. The segmentation allows regions that will actuate in opposite directions to be reduced and thus further improve the vertical displacement.
 
 \subsection{Test bench layout}
-The test bench that was designed to measure the time response of the SMA actuator is constructed as shown in figure~\ref{fig:test_bench}.
-\begin{figure}[H]
+\begin{wrapfigure}{r}{0.55\textwidth}
+	\vspace{-10pt}
 	\centering
 	\def\svgwidth{0.5\columnwidth}
 	\input{Figures/test_bench.pdf_tex}
 	\caption{Layout of the test bench}
+	\vspace{-5pt}
 	\label{fig:test_bench}
-\end{figure}
+\end{wrapfigure}
+
+The test bench that was designed to measure the time response of the SMA actuator is constructed as shown in figure~\ref{fig:test_bench}.
 
 An SMA blade is fixed between two electrodes which allow an electrical current to flow through the system. In this setup, the right electrode is part of the main body of the test bench while the left electrode is placed on a linear guide in order for it to be able to move unidirectionally only. Using this mobile part, the blade is preconstrained while in its M phase i.e. at low temperature. A force sensor is then placed behind the left electrode and fixed to the bench to measure the force applied by the SMA actuator while it tries to return to its initial shape during the transition from the M phase to the A phase, i.e. heating.
 
 \subsection{Thermal response enhancement}
-SMA actuators are known for their high work output density but they are also known to be quite slow in terms of time response. The aim of this work is to optimize the heating of the SMA in critical sections and thus improve the force output and actuation times of the SMA actuator. The SMA blades are actuated using Joule heating where a current is passed through the blade and the internal resistance is used to heat the blade. Thus, the geometry of the blade is critical when optimizing the time response of the shape memory effect. The design of the SMA blades were created based on four factors as defined below and shown in figure \ref{fig:BladeSample} while also keeping the volume of material used constant:
-\begin{enumerate}[label=\textbf{Factor $x_{\arabic*}$}:,align=left]
+The aim of this work is to optimize the heating of the SMA in critical sections and thus improve the force output and actuation times of the SMA actuator. The SMA blades are actuated using Joule heating where a current is passed through the blade and the internal resistance is used to heat the blade. Thus, the geometry of the blade is critical when optimizing the time response of the shape memory effect. The design of the SMA blades were created based on four factors as defined below and shown in figure \ref{fig:BladeSample} while also keeping the volume of material used constant:
+% \begin{itemize}
+%   \item Number of perforations along the width
+%   \item Position of the holes along the length
+%   \item Number of perforations along the length
+%   \item Orientation of the perforation
+% \end{itemize}
+\begin{enumerate}[label=\textbf{~~~~Factor $x_{\arabic*}$}:,align=left]
   \item Number of perforations along the width
   \item Position of the holes along the length
   \item Number of perforations along the length
@@ -157,20 +170,24 @@ SMA actuators are known for their high work output density but they are also kno
 \end{enumerate}
 The volume of material of the blade was also kept constant so as to have the same quantity of material to be heated during each run. This is controlled by ensuring that the thickness of blades are the same and that the total surface area is constant between each blade.
 
-\begin{figure}[H]
+\begin{wrapfigure}{r}{0.55\textwidth}
+	\vspace{-10pt}
 	\centering
 	\def\svgwidth{0.5\columnwidth}
 	\input{Figures/SMA_LaserCut_revB.pdf_tex}
 	\caption{Laser cut SMA blades based on the generated Hadamard matrix and the four factors.}
+	\vspace{-10pt}
 	\label{fig:BladeSample}
-\end{figure}
+\end{wrapfigure}
 The conventional option for the design of the test would be to design changes in the beam based on one factor at a time and observe the effect on the time response. This method is inefficient and time-consuming. Furthermore, the material is quite expensive, so extracting quality information for multiple construction factors from each blade is primordial. Thus a systematic design based on a Hadamard matrix that changes several variables simultaneously is performed. This allows to perform the analysis of the factor with respect to the time response in terms of the force-time derivative while reducing the number of runs and the quantity of material used.
-\begin{figure}[H]
+\begin{wrapfigure}{l}{0.55\textwidth}
+	\vspace{-10pt}
     \centering
-    \includegraphics[width=0.53\textwidth]{Figures/fig_bar.pdf}
+    \includegraphics[width=0.50\textwidth]{Figures/fig_bar.pdf}
     \caption{Graph showing the influence of each factor with respect to the residual of the models and the corresponding confidence values.}
+		\vspace{-10pt}
     \label{fig:bar1}
-\end{figure}
+\end{wrapfigure}
 
 A linear fit of the force derivative with respect to time $\frac{dF}{dt}$ was performed, in the form of $\frac{dF}{dt} \sim x_1+x_2+x_3+x_4 $ (in Wilkinson notation) for the Hadamard with one run, five runs, and the full fold-over. To check the significance of the SMA design parameters and their corresponding certainty, an Analysis of Variance (ANOVA) of this model is conducted.
 

@@ -1,7 +1,6 @@
 \section{Gantt Diagram}\label{sec:gantt}
 \vspace{-1mm}
-The chart proposes a 4-year course of the doctorate, considering Comissioning and Measuring (C\&M). Interesting conferences are shown and a small time buffer is considered.
-\todo{Make a gantt chart}
+The follow diagram proposes a 4-year course for the doctorate. Some relevant conferences are displayed within the diagram.
 %%PATO SUGGESTION
 \begin{figure}[tbh!]
 \centering
@@ -14,15 +13,15 @@ newline shortcut=true,
 bar label node/.append style={align=right},
 x unit=.7 cm,
 y unit chart=.4 cm,
-today rule/.style={draw=red, ultra thick},
+today rule/.style={draw=tableRed, ultra thick},
 milestone/.append style={fill=Goldenrod,rounded corners=.5pt,style={xscale=0.3}}%,
 %milestone left shift=-.2,
 ]{1}{16}
-\gantttitle{2017}{2}
+\gantttitle{\footnotesize{2017}}{1}
 \gantttitle{2018}{4}
 \gantttitle{2019}{4}
 \gantttitle{2020}{4}
-\gantttitle{2021}{2} \\
+\gantttitle{2021}{3} \\
 %%%CTI
 %\ganttbar[bar/.append style={fill=magenta}]{Modelling Bearingless}{1}{3}\\
 %\ganttbar[bar/.append style={fill=magenta}]{Conception and Optimization}{3}{6}\\
@@ -31,71 +30,75 @@ milestone/.append style={fill=Goldenrod,rounded corners=.5pt,style={xscale=0.3}}
 %%%
 %\ganttnewline[thick, blue]
 \ganttbar[
-bar/.append style={fill=lime}
-]{Literature Review}{1}{2}\\
+bar/.append style={fill=color1}
+]{\footnotesize{Literature Review}}{1}{2}\\
 
 \ganttbar[
-bar/.append style={fill=lime}
-]{Modeling Bearingless Drive}{2}{2}\\
-
-\ganttbar[
-bar/.append style={fill=ForestGreen}
-]{Draft Solution Portfolio}{3}{3}
+bar/.append style={fill=color1}
+]{\footnotesize{Modeling of SMAs}}{2}{3}
 
 \ganttmilestone[
 inline, milestone inline label node/.append style={right=1mm},
-milestone/.append style={fill=Cyan},
+milestone/.append style={fill=greenColor3},
 milestone left shift=.4,
 milestone right shift=.4,
-]{\href{http://www.ieee-ecce.org/2018/}{ECCE 18'}}{5}\\
+]{\href{http://www.icems2018.com/}{ICEMS 18'}}{4}\\
 
-\ganttbar[bar/.append style={fill=ForestGreen}]{FEM Analysis of Portfolio}{3}{4}
+\ganttbar[
+bar/.append style={fill=color2}
+]{\footnotesize{Catalogue of Bistable Solutions}}{3}{3}
 
 \ganttmilestone[
 inline, milestone inline label node/.append style={right=1mm},
-milestone/.append style={fill=Cyan},
+milestone/.append style={fill=greenColor3},
 milestone left shift=.6,
 milestone right shift=.6,
-]{\href{http://www.icems2018.com/}{ICEMS 18'}}{5}\\
+]{\href{http://www.icems2018.com/}{ICEMS 18'}}{4}\\
+
+\ganttbar[bar/.append style={fill=color2}]{\footnotesize{FEM Analysis of Systems}}{3}{4}
+
+\ganttmilestone[
+inline, milestone inline label node/.append style={right=1mm},
+milestone/.append style={fill=greenColor1},
+milestone left shift=.0,
+milestone right shift=.0,
+]{\href{https://ldia2019.epfl.ch/}{LDIA 19'}}{6}\\
 
 %\ganttmilestone[inline]{ICEMS}{5}\\
 \ganttbar[
-bar/.append style={fill=Orange}
-]{Sensor System Analysis}{5}{6}
+bar/.append style={fill=color3}
+]{\footnotesize{Time Response Enhancement}}{3}{6}
 
 \ganttmilestone[
 inline, milestone inline label node/.append style={right=1mm},
+milestone/.append style={fill=greenColor1},
 milestone left shift=.0,
 milestone right shift=.0,
-]{\href{http://www.ieee-icit2019.org/}{ICIT 19'}}{7}\\
+]{\href{http://www.aim2019.org/}{AIM 19'}}{8}\\
 
 \ganttbar[
-bar/.append style={fill=Orange}
-]{Power Electronics Analysis}{6}{8}
-\ganttmilestone[
-inline, milestone inline label node/.append style={right=1mm},
-milestone left shift=.0,
-milestone right shift=.0,
-]{\href{http://ieee-peds.org/}{PEDS 19'}}{9}\\
+bar/.append style={fill=color3}
+]{\footnotesize{SMA Integration Analysis}}{6}{8}\\
 
 \ganttbar[
-bar/.append style={fill=Orange}
-]{Assembly}{8}{8}\\
+bar/.append style={fill=color3}
+]{\footnotesize{Electrode Deposition Analysis}}{8}{9}\\
 
 \ganttbar[
-bar/.append style={fill=Red}
-]{C\&M of  1$^{\text{st.}}$ Prototype}{9}{11}
-\ganttmilestone[
-inline, milestone inline label node/.append style={right=1mm},
-milestone left shift=.0,
-milestone right shift=.0,
-]{\href{https://ias.ieee.org/events-conferences/conference-schedule.html}{APEC 20'}}{12}\\
+bar/.append style={fill=color4}
+]{\footnotesize{1$^{\text{st.}}$ Prototype}}{10}{12}\\
+
+% \ganttmilestone[
+% inline, milestone inline label node/.append style={right=1mm},
+% milestone left shift=.0,
+% milestone right shift=.0,
+% ]{\href{https://ias.ieee.org/events-conferences/conference-schedule.html}{APEC 20'}}{12}\\
 
 \ganttbar[
-bar/.append style={fill=Red}
-]{C\&M of  2$^{\text{nd.}}$ Prototype}{11}{13}\\
+bar/.append style={fill=color4}
+]{\footnotesize{Prototyping and Validation}}{12}{14}\\
 
-\ganttbar[bar/.append style={fill=Purple}]{Redaction}{15}{16}
+\ganttbar[bar/.append style={fill=color5}]{\footnotesize{Redaction}}{15}{16}
 \end{ganttchart}
 \label{fig:gantt}
 \vspace{-10mm}
