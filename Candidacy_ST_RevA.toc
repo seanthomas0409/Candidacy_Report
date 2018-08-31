@@ -1,5 +1,4 @@
 \contentsline {section}{\numberline {1}Name of Candidate and Provisional Thesis Title}{1}{section.1}
-\contentsline {paragraph}{Keywords :}{1}{section*.2}
 \contentsline {section}{\numberline {2}Research Field and Motivation}{1}{section.2}
 \contentsline {subsection}{\numberline {2.1}Motivation}{1}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Research Field}{1}{subsection.2.2}
@@ -17,6 +16,6 @@
 \contentsline {subsection}{\numberline {4.4}Test bench layout}{10}{subsection.4.4}
 \contentsline {subsection}{\numberline {4.5}Thermal response enhancement}{11}{subsection.4.5}
 \contentsline {section}{\numberline {5}Originality of the Research}{12}{section.5}
-\contentsline {section}{\numberline {6}Thesis Plan}{12}{section.6}
+\contentsline {section}{\numberline {6}Thesis Plan}{13}{section.6}
 \contentsline {section}{\numberline {7}Gantt Diagram}{13}{section.7}
 \contentsline {section}{\numberline {8}Publications}{13}{section.8}

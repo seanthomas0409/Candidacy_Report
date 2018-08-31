@@ -573,10 +573,6 @@ INPUT ./Figures/MSMA_princ.png
 INPUT ./Figures/MSMA_princ.png
 INPUT ./Figures/MSMA_princ.png
 INPUT ./Figures/MSMA_princ.png
-INPUT Figures/Vol_Req_Bar.pdf
-INPUT ./Figures/Vol_Req_Bar.pdf
-INPUT ./Figures/Vol_Req_Bar.pdf
-INPUT ./Figures/Vol_Req_Bar.pdf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7t.vf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7m.vf
@@ -587,6 +583,10 @@ INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7y.vf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmsy10.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7t.vf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm
+INPUT Figures/Vol_Req_Bar.pdf
+INPUT ./Figures/Vol_Req_Bar.pdf
+INPUT ./Figures/Vol_Req_Bar.pdf
+INPUT ./Figures/Vol_Req_Bar.pdf
 INPUT Sections/5_work_accomplished.tex
 INPUT Sections/5_work_accomplished.tex
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
@@ -730,10 +730,18 @@ INPUT Sections/7_thesis_plan.tex
 INPUT Sections/7_thesis_plan.tex
 INPUT Sections/8_gantt.tex
 INPUT Sections/8_gantt.tex
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplrc9t.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplrc9t.tfm
 INPUT Sections/9_publications.tex
 INPUT Sections/9_publications.tex
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplri9t.tfm
 INPUT Candidacy_ST_RevA.bbl
 INPUT Candidacy_ST_RevA.bbl
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplrc9t.vf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplrc8r.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplri9t.vf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmri.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplri8r.tfm
 INPUT Candidacy_ST_RevA.aux
 INPUT ./Candidacy_ST_RevA.out
 INPUT ./Candidacy_ST_RevA.out
@@ -758,6 +766,8 @@ INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmr.pfb
 INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmr.pfb
 INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmri.pfb
 INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmri.pfb
+INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/fpl/fplrc8a.pfb
+INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/fpl/fplrc8a.pfb
 INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb
 INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb
 INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb
