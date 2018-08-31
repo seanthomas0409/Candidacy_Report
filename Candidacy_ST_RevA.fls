@@ -376,6 +376,8 @@ INPUT C:/Program Files/MiKTeX 2.9/tex/latex/eso-pic/eso-pic.sty
 INPUT C:/Program Files/MiKTeX 2.9/tex/latex/eso-pic/eso-pic.sty
 INPUT C:/Program Files/MiKTeX 2.9/tex/latex/pdfpages/pppdftex.def
 INPUT C:/Program Files/MiKTeX 2.9/tex/latex/pdfpages/pppdftex.def
+INPUT C:/Program Files/MiKTeX 2.9/tex/latex/cleveref/cleveref.sty
+INPUT C:/Program Files/MiKTeX 2.9/tex/latex/cleveref/cleveref.sty
 INPUT TeXFiles/1_definitions.tex
 INPUT TeXFiles/1_definitions.tex
 INPUT Candidacy_ST_RevA.aux
@@ -531,15 +533,15 @@ INPUT ./Figures/PZT_grip.png
 INPUT ./Figures/PZT_grip.png
 INPUT ./Figures/PZT_grip.png
 INPUT ./Figures/PZT_grip.png
-INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7y.vf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmsy10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7m.vf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi10.tfm
 INPUT Figures/DEAP_flipflop.png
 INPUT ./Figures/DEAP_flipflop.png
 INPUT ./Figures/DEAP_flipflop.png
 INPUT ./Figures/DEAP_flipflop.png
 INPUT ./Figures/DEAP_flipflop.png
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7y.vf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmsy10.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7m.vf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi10.tfm
 INPUT Figures/IPMC_fig.eps
 INPUT ./Figures/IPMC_fig.eps
 INPUT ./Figures/IPMC_fig.eps
@@ -550,23 +552,22 @@ INPUT ./Figures/IPMC_fig-eps-converted-to.pdf
 INPUT ./Figures/IPMC_fig-eps-converted-to.pdf
 INPUT ./Figures/IPMC_fig-eps-converted-to.pdf
 INPUT ./Figures/IPMC_fig-eps-converted-to.pdf
-INPUT Figures/IPMC_buckle.png
-INPUT ./Figures/IPMC_buckle.png
-INPUT ./Figures/IPMC_buckle.png
-INPUT ./Figures/IPMC_buckle.png
-INPUT ./Figures/IPMC_buckle.png
+INPUT Figures/IPMC_buckle.eps
+INPUT ./Figures/IPMC_buckle.eps
+INPUT ./Figures/IPMC_buckle.eps
+INPUT ./Figures/IPMC_buckle-eps-converted-to.pdf
+INPUT ./Figures/IPMC_buckle-eps-converted-to.pdf
+INPUT ./Figures/IPMC_buckle.eps
+INPUT ./Figures/IPMC_buckle-eps-converted-to.pdf
+INPUT ./Figures/IPMC_buckle-eps-converted-to.pdf
+INPUT ./Figures/IPMC_buckle-eps-converted-to.pdf
+INPUT ./Figures/IPMC_buckle-eps-converted-to.pdf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmssbx10.tfm
 INPUT Figures/IPMC_segment.png
 INPUT ./Figures/IPMC_segment.png
 INPUT ./Figures/IPMC_segment.png
 INPUT ./Figures/IPMC_segment.png
 INPUT ./Figures/IPMC_segment.png
-INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7t.vf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7m.vf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmri.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplri8r.tfm
 INPUT Figures/MSMA_princ.png
 INPUT ./Figures/MSMA_princ.png
 INPUT ./Figures/MSMA_princ.png
@@ -576,165 +577,153 @@ INPUT Figures/Vol_Req_Bar.pdf
 INPUT ./Figures/Vol_Req_Bar.pdf
 INPUT ./Figures/Vol_Req_Bar.pdf
 INPUT ./Figures/Vol_Req_Bar.pdf
-INPUT Sections/5_work_accomplished.tex
-INPUT Sections/5_work_accomplished.tex
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7t.vf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7m.vf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmri.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi10.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplri8r.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7y.vf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmsy10.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7t.vf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm
+INPUT Sections/5_work_accomplished.tex
+INPUT Sections/5_work_accomplished.tex
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
-INPUT Figures/Phase_Transf_Diagram_noText.eps
-INPUT ./Figures/Phase_Transf_Diagram_noText.eps
-INPUT ./Figures/Phase_Transf_Diagram_noText.eps
-INPUT ./Figures/Phase_Transf_Diagram_noText-eps-converted-to.pdf
-INPUT ./Figures/Phase_Transf_Diagram_noText-eps-converted-to.pdf
-INPUT ./Figures/Phase_Transf_Diagram_noText.eps
-INPUT ./Figures/Phase_Transf_Diagram_noText-eps-converted-to.pdf
-INPUT ./Figures/Phase_Transf_Diagram_noText-eps-converted-to.pdf
-INPUT ./Figures/Phase_Transf_Diagram_noText-eps-converted-to.pdf
-INPUT ./Figures/Phase_Transf_Diagram_noText-eps-converted-to.pdf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr9t.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7m.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7m.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7y.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7y.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7v.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7v.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7t.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmr7t.tfm
-INPUT Figures/BuckledBeamStable.pdf_tex
-INPUT Figures/BuckledBeamStable.pdf_tex
-INPUT Figures/BuckledBeamStable.pdf
-INPUT ./Figures/BuckledBeamStable.pdf
-INPUT ./Figures/BuckledBeamStable.pdf
-INPUT ./Figures/BuckledBeamStable.pdf
-INPUT Figures/BuckledBeamStable.pdf
-INPUT ./Figures/BuckledBeamStable.pdf
-INPUT ./Figures/BuckledBeamStable.pdf
-INPUT ./Figures/BuckledBeamStable.pdf
-INPUT Figures/BuckledBeamStable.pdf
-INPUT ./Figures/BuckledBeamStable.pdf
-INPUT ./Figures/BuckledBeamStable.pdf
-INPUT ./Figures/BuckledBeamStable.pdf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmb7t.vf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmbx10.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmb7t.vf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmb.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplb8r.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmbx10.tfm
+INPUT Figures/Phase_Transf_Diagram_Text.eps
+INPUT ./Figures/Phase_Transf_Diagram_Text.eps
+INPUT ./Figures/Phase_Transf_Diagram_Text.eps
+INPUT ./Figures/Phase_Transf_Diagram_Text-eps-converted-to.pdf
+INPUT ./Figures/Phase_Transf_Diagram_Text-eps-converted-to.pdf
+INPUT ./Figures/Phase_Transf_Diagram_Text.eps
+INPUT ./Figures/Phase_Transf_Diagram_Text-eps-converted-to.pdf
+INPUT ./Figures/Phase_Transf_Diagram_Text-eps-converted-to.pdf
+INPUT ./Figures/Phase_Transf_Diagram_Text-eps-converted-to.pdf
+INPUT ./Figures/Phase_Transf_Diagram_Text-eps-converted-to.pdf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
+INPUT Figures/FigElongationStressStrain.pdf_tex
+INPUT Figures/FigElongationStressStrain.pdf_tex
+INPUT Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
+INPUT ./Figures/FigElongationStressStrain.pdf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7m.vf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmri.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi10.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplri8r.tfm
-INPUT Figures/BuckledBeamModes.pdf_tex
-INPUT Figures/BuckledBeamModes.pdf_tex
-INPUT Figures/BuckledBeamModes.pdf
-INPUT ./Figures/BuckledBeamModes.pdf
-INPUT ./Figures/BuckledBeamModes.pdf
-INPUT ./Figures/BuckledBeamModes.pdf
-INPUT Figures/BuckledBeamModes.pdf
-INPUT ./Figures/BuckledBeamModes.pdf
-INPUT ./Figures/BuckledBeamModes.pdf
-INPUT ./Figures/BuckledBeamModes.pdf
-INPUT Figures/BuckledBeamModes.pdf
-INPUT ./Figures/BuckledBeamModes.pdf
-INPUT ./Figures/BuckledBeamModes.pdf
-INPUT ./Figures/BuckledBeamModes.pdf
-INPUT Figures/BuckledBeamModes.pdf
-INPUT ./Figures/BuckledBeamModes.pdf
-INPUT ./Figures/BuckledBeamModes.pdf
-INPUT ./Figures/BuckledBeamModes.pdf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplr9t.vf
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmr.tfm
 INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplr8r.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7v.vf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmex10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmex10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmex10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmr.tfm
-INPUT Figures/FigElongationStressStrain.pdf_tex
-INPUT Figures/FigElongationStressStrain.pdf_tex
-INPUT Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/zplmb7t.tfm
-INPUT Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT ./Figures/FigElongationStressStrain.pdf
-INPUT Figures/FigSMABlade3x.pdf_tex
-INPUT Figures/FigSMABlade3x.pdf_tex
-INPUT Figures/FigSMABlade3x.pdf
-INPUT ./Figures/FigSMABlade3x.pdf
-INPUT ./Figures/FigSMABlade3x.pdf
-INPUT ./Figures/FigSMABlade3x.pdf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/public/mathpazo/zplmr7m.vf
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/mathpazo/fplmri.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi10.tfm
-INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplri8r.tfm
-INPUT Figures/FigCentBumpBefore2x.eps
-INPUT ./Figures/FigCentBumpBefore2x.eps
-INPUT ./Figures/FigCentBumpBefore2x.eps
-INPUT ./Figures/FigCentBumpBefore2x-eps-converted-to.pdf
-INPUT ./Figures/FigCentBumpBefore2x-eps-converted-to.pdf
-INPUT ./Figures/FigCentBumpBefore2x.eps
-INPUT ./Figures/FigCentBumpBefore2x-eps-converted-to.pdf
-INPUT ./Figures/FigCentBumpBefore2x-eps-converted-to.pdf
-INPUT ./Figures/FigCentBumpBefore2x-eps-converted-to.pdf
-INPUT ./Figures/FigCentBumpBefore2x-eps-converted-to.pdf
-INPUT Figures/FigCentBumpAfter2x.eps
-INPUT ./Figures/FigCentBumpAfter2x.eps
-INPUT ./Figures/FigCentBumpAfter2x.eps
-INPUT ./Figures/FigCentBumpAfter2x-eps-converted-to.pdf
-INPUT ./Figures/FigCentBumpAfter2x-eps-converted-to.pdf
-INPUT ./Figures/FigCentBumpAfter2x.eps
-INPUT ./Figures/FigCentBumpAfter2x-eps-converted-to.pdf
-INPUT ./Figures/FigCentBumpAfter2x-eps-converted-to.pdf
-INPUT ./Figures/FigCentBumpAfter2x-eps-converted-to.pdf
-INPUT ./Figures/FigCentBumpAfter2x-eps-converted-to.pdf
-INPUT Figures/test_bench.pdf_tex
-INPUT Figures/test_bench.pdf_tex
-INPUT Figures/test_bench.pdf
-INPUT ./Figures/test_bench.pdf
-INPUT ./Figures/test_bench.pdf
-INPUT ./Figures/test_bench.pdf
-INPUT Figures/SMA_LaserCut_revB.pdf_tex
-INPUT Figures/SMA_LaserCut_revB.pdf_tex
-INPUT Figures/SMA_LaserCut_revB.pdf
-INPUT ./Figures/SMA_LaserCut_revB.pdf
-INPUT ./Figures/SMA_LaserCut_revB.pdf
-INPUT ./Figures/SMA_LaserCut_revB.pdf
-INPUT Figures/SMA_LaserCut_revB.pdf
-INPUT ./Figures/SMA_LaserCut_revB.pdf
-INPUT ./Figures/SMA_LaserCut_revB.pdf
-INPUT ./Figures/SMA_LaserCut_revB.pdf
-INPUT Figures/fig_bar.pdf
-INPUT ./Figures/fig_bar.pdf
-INPUT ./Figures/fig_bar.pdf
-INPUT ./Figures/fig_bar.pdf
+INPUT Figures/BuckledBeamStable.pdf_tex
+INPUT Figures/BuckledBeamStable.pdf_tex
+INPUT Figures/BuckledBeamStable.pdf
+INPUT ./Figures/BuckledBeamStable.pdf
+INPUT ./Figures/BuckledBeamStable.pdf
+INPUT ./Figures/BuckledBeamStable.pdf
+INPUT Figures/BuckledBeamStable.pdf
+INPUT ./Figures/BuckledBeamStable.pdf
+INPUT ./Figures/BuckledBeamStable.pdf
+INPUT ./Figures/BuckledBeamStable.pdf
+INPUT Figures/BuckledBeamStable.pdf
+INPUT ./Figures/BuckledBeamStable.pdf
+INPUT ./Figures/BuckledBeamStable.pdf
+INPUT ./Figures/BuckledBeamStable.pdf
+INPUT Figures/BuckledBeamModes.pdf_tex
+INPUT Figures/BuckledBeamModes.pdf_tex
+INPUT Figures/BuckledBeamModes.pdf
+INPUT ./Figures/BuckledBeamModes.pdf
+INPUT ./Figures/BuckledBeamModes.pdf
+INPUT ./Figures/BuckledBeamModes.pdf
+INPUT Figures/BuckledBeamModes.pdf
+INPUT ./Figures/BuckledBeamModes.pdf
+INPUT ./Figures/BuckledBeamModes.pdf
+INPUT ./Figures/BuckledBeamModes.pdf
+INPUT Figures/BuckledBeamModes.pdf
+INPUT ./Figures/BuckledBeamModes.pdf
+INPUT ./Figures/BuckledBeamModes.pdf
+INPUT ./Figures/BuckledBeamModes.pdf
+INPUT Figures/BuckledBeamModes.pdf
+INPUT ./Figures/BuckledBeamModes.pdf
+INPUT ./Figures/BuckledBeamModes.pdf
+INPUT ./Figures/BuckledBeamModes.pdf
+INPUT Figures/FigSMABlade3x_Edit.pdf_tex
+INPUT Figures/FigSMABlade3x_Edit.pdf_tex
+INPUT Figures/FigSMABlade3x_Edit.pdf
+INPUT ./Figures/FigSMABlade3x_Edit.pdf
+INPUT ./Figures/FigSMABlade3x_Edit.pdf
+INPUT ./Figures/FigSMABlade3x_Edit.pdf
+INPUT Figures/FigSMABlade3x_Edit.pdf
+INPUT ./Figures/FigSMABlade3x_Edit.pdf
+INPUT ./Figures/FigSMABlade3x_Edit.pdf
+INPUT ./Figures/FigSMABlade3x_Edit.pdf
+INPUT Figures/FigCentBumpTransformation.eps
+INPUT ./Figures/FigCentBumpTransformation.eps
+INPUT ./Figures/FigCentBumpTransformation.eps
+INPUT ./Figures/FigCentBumpTransformation-eps-converted-to.pdf
+INPUT ./Figures/FigCentBumpTransformation-eps-converted-to.pdf
+INPUT ./Figures/FigCentBumpTransformation.eps
+INPUT ./Figures/FigCentBumpTransformation-eps-converted-to.pdf
+INPUT ./Figures/FigCentBumpTransformation-eps-converted-to.pdf
+INPUT ./Figures/FigCentBumpTransformation-eps-converted-to.pdf
+INPUT ./Figures/FigCentBumpTransformation-eps-converted-to.pdf
+INPUT Figures/Test_Bench_Sample_Refactor.pdf_tex
+INPUT Figures/Test_Bench_Sample_Refactor.pdf_tex
+INPUT Figures/Test_Bench_Sample_Refactor.pdf
+INPUT ./Figures/Test_Bench_Sample_Refactor.pdf
+INPUT ./Figures/Test_Bench_Sample_Refactor.pdf
+INPUT ./Figures/Test_Bench_Sample_Refactor.pdf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/tfm/adobe/palatino/pplb9t.tfm
+INPUT Figures/TB_Measurements.eps
+INPUT ./Figures/TB_Measurements.eps
+INPUT ./Figures/TB_Measurements.eps
+INPUT ./Figures/TB_Measurements-eps-converted-to.pdf
+INPUT ./Figures/TB_Measurements-eps-converted-to.pdf
+INPUT ./Figures/TB_Measurements.eps
+INPUT ./Figures/TB_Measurements-eps-converted-to.pdf
+INPUT ./Figures/TB_Measurements-eps-converted-to.pdf
+INPUT ./Figures/TB_Measurements-eps-converted-to.pdf
+INPUT ./Figures/TB_Measurements-eps-converted-to.pdf
+INPUT Figures/Had_RawData.eps
+INPUT ./Figures/Had_RawData.eps
+INPUT ./Figures/Had_RawData.eps
+INPUT ./Figures/Had_RawData-eps-converted-to.pdf
+INPUT ./Figures/Had_RawData-eps-converted-to.pdf
+INPUT ./Figures/Had_RawData.eps
+INPUT ./Figures/Had_RawData-eps-converted-to.pdf
+INPUT ./Figures/Had_RawData-eps-converted-to.pdf
+INPUT ./Figures/Had_RawData-eps-converted-to.pdf
+INPUT ./Figures/Had_RawData-eps-converted-to.pdf
+INPUT C:/Program Files/MiKTeX 2.9/fonts/vf/adobe/palatino/pplb9t.vf
 INPUT Sections/6_originality.tex
 INPUT Sections/6_originality.tex
 INPUT Sections/7_thesis_plan.tex
@@ -749,8 +738,6 @@ INPUT Candidacy_ST_RevA.aux
 INPUT ./Candidacy_ST_RevA.out
 INPUT ./Candidacy_ST_RevA.out
 INPUT C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb
-INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb
 INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb
 INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb
 INPUT C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb

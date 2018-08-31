@@ -5,9 +5,6 @@ J.~Damodharan, A.~Sreedharan, and T.~Ramalingam, ``A {Review} on {Smart}
   {Materials}, {Types} and {Applications},'' {\em International Journal of
   Engineering Technology Science and Research}, vol.~5, p.~5, Mar. 2018.
 
-\bibitem{noauthor_p-604_2018}
-``P-604 {Compact} {PiezoMove} {Linear} {Actuator} {Datasheet},'' Apr. 2018.
-
 \bibitem{liang_design_2018}
 C.~Liang, F.~Wang, B.~Shi, Z.~Huo, K.~Zhou, Y.~Tian, and D.~Zhang, ``Design and
   control of a novel asymmetrical piezoelectric actuated microgripper for
@@ -32,23 +29,20 @@ D.~Ruiz and O.~Sigmund, ``Optimal design of robust piezoelectric microgrippers
 
 \bibitem{bar-cohen_artificial_2005}
 Y.~Bar-Cohen, ``Artificial muscles using electroactive polymers ({EAP}):
-  capabilities, challenges and potential,'' 2005.
+  capabilities, challenges and potential,'' {\em Pasadena, CA : Jet Propulsion
+  Laboratory, National Aeronautics and Space Administration}, 2005.
+
+\bibitem{plante_compliant_2005}
+J.-S. Plante, M.~Santer, S.~Dubowsky, and S.~Pellegrino, ``Compliant {Bistable}
+  {Dielectric} {Elastomer} {Actuators} for {Binary} {Mechatronic} {Systems},''
+  in {\em Mechanisms and {Robotics} {Conference}}, vol.~7, pp.~121--126, Jan.
+  2005.
 
 \bibitem{kornbluh_electroactive_2004}
 R.~D. Kornbluh, R.~Pelrine, H.~Prahlad, and R.~Heydt, ``Electroactive polymers:
   an emerging technology for {MEMS},'' in {\em {MEMS}/{MOEMS} {Components} and
   {Their} {Applications}}, vol.~5344, pp.~13--28, International Society for
   Optics and Photonics, Jan. 2004.
-
-\bibitem{thummala_analysis_2012}
-P.~Thummala, L.~Huang, Z.~Zhang, and M.~A.~E. Andersen, ``Analysis of
-  {Dielectric} {Electro} {Active} {Polymer} actuator and its high voltage
-  driving circuits,'' pp.~458--461, IEEE, June 2012.
-
-\bibitem{plante_compliant_2005}
-J.-S. Plante, M.~Santer, S.~Dubowsky, and S.~Pellegrino, ``Compliant {Bistable}
-  {Dielectric} {Elastomer} {Actuators} for {Binary} {Mechatronic} {Systems},''
-  pp.~121--126, Jan. 2005.
 
 \bibitem{chen_preliminary_2017}
 Y.~Chen, R.~Vertechy, and M.~Fontana, ``Preliminary results on the fatigue life
@@ -116,10 +110,11 @@ J.~Mohd~Jani, M.~Leary, A.~Subic, and M.~A. Gibson, ``A review of shape memory
   alloy research, applications and opportunities,'' {\em Materials \& Design
   (1980-2015)}, vol.~56, pp.~1078--1113, Apr. 2014.
 
-\bibitem{tomozawa_characterization_2005}
+\bibitem{tomozawa2005}
 M.~Tomozawa, K.~Okutsu, H.~Y. Kim, and S.~Miyazaki, ``Characterization of
-  {High}-{Speed} {Microactuator} {Utilizing} {Shape} {Memory} {Alloy} {Thin}
-  {Films},'' 2005.
+  high-speed microactuator utilizing shape memory alloy thin films,'' in {\em
+  PRICM-5}, vol.~475 of {\em Materials Science Forum}, pp.~2037--2042, Trans
+  Tech Publications, 1 2005.
 
 \bibitem{vitushinsky_bistable_2009}
 R.~Vitushinsky, S.~Schmitz, and A.~Ludwig, ``Bistable {Thin}-{Film} {Shape}
@@ -156,23 +151,24 @@ H.~E. Karaca, I.~Karaman, B.~Basaran, Y.~Ren, Y.~I. Chumlyakov, and H.~J.
   {Large} {Work} {Output},'' {\em Advanced Functional Materials}, vol.~19,
   pp.~983--998, Apr. 2009.
 
-\bibitem{timoshenko_theory_1962}
-S.~P. Timoshenko, J.~M. Gere, and W.~Prager, ``Theory of {Elastic} {Stability},
-  {Second} {Edition},'' {\em Journal of Applied Mechanics}, vol.~29, no.~1,
-  p.~220, 1962.
-
 \bibitem{divringi_advanced_2009}
 K.~Divringi and C.~Ozcan, ``Advanced {Shape} {Memory} {Alloy} {Material}
   {Models} for {ANSYS},'' tech. rep., Ozen Engineering Inc, 2009.
 
 \bibitem{hongchun_xie_design_2007}
-O.~Hongchun~Xie, ``Design, simulation and experimental study of shape memory
+O.~Hongchun~Xie, {\em Design, simulation and experimental study of shape memory
   alloy and micro-motor activated high pressure optical cell for bio-physical
-  studies,'' p.~180, Oct. 2007.
+  studies}.
+\newblock {PhD} {Thesis}, Drexel University, Philadelphia, Oct. 2007.
 
 \bibitem{liu_asymmetry_1998}
 Y.~Liu, Z.~Xie, J.~Van~Humbeeck, and L.~Delaey, ``Asymmetry of stress–strain
   curves under tension and compression for {NiTi} shape memory alloys,'' {\em
   Acta Materialia}, vol.~46, pp.~4325--4338, July 1998.
+
+\bibitem{timoshenko_theory_1962}
+S.~P. Timoshenko, J.~M. Gere, and W.~Prager, ``Theory of {Elastic} {Stability},
+  {Second} {Edition},'' {\em Journal of Applied Mechanics}, vol.~29, no.~1,
+  p.~220, 1962.
 
 \end{thebibliography}
